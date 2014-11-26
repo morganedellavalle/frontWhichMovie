@@ -10,11 +10,11 @@ var EmployeeService = function() {
     }
 
     this.findById = function(id) {
-        return $.ajax({url: url + "/" + id});
+        return $.ajax({url: url + "/" + id, contentType: "application/json; charset=utf-8"});
     }
 
     this.findByName = function(searchKey) {
-        return $.ajax({url: url + "?name=" + searchKey});
+        return $.ajax({url: url + "?name=" + searchKey, contentType: "application/json; charset=utf-8"});
     }
 
 

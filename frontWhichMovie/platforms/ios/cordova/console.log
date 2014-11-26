@@ -145,3 +145,157 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 
 2014-11-26 15:31:17.581 WhichMovie[10759:323590] Resetting plugins due to page load.
 2014-11-26 15:31:17.637 WhichMovie[10759:323590] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/094B8F0D-7DDA-484F-A8FC-57055C4580DC/WhichMovie.app/www/index.html
+2014-11-26 15:40:37.114 WhichMovie[10930:328442] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/E7588D6C-C1C1-4EB8-A7B4-E3A6A82182F1/Library/Cookies/Cookies.binarycookies
+2014-11-26 15:40:37.220 WhichMovie[10930:328442] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 15:40:37.220 WhichMovie[10930:328442] Multi-tasking -> Device: YES, App: YES
+2014-11-26 15:40:37.221 WhichMovie[10930:328442] Unlimited access to network resources
+2014-11-26 15:40:37.225 WhichMovie[10930:328442] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 15:40:37.590 WhichMovie[10930:328442] Resetting plugins due to page load.
+2014-11-26 15:40:37.639 WhichMovie[10930:328442] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/E38F4995-A4A7-409F-B47B-01AD4A9A683E/WhichMovie.app/www/index.html
+2014-11-26 15:42:01.355 WhichMovie[11085:329396] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/ABEFEF3D-369B-4348-B2A9-492F48DBFB83/Library/Cookies/Cookies.binarycookies
+2014-11-26 15:42:01.465 WhichMovie[11085:329396] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 15:42:01.466 WhichMovie[11085:329396] Multi-tasking -> Device: YES, App: YES
+2014-11-26 15:42:01.467 WhichMovie[11085:329396] Unlimited access to network resources
+2014-11-26 15:42:01.470 WhichMovie[11085:329396] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 15:42:01.723 WhichMovie[11085:329396] Resetting plugins due to page load.
+2014-11-26 15:42:01.786 WhichMovie[11085:329396] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/A262835E-3895-4E89-AE08-37DD32D9B00D/WhichMovie.app/www/index.html
+2014-11-26 15:42:51.324 WhichMovie[11230:330006] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/4613AB7E-FF49-4D29-A861-F8C8DDC7199A/Library/Cookies/Cookies.binarycookies
+2014-11-26 15:42:51.434 WhichMovie[11230:330006] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 15:42:51.435 WhichMovie[11230:330006] Multi-tasking -> Device: YES, App: YES
+2014-11-26 15:42:51.436 WhichMovie[11230:330006] Unlimited access to network resources
+2014-11-26 15:42:51.439 WhichMovie[11230:330006] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 15:42:51.691 WhichMovie[11230:330006] Resetting plugins due to page load.
+2014-11-26 15:42:51.752 WhichMovie[11230:330006] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/5571262A-5EA2-447D-A8DF-F0F38968EAB2/WhichMovie.app/www/index.html
+2014-11-26 15:45:03.156 WhichMovie[11384:331186] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/C0D02F39-D74C-4721-9D98-642CDB477F41/Library/Cookies/Cookies.binarycookies
+2014-11-26 15:45:03.265 WhichMovie[11384:331186] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 15:45:03.265 WhichMovie[11384:331186] Multi-tasking -> Device: YES, App: YES
+2014-11-26 15:45:03.266 WhichMovie[11384:331186] Unlimited access to network resources
+2014-11-26 15:45:03.269 WhichMovie[11384:331186] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 15:45:03.518 WhichMovie[11384:331186] Resetting plugins due to page load.
+2014-11-26 15:45:03.577 WhichMovie[11384:331186] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/DBFC368A-5A8D-4D25-9B9D-905B63293E92/WhichMovie.app/www/index.html
+2014-11-26 15:45:24.771 WhichMovie[11532:331775] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/09147FC5-BB67-46DF-A2BE-195E610FCA31/Library/Cookies/Cookies.binarycookies
+2014-11-26 15:45:24.881 WhichMovie[11532:331775] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 15:45:24.881 WhichMovie[11532:331775] Multi-tasking -> Device: YES, App: YES
+2014-11-26 15:45:24.883 WhichMovie[11532:331775] Unlimited access to network resources
+2014-11-26 15:45:24.885 WhichMovie[11532:331775] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 15:45:25.139 WhichMovie[11532:331775] Resetting plugins due to page load.
+2014-11-26 15:45:25.199 WhichMovie[11532:331775] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/B467C738-9E2B-4631-B614-D5B5C7DEC282/WhichMovie.app/www/index.html
+2014-11-26 15:47:57.584 WhichMovie[11689:333121] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/C34F1ECC-F9E3-49D4-88F9-FC53F5416A78/Library/Cookies/Cookies.binarycookies
+2014-11-26 15:47:57.703 WhichMovie[11689:333121] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 15:47:57.704 WhichMovie[11689:333121] Multi-tasking -> Device: YES, App: YES
+2014-11-26 15:47:57.705 WhichMovie[11689:333121] Unlimited access to network resources
+2014-11-26 15:47:57.708 WhichMovie[11689:333121] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 15:47:57.980 WhichMovie[11689:333121] Resetting plugins due to page load.
+2014-11-26 15:47:58.029 WhichMovie[11689:333121] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/0A5F11C1-12CB-4D71-9529-E8CF4C760695/WhichMovie.app/www/index.html
+2014-11-26 15:48:40.819 WhichMovie[11836:333756] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/7448B964-22A3-4E88-B74A-1DF162BCE2F3/Library/Cookies/Cookies.binarycookies
+2014-11-26 15:48:40.931 WhichMovie[11836:333756] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 15:48:40.932 WhichMovie[11836:333756] Multi-tasking -> Device: YES, App: YES
+2014-11-26 15:48:40.933 WhichMovie[11836:333756] Unlimited access to network resources
+2014-11-26 15:48:40.936 WhichMovie[11836:333756] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 15:48:41.202 WhichMovie[11836:333756] Resetting plugins due to page load.
+2014-11-26 15:48:41.253 WhichMovie[11836:333756] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/9AF20264-CDEA-43B0-AE1E-624A95DDEFFE/WhichMovie.app/www/index.html
+2014-11-26 15:56:04.068 WhichMovie[12001:337143] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/A79C58D7-35BF-427D-AE66-E854D711BC00/Library/Cookies/Cookies.binarycookies
+2014-11-26 15:56:04.189 WhichMovie[12001:337143] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 15:56:04.189 WhichMovie[12001:337143] Multi-tasking -> Device: YES, App: YES
+2014-11-26 15:56:04.191 WhichMovie[12001:337143] Unlimited access to network resources
+2014-11-26 15:56:04.194 WhichMovie[12001:337143] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 15:56:04.665 WhichMovie[12001:337143] Resetting plugins due to page load.
+2014-11-26 15:56:04.715 WhichMovie[12001:337143] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/952717E3-E99B-4BFD-81AE-7BBC58B0E14D/WhichMovie.app/www/index.html
+2014-11-26 16:51:56.401 WhichMovie[12421:355307] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/FABB4DDF-98CE-44EF-89AF-2FAD34D62788/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:51:56.506 WhichMovie[12421:355307] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:51:56.507 WhichMovie[12421:355307] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:51:56.508 WhichMovie[12421:355307] Unlimited access to network resources
+2014-11-26 16:51:56.510 WhichMovie[12421:355307] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:51:58.358 WhichMovie[12421:355307] Resetting plugins due to page load.
+2014-11-26 16:51:58.638 WhichMovie[12421:355307] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/C891B742-6F77-4469-AFB0-888715EBAF6D/WhichMovie.app/www/index.html
+2014-11-26 16:52:27.941 WhichMovie[12576:356006] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/394B4A01-419D-4A16-A257-F13ADEBEA028/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:52:28.055 WhichMovie[12576:356006] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:52:28.056 WhichMovie[12576:356006] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:52:28.057 WhichMovie[12576:356006] Unlimited access to network resources
+2014-11-26 16:52:28.059 WhichMovie[12576:356006] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:52:28.451 WhichMovie[12576:356006] Resetting plugins due to page load.
+2014-11-26 16:52:28.529 WhichMovie[12576:356006] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/4A98AF7C-CC60-46DB-97E1-9733D582A919/WhichMovie.app/www/index.html
+2014-11-26 16:53:50.328 WhichMovie[12729:357134] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Data/Application/9F512F9D-0AC7-48E4-AD10-0C9D245028A6/Library/Cookies/Cookies.binarycookies
+2014-11-26 16:53:50.447 WhichMovie[12729:357134] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-26 16:53:50.448 WhichMovie[12729:357134] Multi-tasking -> Device: YES, App: YES
+2014-11-26 16:53:50.449 WhichMovie[12729:357134] Unlimited access to network resources
+2014-11-26 16:53:50.452 WhichMovie[12729:357134] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-26 16:53:50.709 WhichMovie[12729:357134] Resetting plugins due to page load.
+2014-11-26 16:53:50.772 WhichMovie[12729:357134] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/683AD840-F583-4611-8529-83676C928D31/WhichMovie.app/www/index.html
