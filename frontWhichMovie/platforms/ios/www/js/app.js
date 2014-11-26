@@ -8,13 +8,13 @@
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
-    $('.search-key').on('keyup', findByName);
-    $('.help-btn').on('click', function() {
-        alert("Employee Directory v3.4");
-    });
-
+    // $('.search-key').on('keyup', findByName);
+    // $('.help-btn').on('click', function() {
+    //     alert("Employee Directory v3.4");
+    // });
+    FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
-    function findByName() {
+/*    function findByName() {
         service.findByName($('.search-key').val()).done(function (employees) {
             var l = employees.length;
             var e;
@@ -26,4 +26,4 @@
         });
     }
 
-}());
+}());*/*/
