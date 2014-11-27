@@ -1,9 +1,10 @@
-var HomeView = function (service) {
-	var films
+var FilmListView = function (service) {
+	var films;
 
     this.initialize = function() {
     this.$el = $('<div/>');
     //this.$el.on(this.findAll);
+    this.findAll();
     this.render();
     };
 

@@ -3,21 +3,34 @@
 
     console.log("Coucou from app.js");
     HomeView.prototype.template = Handlebars.compile($("#home-tpl").html());
+    FilmListView.prototype.template = 
+            Handlebars.compile($("#film-list-tpl").html());
     /* ---------------------------------- Local Variables ---------------------------------- */
 
     //var filmListTpl = Handlebars.compile($("#film-list-tpl").html());
     var service = new FilmService();
     //var films;
+
+
     service.initialize().done(function () {
+        router.addRoute('', function() {
+             $('body').html(new HomeView().render().$el);
+        });
         
         console.log("Service initialized Coucou !");
-        $('body').html(new HomeView(service).render().$el);
+
+        // router.addRoute( '', function() {
+        //     service.findAll().done(function() {
+        //         $('body').html(new FilmListView(service).render().$el);
+        //      });
+        // });
         //service.findAll().done(function(data) {
             //films = data;
             //console.log("films :", films);
             //console.log("show you are here");
         //});
     //    renderHomeView();
+        router.start();
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
@@ -25,6 +38,12 @@
     // $('.help-btn').on('click', function() {
     //     alert("Employee Directory v3.4");
     // });
+
+        
+    $('.btn-primary').on('click', function() {
+        console.log("coucou");
+        $('body').html(new FilmListView(service).render().$el);
+    });
 
     FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
