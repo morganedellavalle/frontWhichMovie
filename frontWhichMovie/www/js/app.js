@@ -4,9 +4,13 @@
     console.log("Coucou from app.js");
     /* ---------------------------------- Local Variables ---------------------------------- */
     var service = new FilmService();
+    var films;
     service.initialize().done(function () {
         console.log("Service initialized Coucou !");
-        var films = service.findAll();
+        service.findAll().done(function(data) {
+            films = data;
+            console.log("films :", films);
+        });
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
