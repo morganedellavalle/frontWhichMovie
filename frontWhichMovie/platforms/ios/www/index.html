@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link href="assets/ratchet/css/ratchet.css" rel="stylesheet">
+	<link href="assets/css/styles.css" rel="stylesheet">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body>
 
 <!-- <p><button class="help-btn">Help</button></p> -->
-<center>
-<div>
-<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=70% auto />
-<h1><button class='btn btn-primary', style="width:130px"> Films </button></h1> 
-</div>
-</center> 
-<!-- <div class='search-view'>
-    <input class='search-key' type="search" placeholder="Enter name"/>
-    <ul class='list employee-list'></ul>
-</div> -->
+<script id="home-tpl" type="text/template">
+	<center>
+		<div>
+			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=70% auto />
+			<h1><button class='btn btn-primary', style="width:130px"> Films </button></h1> 
+		</div>
+	</center> 
+</script>
+
+
+<script src="lib/handlebars.js"></script>
 <script src="lib/fastclick.js"></script>
 <script src="cordova.js"></script>
 <script src="lib/jquery.js"></script>

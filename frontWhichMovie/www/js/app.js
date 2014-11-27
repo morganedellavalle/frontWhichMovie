@@ -3,9 +3,12 @@
 
     console.log("Coucou from app.js");
     /* ---------------------------------- Local Variables ---------------------------------- */
+    var homeTpl = Handlebars.compile($("#home-tpl").html());
     var service = new FilmService();
     var films;
     service.initialize().done(function () {
+        console.log("Service initialized Coucou 1!")
+        renderHomeView();
         console.log("Service initialized Coucou !");
         service.findAll().done(function(data) {
             films = data;
@@ -18,18 +21,23 @@
     // $('.help-btn').on('click', function() {
     //     alert("Employee Directory v3.4");
     // });
+
     FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
-/*    function findByName() {
-        service.findByName($('.search-key').val()).done(function (employees) {
-            var l = employees.length;
-            var e;
-            $('.employee-list').empty();
-            for (var i = 0; i < l; i++) {
-                e = employees[i];
-                $('.employee-list').append('<li><a href="#employees/' + e.id + '">' + e.firstName + ' ' + e.lastName + '</a></li>');
-            }
-        });
+    function renderHomeView() {
+    $('body').html(homeTpl());
+    //$('.search-key').on('keyup', findByName);
     }
-*/
+    // function findByName() {
+    //     service.findByName($('.search-key').val()).done(function (employees) {
+    //         var l = employees.length;
+    //         var e;
+    //         $('.employee-list').empty();
+    //         for (var i = 0; i < l; i++) {
+    //             e = employees[i];
+    //             $('.employee-list').append('<li><a href="#employees/' + e.id + '">' + e.firstName + ' ' + e.lastName + '</a></li>');
+    //         }
+    //     });
+    // }
+
 }());

@@ -20,8 +20,4 @@ var FilmService = function() {
     this.findAll = function() {
         return $.ajax({url: url, contentType: "application/json; charset=utf-8"});
     }
-
-
-
-
 }
