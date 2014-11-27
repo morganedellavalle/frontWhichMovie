@@ -2,14 +2,22 @@
 (function () {
 
     console.log("Coucou from app.js");
+    HomeView.prototype.template = Handlebars.compile($("#home-tpl").html());
     /* ---------------------------------- Local Variables ---------------------------------- */
-    var homeTpl = Handlebars.compile($("#home-tpl").html());
+
+    //var filmListTpl = Handlebars.compile($("#film-list-tpl").html());
     var service = new FilmService();
+    var films;
     service.initialize().done(function () {
-        console.log("Service initialized Coucou 1!")
-        renderHomeView();
+        
         console.log("Service initialized Coucou !");
-        var films = service.findAll();
+        $('body').html(new HomeView(service).render().$el);
+        service.findAll().done(function(data) {
+            films = data;
+            console.log("films :", films);
+            console.log("show you are here");
+        });
+    //    renderHomeView();
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
@@ -20,10 +28,10 @@
 
     FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
-    function renderHomeView() {
-    $('body').html(homeTpl());
-    //$('.search-key').on('keyup', findByName);
-    }
+    // function renderHomeView() {
+    // $('body').html(homeTpl());
+    // //$('.search-key').on('keyup', findByName);
+    // }
     // function findByName() {
     //     service.findByName($('.search-key').val()).done(function (employees) {
     //         var l = employees.length;

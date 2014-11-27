@@ -10,7 +10,7 @@ var FilmService = function() {
     }
 
     this.findById = function(id) {
-        return $.ajax({url: url + "/" + id, contentType: "application/json; charset=utf-8"});
+        return $.getJSON(url + "/" + id + ".json");
     }
 
 /*    this.findByName = function(searchKey) {
@@ -18,6 +18,6 @@ var FilmService = function() {
     }
 */
     this.findAll = function() {
-        return $.ajax({url: url, contentType: "application/json; charset=utf-8"});
+        return $.getJSON(url + ".json");
     }
 }
