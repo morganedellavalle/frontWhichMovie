@@ -1,10 +1,12 @@
 // We use an "Immediate Function" to initialize the application to avoid leaving anything behind in the global scope
 (function () {
 
+    console.log("Coucou from app.js");
     /* ---------------------------------- Local Variables ---------------------------------- */
-    var service = new EmployeeService();
+    var service = new FilmService();
     service.initialize().done(function () {
-        console.log("Service initialized");
+        console.log("Service initialized Coucou !");
+        var films = service.findAll();
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
@@ -25,5 +27,5 @@
             }
         });
     }
-
-}());*/*/
+*/
+}());
