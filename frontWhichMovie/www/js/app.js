@@ -4,16 +4,18 @@
     console.log("Coucou from app.js");
     /* ---------------------------------- Local Variables ---------------------------------- */
     var homeTpl = Handlebars.compile($("#home-tpl").html());
+    var filmListTpl = Handlebars.compile($("#film-list-tpl").html());
     var service = new FilmService();
     var films;
     service.initialize().done(function () {
-        console.log("Service initialized Coucou 1!")
-        renderHomeView();
+        
         console.log("Service initialized Coucou !");
         service.findAll().done(function(data) {
             films = data;
             console.log("films :", films);
+            console.log("show you are here");
         });
+        renderHomeView();
     });
 
     /* --------------------------------- Event Registration -------------------------------- */

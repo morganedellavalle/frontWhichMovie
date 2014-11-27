@@ -18,6 +18,33 @@
 	</center> 
 </script>
 
+<script id="film-list-tpl" type="text/template">
+    <ul class="table-view">
+        {{#each this}}
+        <li class="table-view-cell media">
+          <a href="#films/{{ id }}">
+              console.log("et toi")
+              <img class="media-object pull-left" src="{{affiche}}">
+              <div class="media-body">
+                  {{titre}} {{realisateur}}
+                  <p>{{acteurs}}</p>
+              </div>
+          </a>
+        </li>
+        {{/each}}
+    </ul>
+</script>
+
+
+
+
+
+
+
+
+
+</script>
+
 
 <script src="lib/handlebars.js"></script>
 <script src="lib/fastclick.js"></script>
