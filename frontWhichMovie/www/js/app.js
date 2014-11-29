@@ -3,7 +3,7 @@
 
     console.log("Coucou from app.js");
     HomeView.prototype.template = Handlebars.compile($("#home-tpl").html());
-    FilmListView.prototype.template = 
+    FilmListView.prototype.template =
             Handlebars.compile($("#film-list-tpl").html());
     /* ---------------------------------- Local Variables ---------------------------------- */
 
@@ -13,12 +13,19 @@
 
 
     service.initialize().done(function () {
+
+        // Ici on cree la route de la Home
         router.addRoute('', function() {
              $('body').html(new HomeView().render().$el);
         });
-        
-        console.log("Service initialized Coucou !");
 
+        // Ici on cree la route de la liste de films
+        router.addRoute('films', function() {
+            // on commence par aller tous les chercher, et une fois que c'est bon on charge la liste
+            service.findAll().done(function(films) {
+                $('body').html(new FilmListView(films).render().$el);
+            });
+        });
         // router.addRoute( '', function() {
         //     service.findAll().done(function() {
         //         $('body').html(new FilmListView(service).render().$el);
@@ -39,11 +46,11 @@
     //     alert("Employee Directory v3.4");
     // });
 
-        
-    $('.btn-primary').on('click', function() {
-        console.log("coucou");
-        $('body').html(new FilmListView(service).render().$el);
-    });
+
+    // $('.btn-primary').on('click', function() {
+    //     console.log("coucou");
+    //     $('body').html(new FilmListView(service).render().$el);
+    // });
 
     FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
