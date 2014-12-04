@@ -37,13 +37,8 @@
             $('body').html(new FilmView(film).render().$el);
             });
         });
-        
-        // Route to a liked movie
-        router.addRoute('films/:id/liked', function() {
-            service.done(function() {
-            $('body').html(new Liked().render().$el);
-            });
-        });
+
+
 
         router.start();
     });
