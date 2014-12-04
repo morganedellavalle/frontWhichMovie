@@ -1,13 +1,16 @@
-var FilmListView = function (films) {
+var Liked = function () {
+    
+
     this.initialize = function() {
         this.$el = $('<div/>');
         this.render();
     };
 
+
     this.render = function() {
-        this.$el.html(this.template(films));
-        return this;
-    };
+      this.$el.html(this.template());
+      return this;
+  };
 
     this.initialize();
 

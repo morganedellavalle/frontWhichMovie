@@ -3,27 +3,53 @@
 
     console.log("Coucou from app.js");
     HomeView.prototype.template = Handlebars.compile($("#home-tpl").html());
+    FilmListView.prototype.template =
+            Handlebars.compile($("#film-list-tpl").html());
     /* ---------------------------------- Local Variables ---------------------------------- */
 
     //var filmListTpl = Handlebars.compile($("#film-list-tpl").html());
     var service = new FilmService();
-    var films;
+    //var films;
+
+
     service.initialize().done(function () {
-        
-        console.log("Service initialized Coucou !");
-        $('body').html(new HomeView(service).render().$el);
-        service.findAll().done(function(data) {
-            films = data;
-            console.log("films :", films);
-            console.log("show you are here");
+
+        // Ici on cree la route de la Home
+        router.addRoute('', function() {
+             $('body').html(new HomeView().render().$el);
         });
+
+        // Ici on cree la route de la liste de films
+        router.addRoute('films', function() {
+            // on commence par aller tous les chercher, et une fois que c'est bon on charge la liste
+            service.findAll().done(function(films) {
+                $('body').html(new FilmListView(films).render().$el);
+            });
+        });
+        // router.addRoute( '', function() {
+        //     service.findAll().done(function() {
+        //         $('body').html(new FilmListView(service).render().$el);
+        //      });
+        // });
+        //service.findAll().done(function(data) {
+            //films = data;
+            //console.log("films :", films);
+            //console.log("show you are here");
+        //});
     //    renderHomeView();
+        router.start();
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
     // $('.search-key').on('keyup', findByName);
     // $('.help-btn').on('click', function() {
     //     alert("Employee Directory v3.4");
+    // });
+
+
+    // $('.btn-primary').on('click', function() {
+    //     console.log("coucou");
+    //     $('body').html(new FilmListView(service).render().$el);
     // });
 
     FastClick.attach(document.body);
