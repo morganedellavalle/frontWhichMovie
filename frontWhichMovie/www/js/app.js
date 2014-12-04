@@ -4,7 +4,6 @@
     FilmListView.prototype.template =
             Handlebars.compile($("#film-list-tpl").html());
     FilmView.prototype.template = Handlebars.compile($("#film-tpl").html());
-    Liked.prototype.template = Handlebars.compile($("#liked-tpl").html());
     /* ---------------------------------- Local Variables ---------------------------------- */
     var service = new FilmService();
 
