@@ -2,7 +2,7 @@
 <html>
 <head>
 	<link href="assets/ratchet/css/ratchet.css" rel="stylesheet">
-	<link href="assets/css/styles.css" rel="stylesheet">
+	<link href="assets/css/bootstrap.css" rel="stylesheet">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
@@ -29,12 +29,17 @@
                   <p>{{acteurs}}</p>
               </div>
               <h1><a href="#films/{{id}}/" class='btn btn-primary' style="width:130px"> Like </a>
-                <a href="#films/{{id}}/" class='btn btn-primary' style="width:130px"> Pas Like </a></h1>
+                <a href="#films/{{id}}/" class='btn btn-primary' style="width:130px"> Pas Like </a>
+                <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> 
+                </h1>
           </a>
         </li>
         {{/each}}
     </ul>
 </script>
+<!--      Ligne span= Test pour voir si bootstrap fonctionne -->
+
+
 
 <script id="film-tpl" type="text/template">
 
@@ -56,6 +61,7 @@
 
 
 <script src="lib/handlebars.js"></script>
+<script src="lib/bootstrap.js"></script>
 <script src="lib/fastclick.js"></script>
 <script src="cordova.js"></script>
 <script src="lib/jquery.js"></script>
