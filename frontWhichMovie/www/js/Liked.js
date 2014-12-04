@@ -1,6 +1,5 @@
 var Liked = function () {
-    
-
+   
     this.initialize = function() {
         this.$el = $('<div/>');
         this.render();

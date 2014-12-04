@@ -8,7 +8,6 @@
 </head>
 <body>
 
-
 <script id="home-tpl" type="text/template">
 	<center>
 		<div>
@@ -39,6 +38,7 @@
 
 <script id="film-tpl" type="text/template">
   <center>
+    <iframe width="560" height="315" src="http:{{BO}}" frameborder="0" allowfullscreen></iframe>
     <img src="{{affiche}}" width=45% auto>
   <div class="media-body">
     {{titre}} {{realisateur}}
@@ -47,6 +47,8 @@
   </div>
     <h1><a href="liked" class='btn btn-primary' style="width:130px"> Like </a>
         <a href="liked" class='btn btn-primary' style="width:130px"> Pas Like </a></h1>
+
+
 </script>
 
 <script id="liked-tpl" type="text/template">
@@ -55,6 +57,9 @@
       <p> Youpii </p>
   </div>
  
+</script>
+
+
 </script>
 
 

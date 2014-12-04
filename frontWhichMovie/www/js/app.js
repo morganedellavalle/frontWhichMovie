@@ -31,8 +31,15 @@
             });
         });
 
+            //Route to next film after a like
+        router.addRoute('films/:id/', function(id) {
+            service.findById(parseInt(id)+1).done(function(film) {
+            $('body').html(new FilmView(film).render().$el);
+            });
+        });
+        
         // Route to a liked movie
-        router.addRoute('liked', function() {
+        router.addRoute('films/:id/liked', function() {
             service.done(function() {
             $('body').html(new Liked().render().$el);
             });
