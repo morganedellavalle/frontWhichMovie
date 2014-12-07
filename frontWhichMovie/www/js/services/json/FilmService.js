@@ -20,4 +20,9 @@ var FilmService = function() {
     this.findAll = function() {
         return $.getJSON(url + ".json");
     }
+
+    this.likeById = function(id, user_name) {
+        var params = {"like": {"name": user_name}};
+        return $.post(url + "/" + id + "/like.json", params);
+    }
 }

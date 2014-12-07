@@ -3,7 +3,11 @@
     HomeView.prototype.template = Handlebars.compile($("#home-tpl").html());
     FilmListView.prototype.template =
             Handlebars.compile($("#film-list-tpl").html());
-    FilmView.prototype.template = Handlebars.compile($("#film-tpl").html());
+    //FilmView.prototype.template = Handlebars.compile($("#film-tpl").html());
+    AfficheView.prototype.template= Handlebars.compile($("#affiche-tpl").html());
+    ActeursView.prototype.template= Handlebars.compile($("#acteurs-tpl").html());
+    SynopsisView.prototype.template= Handlebars.compile($("#synopsis-tpl").html());
+    BOView.prototype.template= Handlebars.compile($("#BO-tpl").html());
     /* ---------------------------------- Local Variables ---------------------------------- */
     var service = new FilmService();
 
@@ -23,29 +27,62 @@
             });
         });
 
-               // Route to the view of a unique film
+               // Route to the view of a unique film: plus utilisée donc
         router.addRoute('films/:id', function(id) {
             service.findById(parseInt(id)).done(function(film) {
             $('body').html(new FilmView(film).render().$el);
+            //$(".affiche").on(“swiperight”, function() {alert(“Pas Like”) });
+            //$(".affiche").on(“swipeleft”, function() {alert(“Like”) });
             });
         });
 
-            //Route to next film after a like
+            //Route to next film after a like: plus utilisée donc
         router.addRoute('films/:id/next', function(id) {
             service.findById(parseInt(id)+1).done(function(film) {
             $('body').html(new FilmView(film).render().$el);
             });
         });
 
+        //route vers la vue affiche
+        router.addRoute('films/:id/affiche',function(id) {
+            service.findById(parseInt(id)).done(function(film) {
+            $('body').html(new AfficheView(film).render().$el);
+            });
+        });
 
+        //route vers la vue acteurs
+        router.addRoute('films/:id/acteurs',function(id) {
+            service.findById(parseInt(id)).done(function(film) {
+            $('body').html(new ActeursView(film).render().$el);
+            });
+        });
+
+        //route vers la vue synopsis
+        router.addRoute('films/:id/synopsis',function(id) {
+            service.findById(parseInt(id)).done(function(film) {
+            $('body').html(new SynopsisView(film).render().$el);
+            });
+        });
+
+        //route vers la vue BOP
+        router.addRoute('films/:id/BO',function(id) {
+            service.findById(parseInt(id)).done(function(film) {
+            $('body').html(new BOView(film).render().$el);
+            });
+        });           
+        //Next affiche
+        router.addRoute('films/:id/affiche/next', function(id) {
+            service.findById(parseInt(id)+1).done(function(film) {
+            $('body').html(new AfficheView(film).render().$el);
+            });
+        });         
 
         router.start();
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
 
-    //$(".affiche").on(“swiperight”, function() {alert(“Pas Like”) });
-    //$(".affiche").on(“swipeleft”, function() {alert(“Like”) });
+
     FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
 

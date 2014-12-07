@@ -1,9 +1,9 @@
-var FilmView = function (film) {
+var ActeursView = function (film) {
     
 
     this.initialize = function() {
         this.$el = $('<div/>');
-        this.$el.on('swiperight', '.affiche',this.like)
+        //this.$el.on('swiperight', '.affiche',this.like)
         this.render();
     };
 
@@ -13,9 +13,9 @@ var FilmView = function (film) {
       return this;
   };
 
-  this.like = function(){
-  	alert("liked");
-  }
+  //this.like = function(){
+  	//alert("liked");
+  //}
 
     this.initialize();
 

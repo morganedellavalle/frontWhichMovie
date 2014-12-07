@@ -13,17 +13,17 @@
   <br>
 	<center>
 		<div>
-			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=50% auto />
-			<h1><a href="#films" class='btn btn-primary' style="width:130px">Films </a></h1>
+			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=20% auto />
+			<h1><a href="#films" class='btn btn-default' style="width:130px">Films </a>
+      <span class="glyphicon glyphicon-facetime" aria-hidden="true"></span></h1>
 		</div>
-	</center>
 </script>
 
 <script id="film-list-tpl" type="text/template">
     <ul class="table-view">
         {{#each this}}
         <li class="table-view-cell media">
-          <a href="#films/{{ id }}">
+          <a href="#films/{{ id }}/affiche">
               <center><img class="media-object pull-left" style="width:100px; height:100px" src="{{affiche}}"> </center>
               <div class="media-body">
                   <strong> {{titre}} </strong>  
@@ -36,14 +36,11 @@
         {{/each}}
     </ul>
 </script>
-<!--      Ligne span= Test pour voir si bootstrap fonctionne -->
 
-
-
-<script id="film-tpl" type="text/template">
+<!--<script id="film-tpl" type="text/template">
   <br>
   <center>
-    <img class="swiper-slide" src="{{affiche}}" width=30% auto>
+    <img  src="{{affiche}}" class="affiche" width=14% auto>
   <div class="media-body">
     <strong> {{titre}} </strong>
     <br>
@@ -63,21 +60,156 @@
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
          <br>
         <a href="#films" class='btn' style="width:130px"> Retour </a>
+</script>  -->
 
+
+<!-- Vue affiche + navbar -->
+<script id="affiche-tpl" type="text/template">
+      <center>
+      <img  src="{{affiche}}" class="affiche" width=40% auto>
+      <center>
+        </center>
+
+        <br>
+        <a href="#films/{{id}}/affiche/next" class='btn btn-success' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+        <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
+         <br>
+
+     <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
+      <div class="container-fluid">
+        <a href="#films/{{id}}/affiche" class='form-control'>Affiche 
+        <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/acteurs" class='form-control'>Acteurs
+        <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/synopsis" class='form-control'>Synopsis
+        <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/BO" class='form-control'>Bande-annonce
+        <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
+        <a href="#films" class='form-control'>
+        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
+        </div>
+        </nav>
+</script>
+
+
+<!-- Vue acteurs + navbar-->
+<script id="acteurs-tpl" type="text/template">
+<center>
+   <div class="media-body">
+    <h1><strong> {{titre}} </strong></h1>
+    <br>
+    <h4><strong> Réalisateur: </strong></h4> <big> {{realisateur}} </big>
+    <br>
+    <h4><strong> Acteurs: </strong></h4><big>{{acteurs}}</big>
+    <br>
+  </div>
+
+    <br>
+    <a href="#films/{{id}}/affiche/next" class='btn btn-success' style="width:50px; height=100px"> 
+    <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+    <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
+    <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
+    <br>
+
+     <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
+      <div class="container-fluid">
+        <a href="#films/{{id}}/affiche" class='form-control'>Affiche 
+        <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/acteurs" class='form-control'>Acteurs
+        <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/synopsis" class='form-control'>Synopsis
+        <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/BO" class='form-control'>Bande-annonce
+        <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
+        <a href="#films" class='form-control'>
+        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
+        </div>
+        </nav>
 
 
 </script>
 
-<script src="lib/handlebars.js"></script>
-<script src="lib/fastclick.js"></script>
+
+<!--vue synopsis + navbar-->
+<script id="synopsis-tpl" type="text/template">
+<center>
+   <div class="media-body">
+   <h1> Synopsis: </h1><big>{{synopsis}}</big>
+  </div>
+
+          <br>
+        <a href="#films/{{id}}/affiche/next" class='btn btn-success' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+        <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
+         <br>
+
+    <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
+      <div class="container-fluid">
+        <a href="#films/{{id}}/affiche" class='form-control'>Affiche 
+        <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/acteurs" class='form-control'>Acteurs
+        <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/synopsis" class='form-control'>Synopsis
+        <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/BO" class='form-control'>Bande-annonce
+        <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
+        <a href="#films" class='form-control'>
+        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
+        </div>
+        </nav>
+
+</script>
+
+<!-- Vue Bo + navbar-->
+<script id="BO-tpl" type="text/template">
+
+<center>
+        <br>
+        <iframe width="500" height="500" src="http:{{BO}}" frameborder="0" allowfullscreen></iframe>
+        <br> 
+
+
+        <br>
+        <a href="#films/{{id}}/affiche/next" class='btn btn-success' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+        <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
+         <br>
+    <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
+      <div class="container-fluid">
+        <a href="#films/{{id}}/affiche" class='form-control'>Affiche 
+        <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/acteurs" class='form-control'>Acteurs
+        <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/synopsis" class='form-control'>Synopsis
+        <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
+        <a href="#films/{{id}}/BO" class='form-control'>Bande-annonce
+        <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
+        <a href="#films" class='form-control'>
+        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
+        </div>
+        </nav>
+</div>
+
+
+</script>
+
 <script src="cordova.js"></script>
 <script src="lib/jquery.js"></script>
 <script src="lib/jquery.mobile.custom.js"></script>
+<script src="lib/handlebars.js"></script>
+<script src="lib/fastclick.js"></script>
 <script src="lib/router.js"></script>
 <script src="js/services/json/FilmService.js"></script>
 <script src="js/HomeView.js"></script>
 <script src="js/FilmListView.js"></script>
-<script src="js/FilmView.js"></script>
+<script src="js/AfficheView.js"></script>
+<script src="js/ActeursView.js"></script>
+<script src="js/SynopsisView.js"></script>
+<script src="js/BOView.js"></script>
 <script src="js/app.js"></script>
 <script src="lib/bootstrap.js"></script>
 

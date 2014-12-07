@@ -3,6 +3,7 @@ var FilmView = function (film) {
 
     this.initialize = function() {
         this.$el = $('<div/>');
+        this.$el.on('swiperight', '.affiche',this.like)
         this.render();
     };
 
@@ -11,6 +12,10 @@ var FilmView = function (film) {
       this.$el.html(this.template(film));
       return this;
   };
+
+  this.like = function(){
+  	alert("liked");
+  }
 
     this.initialize();
 
