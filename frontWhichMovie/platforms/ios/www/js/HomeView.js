@@ -1,8 +1,8 @@
 var HomeView = function () {
 
     this.initialize = function() {
-    this.$el = $('<div/>');
-    this.render();
+    	this.$el = $('<div/>');
+    	this.render();
     };
 
     this.render = function() {

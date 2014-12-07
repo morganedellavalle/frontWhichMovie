@@ -31,7 +31,7 @@
         });
 
             //Route to next film after a like
-        router.addRoute('films/:id/', function(id) {
+        router.addRoute('films/:id/next', function(id) {
             service.findById(parseInt(id)+1).done(function(film) {
             $('body').html(new FilmView(film).render().$el);
             });
@@ -44,6 +44,8 @@
 
     /* --------------------------------- Event Registration -------------------------------- */
 
+    //$(".affiche").on(“swiperight”, function() {alert(“Pas Like”) });
+    //$(".affiche").on(“swipeleft”, function() {alert(“Like”) });
     FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
 

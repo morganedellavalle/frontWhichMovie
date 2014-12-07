@@ -3,15 +3,17 @@
 <head>
 	<link href="assets/ratchet/css/ratchet.css" rel="stylesheet">
 	<link href="assets/css/bootstrap.css" rel="stylesheet">
+  <link href="assets/css/styles.css" rel="stylesheet">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body>
 
 <script id="home-tpl" type="text/template">
+  <br>
 	<center>
 		<div>
-			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=30% auto />
+			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=50% auto />
 			<h1><a href="#films" class='btn btn-primary' style="width:130px">Films </a></h1>
 		</div>
 	</center>
@@ -28,10 +30,7 @@
                   <small> de {{realisateur}} </small>
                   <p>{{acteurs}}</p>
               </div>
-              <h1><a href="#films/{{id}}/" class='btn btn-primary' style="width:130px"> Like </a>
-                <a href="#films/{{id}}/" class='btn btn-primary' style="width:130px"> Pas Like </a>
-                <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> 
-                </h1>
+               
           </a>
         </li>
         {{/each}}
@@ -42,36 +41,46 @@
 
 
 <script id="film-tpl" type="text/template">
-
+  <br>
   <center>
-    <iframe width="200" height="200" src="http:{{BO}}" frameborder="0" allowfullscreen></iframe>
-    <img src="{{affiche}}" width=25% auto>
+    <img class="swiper-slide" src="{{affiche}}" width=30% auto>
   <div class="media-body">
-    {{titre}} {{realisateur}}
-      <p>{{acteurs}}</p>
-      <p>{{synopsis}}</p>
+    <strong> {{titre}} </strong>
+    <br>
+    <strong> Réalisateur: </strong> {{realisateur}}
+    <br>
+    <strong> Acteurs: </strong> {{acteurs}}
+    <br>
+    Synopsis:<p>{{synopsis}}</p>
   </div>
-    <h1><a href="#films/{{id}}/" class='btn btn-primary' style="width:130px"> Like </a>
-        <a href="#films/{{id}}/" class='btn btn-primary' style="width:130px"> Pas Like </a></h1>
+        <strong> Bande annonce </strong>
+        <br>
+        <iframe width="200" height="200" src="http:{{BO}}" frameborder="0" allowfullscreen></iframe>
+        <br>
+        <a href="#films/{{id}}/next" class='btn btn-success' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+        <a href="#films/{{id}}/next" class='btn btn-danger' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
+         <br>
         <a href="#films" class='btn' style="width:130px"> Retour </a>
+
 
 
 </script>
 
-
-
 <script src="lib/handlebars.js"></script>
-<script src="lib/bootstrap.js"></script>
 <script src="lib/fastclick.js"></script>
 <script src="cordova.js"></script>
 <script src="lib/jquery.js"></script>
+<script src="lib/jquery.mobile.custom.js"></script>
 <script src="lib/router.js"></script>
 <script src="js/services/json/FilmService.js"></script>
 <script src="js/HomeView.js"></script>
 <script src="js/FilmListView.js"></script>
 <script src="js/FilmView.js"></script>
-<script src="js/Liked.js"></script>
 <script src="js/app.js"></script>
+<script src="lib/bootstrap.js"></script>
+
 
 </body>
 </html>

@@ -4,7 +4,6 @@
     FilmListView.prototype.template =
             Handlebars.compile($("#film-list-tpl").html());
     FilmView.prototype.template = Handlebars.compile($("#film-tpl").html());
-    Liked.prototype.template = Handlebars.compile($("#liked-tpl").html());
     /* ---------------------------------- Local Variables ---------------------------------- */
     var service = new FilmService();
 
@@ -31,18 +30,22 @@
             });
         });
 
-        // Route to a liked movie
-        router.addRoute('liked', function() {
-            service.done(function() {
-            $('body').html(new Liked().render().$el);
+            //Route to next film after a like
+        router.addRoute('films/:id/next', function(id) {
+            service.findById(parseInt(id)+1).done(function(film) {
+            $('body').html(new FilmView(film).render().$el);
             });
         });
+
+
 
         router.start();
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
 
+    //$(".affiche").on(“swiperight”, function() {alert(“Pas Like”) });
+    //$(".affiche").on(“swipeleft”, function() {alert(“Like”) });
     FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
 
