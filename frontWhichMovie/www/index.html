@@ -16,7 +16,7 @@
 			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=20% auto />
 		</div>
     <input type="text" id="name" name="Name" placeholder="Enter your Name" style="disabled" >
-    <a href="#films"> <button onClick="window.localStorage.setItem('name', $('#name').val())">Start</button>
+    <a href="#films"> <button type="button" class="btn btn-primary" onClick="window.localStorage.setItem('name', $('#name').val())">Start</button>
 	</center> 
 </script>
 
@@ -42,7 +42,13 @@
 <script id="affiche-tpl" type="text/template">
       <center>
       <br>
+<<<<<<< Updated upstream
       <img  src="{{affiche}}" class="affiche" width=50% auto>
+=======
+
+      <img  src="{{affiche}}" class="affiche" width=60% auto>
+
+>>>>>>> Stashed changes
       <center>
         </center>
 
