@@ -14,9 +14,11 @@
 	<center>
 		<div>
 			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=20% auto />
-			<h1><a href="#films" class='btn btn-default' style="width:130px">Films </a>
-      <span class="glyphicon glyphicon-facetime" aria-hidden="true"></span></h1>
 		</div>
+
+    <form name="changer" method="POST" action="#films">
+        <input type="text" name="Name" value="Enter your Name" style="disabled" >
+      </form>
 </script>
 
 <script id="film-list-tpl" type="text/template">
@@ -66,7 +68,7 @@
 <!-- Vue affiche + navbar -->
 <script id="affiche-tpl" type="text/template">
       <center>
-      <img  src="{{affiche}}" class="affiche" width=40% auto>
+      <img  src="{{affiche}}" class="affiche" width=30% auto>
       <center>
         </center>
 
