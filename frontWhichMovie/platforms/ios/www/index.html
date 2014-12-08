@@ -14,9 +14,11 @@
 	<center>
 		<div>
 			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=20% auto />
-			<h1><a href="#films" class='btn btn-default' style="width:130px">Films </a>
-      <span class="glyphicon glyphicon-facetime" aria-hidden="true"></span></h1>
 		</div>
+    <form name="changer" method="POST" action="#films">
+        <input type="text" name="Name" value="Enter your Name" style="disabled" >
+    </form>
+	</center> 
 </script>
 
 <script id="film-list-tpl" type="text/template">
@@ -37,36 +39,10 @@
     </ul>
 </script>
 
-<!--<script id="film-tpl" type="text/template">
-  <br>
-  <center>
-    <img  src="{{affiche}}" class="affiche" width=14% auto>
-  <div class="media-body">
-    <strong> {{titre}} </strong>
-    <br>
-    <strong> Réalisateur: </strong> {{realisateur}}
-    <br>
-    <strong> Acteurs: </strong> {{acteurs}}
-    <br>
-    Synopsis:<p>{{synopsis}}</p>
-  </div>
-        <strong> Bande annonce </strong>
-        <br>
-        <iframe width="200" height="200" src="http:{{BO}}" frameborder="0" allowfullscreen></iframe>
-        <br>
-        <a href="#films/{{id}}/next" class='btn btn-success' style="width:50px; height=100px"> 
-         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
-        <a href="#films/{{id}}/next" class='btn btn-danger' style="width:50px; height=100px"> 
-         <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
-         <br>
-        <a href="#films" class='btn' style="width:130px"> Retour </a>
-</script>  -->
-
-
 <!-- Vue affiche + navbar -->
 <script id="affiche-tpl" type="text/template">
       <center>
-      <img  src="{{affiche}}" class="affiche" width=40% auto>
+      <img  src="{{affiche}}" class="affiche" width=30% auto>
       <center>
         </center>
 
@@ -100,9 +76,9 @@
    <div class="media-body">
     <h1><strong> {{titre}} </strong></h1>
     <br>
-    <h5><strong> Réalisateur: </strong></h5> {{realisateur}}
+    <h4><strong> Réalisateur: </strong></h4> <big> {{realisateur}} </big>
     <br>
-    <h5><strong> Acteurs: </strong></h5>{{acteurs}}
+    <h4><strong> Acteurs: </strong></h4><big>{{acteurs}}</big>
     <br>
   </div>
 
@@ -136,7 +112,7 @@
 <script id="synopsis-tpl" type="text/template">
 <center>
    <div class="media-body">
-   <h1> Synopsis: </h1>{{synopsis}}
+   <h1> Synopsis: </h1><big>{{synopsis}}</big>
   </div>
 
           <br>
@@ -197,11 +173,12 @@
 
 </script>
 
+
+<script src="lib/handlebars.js"></script>
+<script src="lib/fastclick.js"></script>
 <script src="cordova.js"></script>
 <script src="lib/jquery.js"></script>
 <script src="lib/jquery.mobile.custom.js"></script>
-<script src="lib/handlebars.js"></script>
-<script src="lib/fastclick.js"></script>
 <script src="lib/router.js"></script>
 <script src="js/services/json/FilmService.js"></script>
 <script src="js/HomeView.js"></script>

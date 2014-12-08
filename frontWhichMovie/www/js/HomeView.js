@@ -10,6 +10,7 @@ var HomeView = function () {
         return this;
     };
 
+
     this.initialize();
 
 }

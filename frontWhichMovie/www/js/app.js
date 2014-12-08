@@ -27,26 +27,12 @@
             });
         });
 
-               // Route to the view of a unique film: plus utilisée donc
-        router.addRoute('films/:id', function(id) {
-            service.findById(parseInt(id)).done(function(film) {
-            $('body').html(new FilmView(film).render().$el);
-            //$(".affiche").on(“swiperight”, function() {alert(“Pas Like”) });
-            //$(".affiche").on(“swipeleft”, function() {alert(“Like”) });
-            });
-        });
-
-            //Route to next film after a like: plus utilisée donc
-        router.addRoute('films/:id/next', function(id) {
-            service.findById(parseInt(id)+1).done(function(film) {
-            $('body').html(new FilmView(film).render().$el);
-            });
-        });
-
         //route vers la vue affiche
         router.addRoute('films/:id/affiche',function(id) {
             service.findById(parseInt(id)).done(function(film) {
             $('body').html(new AfficheView(film).render().$el);
+            $(".affiche").on('swiperight', function() { new AfficheView(film).notlike(); });
+            $(".affiche").on('swipeleft', function() {new AfficheView(film).like(); });
             });
         });
 
@@ -81,6 +67,9 @@
     });
 
     /* --------------------------------- Event Registration -------------------------------- */
+
+
+
 
 
     FastClick.attach(document.body);

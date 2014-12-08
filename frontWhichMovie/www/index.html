@@ -15,10 +15,10 @@
 		<div>
 			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=20% auto />
 		</div>
-
     <form name="changer" method="POST" action="#films">
         <input type="text" name="Name" value="Enter your Name" style="disabled" >
-      </form>
+    </form>
+	</center> 
 </script>
 
 <script id="film-list-tpl" type="text/template">
@@ -39,32 +39,6 @@
     </ul>
 </script>
 
-<!--<script id="film-tpl" type="text/template">
-  <br>
-  <center>
-    <img  src="{{affiche}}" class="affiche" width=14% auto>
-  <div class="media-body">
-    <strong> {{titre}} </strong>
-    <br>
-    <strong> Réalisateur: </strong> {{realisateur}}
-    <br>
-    <strong> Acteurs: </strong> {{acteurs}}
-    <br>
-    Synopsis:<p>{{synopsis}}</p>
-  </div>
-        <strong> Bande annonce </strong>
-        <br>
-        <iframe width="200" height="200" src="http:{{BO}}" frameborder="0" allowfullscreen></iframe>
-        <br>
-        <a href="#films/{{id}}/next" class='btn btn-success' style="width:50px; height=100px"> 
-         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
-        <a href="#films/{{id}}/next" class='btn btn-danger' style="width:50px; height=100px"> 
-         <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
-         <br>
-        <a href="#films" class='btn' style="width:130px"> Retour </a>
-</script>  -->
-
-
 <!-- Vue affiche + navbar -->
 <script id="affiche-tpl" type="text/template">
       <center>
@@ -78,7 +52,6 @@
         <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
          <br>
-
      <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
       <div class="container-fluid">
         <a href="#films/{{id}}/affiche" class='form-control'>Affiche 
@@ -199,11 +172,12 @@
 
 </script>
 
+
+<script src="lib/handlebars.js"></script>
+<script src="lib/fastclick.js"></script>
 <script src="cordova.js"></script>
 <script src="lib/jquery.js"></script>
 <script src="lib/jquery.mobile.custom.js"></script>
-<script src="lib/handlebars.js"></script>
-<script src="lib/fastclick.js"></script>
 <script src="lib/router.js"></script>
 <script src="js/services/json/FilmService.js"></script>
 <script src="js/HomeView.js"></script>

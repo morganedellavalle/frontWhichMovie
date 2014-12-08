@@ -13,9 +13,15 @@ var AfficheView = function (film) {
       return this;
   };
 
-  //this.like = function(){
-  	//alert("liked");
-  //}
+  this.like = function(){
+  	alert("liked");
+  }
+
+
+  this.notlike = function(){
+    alert("Unliked");
+  }
+
 
     this.initialize();
 
