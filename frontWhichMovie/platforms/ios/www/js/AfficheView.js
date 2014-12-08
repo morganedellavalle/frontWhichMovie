@@ -13,9 +13,19 @@ var AfficheView = function (film) {
       return this;
   };
 
-  //this.like = function(){
-  	//alert("liked");
-  //}
+  this.like = function(id){
+  	window.localStorage.setItem('film', id);
+    console.log(id);
+    alert("Liked");
+  }
+
+
+  this.notlike = function(id){
+
+    console.log('id');
+    alert("Unliked");
+  }
+
 
     this.initialize();
 

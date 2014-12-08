@@ -1070,3 +1070,31 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 
 2014-12-08 11:35:59.321 WhichMovie[3393:85530] Resetting plugins due to page load.
 2014-12-08 11:35:59.445 WhichMovie[3393:85530] Finished load of: file:///Users/Emeric/Library/Developer/CoreSimulator/Devices/21910854-5379-496B-8F1D-911F80D7A063/data/Containers/Bundle/Application/FBB0491D-068F-44FE-8D20-4C3602DD0B77/WhichMovie.app/www/index.html
+2014-12-08 16:05:17.025 WhichMovie[4412:138679] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-08 16:05:17.027 WhichMovie[4412:138679] Multi-tasking -> Device: YES, App: YES
+2014-12-08 16:05:17.032 WhichMovie[4412:138679] Unlimited access to network resources
+2014-12-08 16:05:17.044 WhichMovie[4412:138679] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-08 16:05:17.468 WhichMovie[4412:138679] Resetting plugins due to page load.
+2014-12-08 16:05:17.652 WhichMovie[4412:138679] Finished load of: file:///Users/Emeric/Library/Developer/CoreSimulator/Devices/21910854-5379-496B-8F1D-911F80D7A063/data/Containers/Bundle/Application/4FD0D679-5A33-40C5-87BF-344162C2929C/WhichMovie.app/www/index.html
+2014-12-08 16:15:41.368 WhichMovie[4624:142240] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-08 16:15:41.372 WhichMovie[4624:142240] Multi-tasking -> Device: YES, App: YES
+2014-12-08 16:15:41.380 WhichMovie[4624:142240] Unlimited access to network resources
+2014-12-08 16:15:41.390 WhichMovie[4624:142240] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-08 16:15:42.361 WhichMovie[4624:142240] Resetting plugins due to page load.
+2014-12-08 16:15:42.858 WhichMovie[4624:142240] Finished load of: file:///Users/Emeric/Library/Developer/CoreSimulator/Devices/21910854-5379-496B-8F1D-911F80D7A063/data/Containers/Bundle/Application/49390BB2-6119-4C10-8679-17AA16633D04/WhichMovie.app/www/index.html
+2014-12-08 16:15:42.925 WhichMovie[4624:142240] THREAD WARNING: ['Device'] took '10.047852' ms. Plugin should use a background thread.
+2014-12-08 16:16:07.063 WhichMovie[4624:142240] id

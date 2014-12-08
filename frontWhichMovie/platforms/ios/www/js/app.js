@@ -27,30 +27,22 @@
             });
         });
 
-            // Route to the view of a unique film
-        router.addRoute('films/:id', function(id) {
-            service.findById(parseInt(id)).done(function(film) {
-            $('body').html(new FilmView(film).render().$el);
-            //$('affiche').on("swiperight", function() { alert(“Pas Like”) });
-
-            });
-        });
-
-            //Route to next film after a like: plus utilisée donc
-        router.addRoute('films/:id/next', function(id) {
-            service.findById(parseInt(id)+1).done(function(film) {
-                $('body').html(new FilmView(film).render().$el);
-            });
-        });
-
         //route vers la vue affiche
         router.addRoute('films/:id/affiche',function(id) {
             service.findById(parseInt(id)).done(function(film) {
             $('body').html(new AfficheView(film).render().$el);
-            $(".affiche").on('swiperight', function() {AfficheView(film).like() });
-            //$(".affiche").on('swipeleft', function() {alert(“Like”) });
+            $(".affiche").on('swiperight', function() { $('body').html(new AfficheView(film).render().$el); });
+            $(".affiche").on('swipeleft', function() {new AfficheView(film).like(); });
             });
         });
+
+        // router.addRoute('films/:id/affiche',function(id) {
+        //     service.findById(parseInt(id)).done(function(film) {
+        //     $('body').html(new AfficheView(film).render().$el);
+        //     $(".affiche").on('swiperight', function() { new AfficheView(film).notlike(id); });
+        //     $(".affiche").on('swipeleft', function() {new AfficheView(film).like(id); });
+        //     });
+        // });
 
         //route vers la vue acteurs
         router.addRoute('films/:id/acteurs',function(id) {
@@ -71,13 +63,17 @@
             service.findById(parseInt(id)).done(function(film) {
             $('body').html(new BOView(film).render().$el);
             });
-        });           
+        });
+
         //Next affiche
         router.addRoute('films/:id/affiche/next', function(id) {
             service.findById(parseInt(id)+1).done(function(film) {
             $('body').html(new AfficheView(film).render().$el);
+            $(".affiche").on('swiperight', function() { new AfficheView(film).notlike(); });
+            $(".affiche").on('swipeleft', function() {new AfficheView(film).like(); });
             });
-        });         
+        });
+        
 
         router.start();
     });

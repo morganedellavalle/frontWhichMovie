@@ -31,8 +31,7 @@
         router.addRoute('films/:id/affiche',function(id) {
             service.findById(parseInt(id)).done(function(film) {
             $('body').html(new AfficheView(film).render().$el);
-            $(".affiche").on('swiperight', function() { new AfficheView(film).notlike(); });
-            $(".affiche").on('swipeleft', function() {new AfficheView(film).like(); });
+            //$(".affiche").on('swiperight', function() { $('body').html(new AfficheView(film).router.load("films/7").$el); });
             });
         });
 
@@ -55,13 +54,15 @@
             service.findById(parseInt(id)).done(function(film) {
             $('body').html(new BOView(film).render().$el);
             });
-        });           
+        });
+
         //Next affiche
         router.addRoute('films/:id/affiche/next', function(id) {
             service.findById(parseInt(id)+1).done(function(film) {
             $('body').html(new AfficheView(film).render().$el);
             });
-        });         
+        });
+        
 
         router.start();
     });
