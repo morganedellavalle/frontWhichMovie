@@ -15,9 +15,8 @@
 		<div>
 			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=20% auto />
 		</div>
-    <form name="changer" method="POST" action="#films">
-        <input type="text" name="Name" value="Enter your Name" style="disabled" >
-    </form>
+    <input type="text" id="name" name="Name" placeholder="Enter your Name" style="disabled" >
+    <a href="#films"> <button onClick="window.localStorage.setItem('name', $('#name').val())">Start</button>
 	</center> 
 </script>
 
