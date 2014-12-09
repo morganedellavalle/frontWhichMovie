@@ -62,19 +62,22 @@
             $('body').html(new AfficheView(film).render().$el);
             });
         });
-        //Nextaffiche si like
+        //Nextaffiche si like par boutton
+
         router.addRoute('films/:id/affiche/nextliked', function(id) {
             service.findById(parseInt(id)).done(function(film) {
-            $('body').html(new AfficheView(film).like());
+            $('body').html(new AfficheView(film).likebtn());
             });
         });
 
-        //Nextaffiche si not like
+        //Nextaffiche si not like boutton
         router.addRoute('films/:id/affiche/nextnotliked', function(id) {
             service.findById(parseInt(id)).done(function(film) {
-            $('body').html(new AfficheView(film).notlike());
+            $('body').html(new AfficheView(film).notlikebtn());
             });
         });
+
+
 
         router.start();
     });

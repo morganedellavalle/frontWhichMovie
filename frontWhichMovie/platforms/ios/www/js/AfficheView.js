@@ -3,8 +3,8 @@ var AfficheView = function (film) {
 
     this.initialize = function() {
         this.$el = $('<div/>');
-        this.$el.on('swiperight', '.affiche', this.like);
-        this.$el.on('swipeleft', '.affiche', this.notlike);
+        this.$el.on('swiperight', '.affiche', this.notlikeswipe);
+        this.$el.on('swipeleft', '.affiche', this.likeswipe);
         this.render();
     };
 
@@ -14,23 +14,59 @@ var AfficheView = function (film) {
       return this;
     };
 
-  this.like = function(){
+  this.likeswipe = function(){
+    $(this).addClass('rotate-right').delay(500).fadeOut(1);
+    $('.affiche').find('.status').remove();
+    $(this).append('<div class="like">Like!</div>');
     window.localStorage.setItem('film', film.id);
     console.log(film.id);
     console.log(localStorage.getItem("user_name"));
     var x= Number(film.id)+1;
     alert("Liked");
     router.load("films/"+x+"/affiche");
-    // $.post( "http://whichmovie.herokuapp.com/films/"+film.id , {"like": {"user_name": localStorage.getItem("name")} });
+    var params = {"like": {"user_name":localStorage.getItem("user_name")}};
+    $.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params)
+    console.log($.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params));
   };
+    
 
 
-  this.notlike = function(id){
+
+  this.notlikeswipe = function(id){
+    $(this).addClass('rotate-left').delay(500).fadeOut(1);
+    $('.buddy').find('.status').remove();
+    $(this).append('<div class="dislike">Like!</div>');
     window.localStorage.setItem('film', film.id);
     console.log(film.id);
     console.log(localStorage.getItem("user_name"));
     var x= Number(film.id)+1;
     alert("Not Liked, this movie is rubbish anyway");
+    router.load("films/"+x+"/affiche");
+  };
+
+
+
+        //like sur btn
+    this.likebtn = function(){
+    window.localStorage.setItem('film', film.id);
+    console.log(film.id);
+    console.log(localStorage.getItem("user_name"));
+    var x= Number(film.id)+1;
+    //alert("Liked");
+    router.load("films/"+x+"/affiche");
+    var params = {"like": {"user_name":localStorage.getItem("user_name")}};
+    $.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params)
+    console.log($.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params));
+     };
+
+
+
+    this.notlikebtn = function(id){
+    window.localStorage.setItem('film', film.id);
+    console.log(film.id);
+    console.log(localStorage.getItem("user_name"));
+    var x= Number(film.id)+1;
+    //alert("Not Liked, this movie is rubbish anyway");
     router.load("films/"+x+"/affiche");
   };
 

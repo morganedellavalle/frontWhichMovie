@@ -1184,3 +1184,1332 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2014-12-09 10:11:19.950 WhichMovie[7157:320464] val
 2014-12-09 10:11:21.826 WhichMovie[7157:320464] 8
 2014-12-09 10:11:23.338 WhichMovie[7157:320464] val
+2014-12-09 12:14:34.175 WhichMovie[4077:285855] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:14:34.178 WhichMovie[4077:285855] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:14:34.179 WhichMovie[4077:285855] Unlimited access to network resources
+2014-12-09 12:14:34.182 WhichMovie[4077:285855] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:14:36.116 WhichMovie[4077:285855] Resetting plugins due to page load.
+2014-12-09 12:14:36.774 WhichMovie[4077:285855] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/184ACC20-A14B-4192-B802-2FD52533581B/WhichMovie.app/www/index.html
+2014-12-09 12:14:41.264 WhichMovie[4077:285855] 2
+2014-12-09 12:14:43.764 WhichMovie[4077:285855] Q
+2014-12-09 12:14:43.764 WhichMovie[4077:285855] {"readyState":1}
+2014-12-09 12:14:45.484 WhichMovie[4077:285855] 3
+2014-12-09 12:14:48.632 WhichMovie[4077:285855] Q
+2014-12-09 12:14:49.766 WhichMovie[4077:285855] 4
+2014-12-09 12:14:53.407 WhichMovie[4077:285855] Q
+2014-12-09 12:14:53.407 WhichMovie[4077:285855] {"readyState":1}
+2014-12-09 12:15:16.724 WhichMovie[4263:286873] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:15:16.725 WhichMovie[4263:286873] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:15:16.727 WhichMovie[4263:286873] Unlimited access to network resources
+2014-12-09 12:15:16.730 WhichMovie[4263:286873] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:15:16.944 WhichMovie[4263:286873] Resetting plugins due to page load.
+2014-12-09 12:15:17.065 WhichMovie[4263:286873] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/1112B4F0-E09E-4C7B-BEB1-75E708189C9D/WhichMovie.app/www/index.html
+2014-12-09 12:15:21.729 WhichMovie[4263:286873] 2
+2014-12-09 12:15:21.734 WhichMovie[4263:286873] Q
+2014-12-09 12:15:21.735 WhichMovie[4263:286873] {"readyState":1}
+2014-12-09 12:15:24.059 WhichMovie[4263:286873] 3
+2014-12-09 12:15:24.061 WhichMovie[4263:286873] Q
+2014-12-09 12:15:24.965 WhichMovie[4263:286873] 4
+2014-12-09 12:15:24.968 WhichMovie[4263:286873] Q
+2014-12-09 12:15:24.969 WhichMovie[4263:286873] {"readyState":1}
+2014-12-09 12:15:25.653 WhichMovie[4263:286873] 5
+2014-12-09 12:15:25.657 WhichMovie[4263:286873] Q
+2014-12-09 12:15:25.657 WhichMovie[4263:286873] {"readyState":1}
+2014-12-09 12:15:26.391 WhichMovie[4263:286873] 6
+2014-12-09 12:15:26.394 WhichMovie[4263:286873] Q
+2014-12-09 12:15:27.065 WhichMovie[4263:286873] 7
+2014-12-09 12:15:27.069 WhichMovie[4263:286873] Q
+2014-12-09 12:15:27.069 WhichMovie[4263:286873] {"readyState":1}
+2014-12-09 12:15:28.244 WhichMovie[4263:286873] 8
+2014-12-09 12:15:28.247 WhichMovie[4263:286873] Q
+2014-12-09 12:15:28.997 WhichMovie[4263:286873] 9
+2014-12-09 12:15:29.002 WhichMovie[4263:286873] Q
+2014-12-09 12:15:29.002 WhichMovie[4263:286873] {"readyState":1}
+2014-12-09 12:15:29.897 WhichMovie[4263:286873] 10
+2014-12-09 12:15:29.899 WhichMovie[4263:286873] Q
+2014-12-09 12:15:30.684 WhichMovie[4263:286873] 11
+2014-12-09 12:15:30.688 WhichMovie[4263:286873] Q
+2014-12-09 12:15:30.688 WhichMovie[4263:286873] {"readyState":1}
+2014-12-09 12:15:31.845 WhichMovie[4263:286873] 12
+2014-12-09 12:15:31.847 WhichMovie[4263:286873] Q
+2014-12-09 12:15:36.909 WhichMovie[4263:286873] CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 12:15:36.909 WhichMovie[4263:286873] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 12:19:18.412 WhichMovie[4497:289531] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:19:18.413 WhichMovie[4497:289531] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:19:18.415 WhichMovie[4497:289531] Unlimited access to network resources
+2014-12-09 12:19:18.419 WhichMovie[4497:289531] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:19:18.968 WhichMovie[4497:289531] Resetting plugins due to page load.
+2014-12-09 12:19:19.100 WhichMovie[4497:289531] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/72241A80-714C-4533-B2B9-FDE2F93C652A/WhichMovie.app/www/index.html
+2014-12-09 12:19:26.342 WhichMovie[4497:289531] 2
+2014-12-09 12:19:26.347 WhichMovie[4497:289531] hv
+2014-12-09 12:19:26.347 WhichMovie[4497:289531] {"readyState":1}
+2014-12-09 12:19:28.101 WhichMovie[4497:289531] 3
+2014-12-09 12:19:28.104 WhichMovie[4497:289531] hv
+2014-12-09 12:19:30.723 WhichMovie[4497:289531] 4
+2014-12-09 12:19:30.725 WhichMovie[4497:289531] hv
+2014-12-09 12:20:02.691 WhichMovie[4682:290384] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:20:02.692 WhichMovie[4682:290384] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:20:02.694 WhichMovie[4682:290384] Unlimited access to network resources
+2014-12-09 12:20:02.697 WhichMovie[4682:290384] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:20:02.909 WhichMovie[4682:290384] Resetting plugins due to page load.
+2014-12-09 12:20:03.028 WhichMovie[4682:290384] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/A53FC7DC-A561-4C8C-8449-33DBE19A4295/WhichMovie.app/www/index.html
+2014-12-09 12:20:15.450 WhichMovie[4682:290384] 1
+2014-12-09 12:20:15.455 WhichMovie[4682:290384] sfg
+2014-12-09 12:20:15.456 WhichMovie[4682:290384] {"readyState":1}
+2014-12-09 12:20:17.147 WhichMovie[4682:290384] 2
+2014-12-09 12:20:17.149 WhichMovie[4682:290384] sfg
+2014-12-09 12:20:19.657 WhichMovie[4682:290384] 3
+2014-12-09 12:20:19.661 WhichMovie[4682:290384] sfg
+2014-12-09 12:20:19.661 WhichMovie[4682:290384] {"readyState":1}
+2014-12-09 12:20:22.518 WhichMovie[4682:290384] 4
+2014-12-09 12:20:22.520 WhichMovie[4682:290384] sfg
+2014-12-09 12:20:32.361 WhichMovie[4682:290384] 5
+2014-12-09 12:20:32.366 WhichMovie[4682:290384] sfg
+2014-12-09 12:20:32.366 WhichMovie[4682:290384] {"readyState":1}
+2014-12-09 12:20:33.952 WhichMovie[4682:290384] 6
+2014-12-09 12:20:33.954 WhichMovie[4682:290384] sfg
+2014-12-09 12:20:35.987 WhichMovie[4682:290384] 7
+2014-12-09 12:20:35.990 WhichMovie[4682:290384] sfg
+2014-12-09 12:21:32.854 WhichMovie[4864:291523] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:21:32.855 WhichMovie[4864:291523] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:21:32.857 WhichMovie[4864:291523] Unlimited access to network resources
+2014-12-09 12:21:32.859 WhichMovie[4864:291523] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:21:33.080 WhichMovie[4864:291523] Resetting plugins due to page load.
+2014-12-09 12:21:33.198 WhichMovie[4864:291523] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/528668DA-B894-4784-A93A-C144F58E19AE/WhichMovie.app/www/index.html
+2014-12-09 12:21:40.774 WhichMovie[4864:291523] 1
+2014-12-09 12:21:40.776 WhichMovie[4864:291523] hgv
+2014-12-09 12:21:42.002 WhichMovie[4864:291523] 2
+2014-12-09 12:21:42.007 WhichMovie[4864:291523] hgv
+2014-12-09 12:21:42.007 WhichMovie[4864:291523] {"readyState":1}
+2014-12-09 12:21:43.234 WhichMovie[4864:291523] 3
+2014-12-09 12:21:43.236 WhichMovie[4864:291523] hgv
+2014-12-09 12:21:44.367 WhichMovie[4864:291523] 4
+2014-12-09 12:21:44.372 WhichMovie[4864:291523] hgv
+2014-12-09 12:21:44.372 WhichMovie[4864:291523] {"readyState":1}
+2014-12-09 12:21:45.550 WhichMovie[4864:291523] 5
+2014-12-09 12:21:45.553 WhichMovie[4864:291523] hgv
+2014-12-09 12:23:04.571 WhichMovie[5042:292587] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:23:04.572 WhichMovie[5042:292587] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:23:04.573 WhichMovie[5042:292587] Unlimited access to network resources
+2014-12-09 12:23:04.576 WhichMovie[5042:292587] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:23:04.792 WhichMovie[5042:292587] Resetting plugins due to page load.
+2014-12-09 12:23:04.908 WhichMovie[5042:292587] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/EFA90BCF-EBB3-4B19-AE74-CBED4E6EB568/WhichMovie.app/www/index.html
+2014-12-09 12:23:11.939 WhichMovie[5042:292587] 1
+2014-12-09 12:23:12.738 WhichMovie[5042:292587] kd
+2014-12-09 12:23:26.578 WhichMovie[5042:292587] 2
+2014-12-09 12:23:26.581 WhichMovie[5042:292587] kd
+2014-12-09 12:23:28.111 WhichMovie[5042:292587] 3
+2014-12-09 12:23:28.113 WhichMovie[5042:292587] kd
+2014-12-09 12:23:32.168 WhichMovie[5042:292587] 4
+2014-12-09 12:23:32.173 WhichMovie[5042:292587] kd
+2014-12-09 12:23:32.173 WhichMovie[5042:292587] {"readyState":1}
+2014-12-09 12:23:33.521 WhichMovie[5042:292587] 5
+2014-12-09 12:23:33.523 WhichMovie[5042:292587] kd
+2014-12-09 12:23:36.430 WhichMovie[5042:292587] 6
+2014-12-09 12:23:36.435 WhichMovie[5042:292587] kd
+2014-12-09 12:23:36.435 WhichMovie[5042:292587] {"readyState":1}
+2014-12-09 12:23:37.753 WhichMovie[5042:292587] 7
+2014-12-09 12:23:37.755 WhichMovie[5042:292587] kd
+2014-12-09 12:23:38.870 WhichMovie[5042:292587] 8
+2014-12-09 12:23:38.874 WhichMovie[5042:292587] kd
+2014-12-09 12:23:38.874 WhichMovie[5042:292587] {"readyState":1}
+2014-12-09 12:23:40.540 WhichMovie[5042:292587] 9
+2014-12-09 12:23:40.542 WhichMovie[5042:292587] kd
+2014-12-09 12:23:48.577 WhichMovie[5214:293181] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:23:48.578 WhichMovie[5214:293181] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:23:48.580 WhichMovie[5214:293181] Unlimited access to network resources
+2014-12-09 12:23:48.582 WhichMovie[5214:293181] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:23:48.799 WhichMovie[5214:293181] Resetting plugins due to page load.
+2014-12-09 12:23:48.916 WhichMovie[5214:293181] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/31051450-5D39-48DE-A35E-FDD6D678A455/WhichMovie.app/www/index.html
+2014-12-09 12:23:58.871 WhichMovie[5214:293181] 1
+2014-12-09 12:23:58.873 WhichMovie[5214:293181] fouch2
+2014-12-09 12:24:02.024 WhichMovie[5214:293181] 2
+2014-12-09 12:24:02.029 WhichMovie[5214:293181] fouch2
+2014-12-09 12:24:02.029 WhichMovie[5214:293181] {"readyState":1}
+2014-12-09 12:24:06.913 WhichMovie[5214:293181] 3
+2014-12-09 12:24:06.915 WhichMovie[5214:293181] fouch2
+2014-12-09 12:24:09.312 WhichMovie[5214:293181] 4
+2014-12-09 12:24:09.314 WhichMovie[5214:293181] fouch2
+2014-12-09 12:24:11.457 WhichMovie[5214:293181] 5
+2014-12-09 12:24:11.461 WhichMovie[5214:293181] fouch2
+2014-12-09 12:24:11.461 WhichMovie[5214:293181] {"readyState":1}
+2014-12-09 12:24:17.332 WhichMovie[5214:293181] CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 12:24:17.332 WhichMovie[5214:293181] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 12:24:18.985 WhichMovie[5214:293181] 6
+2014-12-09 12:24:18.987 WhichMovie[5214:293181] fouch2
+2014-12-09 12:24:21.232 WhichMovie[5214:293181] 7
+2014-12-09 12:24:21.236 WhichMovie[5214:293181] fouch2
+2014-12-09 12:24:21.237 WhichMovie[5214:293181] {"readyState":1}
+2014-12-09 12:24:23.498 WhichMovie[5214:293181] 8
+2014-12-09 12:24:23.501 WhichMovie[5214:293181] fouch2
+2014-12-09 12:24:28.160 WhichMovie[5214:293181] Resetting plugins due to page load.
+2014-12-09 12:24:29.466 WhichMovie[5214:293181] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/31051450-5D39-48DE-A35E-FDD6D678A455/WhichMovie.app/www/index.html#films/9/BO
+Dec  9 12:24:31 maccharles.eleves.polytechnique.fr rtcreporting[5214] <Info>: logging starts...
+Dec  9 12:24:31 maccharles.eleves.polytechnique.fr rtcreporting[5214] <Debug>: setMessageLoggingBlock: called
+2014-12-09 12:24:33.124 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4110 UIImageView:0x78f5fc30.centerX == AVUnsupportedContentIndicatorView:0x78f45130.centerX>",
+    "<NSLayoutConstraint:0x798d4410 H:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd1800 H:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1830 H:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd1710 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4110 UIImageView:0x78f5fc30.centerX == AVUnsupportedContentIndicatorView:0x78f45130.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.125 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc14e0 UIView:0x78f9a3c0.centerX == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerX>",
+    "<NSLayoutConstraint:0x78fc1540 H:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1a80 H:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1ab0 H:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd1710 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc14e0 UIView:0x78f9a3c0.centerX == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.125 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1540 H:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fc1930 H:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1a80 H:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1ab0 H:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd1710 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1930 H:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.126 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4410 H:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x798d4580 H:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd1800 H:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1830 H:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd1710 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4580 H:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.127 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f306b0 UIImageView:0x798d4dc0.centerX == AVAudioOnlyIndicatorView:0x798d4b00.centerX>",
+    "<NSLayoutConstraint:0x78f9a000 H:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1950 H:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd19b0 H:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd1710 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78f306b0 UIImageView:0x798d4dc0.centerX == AVAudioOnlyIndicatorView:0x798d4b00.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.127 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f9a000 H:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fbbbb0 H:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1950 H:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd19b0 H:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd1710 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fbbbb0 H:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.129 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>",
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fc1bd0 V:|-(0)-[UIImageView:0x78f9b080]   (Names: '|':UIView:0x78f9a3c0 )>",
+    "<NSLayoutConstraint:0x78fc1c30 V:[UIImageView:0x78f9b080]-(20)-[UILabel:0x78fc1030]>",
+    "<NSLayoutConstraint:0x78fc1c60 V:[UILabel:0x78fc1030]-(0)-[UILabel:0x78fc1210]>",
+    "<NSLayoutConstraint:0x78fc1c90 V:[UILabel:0x78fc1210]-(0)-|   (Names: '|':UIView:0x78f9a3c0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1760 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd17d0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1c30 V:[UIImageView:0x78f9b080]-(20)-[UILabel:0x78fc1030]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.130 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4160 UIImageView:0x78f5fc30.centerY == AVUnsupportedContentIndicatorView:0x78f45130.centerY + 10>",
+    "<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd18b0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd18f0 V:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1760 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd17d0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4160 UIImageView:0x78f5fc30.centerY == AVUnsupportedContentIndicatorView:0x78f45130.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.131 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>",
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1760 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd17d0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.131 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78faac40 UIImageView:0x798d4dc0.centerY == AVAudioOnlyIndicatorView:0x798d4b00.centerY + 10>",
+    "<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1a00 V:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1a50 V:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1760 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd17d0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78faac40 UIImageView:0x798d4dc0.centerY == AVAudioOnlyIndicatorView:0x798d4b00.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.132 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1960 V:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1760 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd17d0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.133 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d46b0 V:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd18b0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd18f0 V:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1760 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd17d0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:24:33.134 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f47e10 V:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1a00 V:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1a50 V:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1760 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd17d0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.854 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc14e0 UIView:0x78f9a3c0.centerX == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerX>",
+    "<NSLayoutConstraint:0x78fd1a80 H:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1ab0 H:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x78fc1540 H:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc14e0 UIView:0x78f9a3c0.centerX == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.855 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1540 H:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1a80 H:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1ab0 H:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x78fc1930 H:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1930 H:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.857 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fd1f50 H:|-(0)-[UIView:0x78fd10f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1fb0 H:[UIView:0x78fd10f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x79806a00 H:|-(14)-[UILabel:0x798e69a0'Slide your finger down to...']   (Names: '|':_UIBackdropContentView:0x78e400c0 )>",
+    "<NSLayoutConstraint:0x798069d0 H:[UILabel:0x798e69a0'Slide your finger down to...']-(14)-|   (Names: '|':_UIBackdropContentView:0x78e400c0 )>",
+    "<NSLayoutConstraint:0x79806ec0 H:|-(0)-[_UIBackdropView:0x78fbeeb0]   (Names: '|':UIView:0x78fecec0 )>",
+    "<NSLayoutConstraint:0x79806e90 H:[_UIBackdropView:0x78fbeeb0]-(0)-|   (Names: '|':UIView:0x78fecec0 )>",
+    "<NSLayoutConstraint:0x79807090 H:|-(0)-[UIView:0x78fecec0]   (Names: '|':AVAlphaUpdatingView:0x78fd8710 )>",
+    "<NSLayoutConstraint:0x79807060 H:[UIView:0x78fecec0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x78fd8710 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x78fd05c0 h=-&- v=-&- _UIBackdropContentView:0x78e400c0.width == _UIBackdropView:0x78fbeeb0.width>",
+    "<NSLayoutConstraint:0x78ff3270 H:|-(0)-[AVAlphaUpdatingView:0x78fd8710]   (Names: '|':UIView:0x78fd10f0 )>",
+    "<NSLayoutConstraint:0x78ff32e0 H:[AVAlphaUpdatingView:0x78fd8710]-(0)-|   (Names: '|':UIView:0x78fd10f0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798069d0 H:[UILabel:0x798e69a0'Slide your finger down to...']-(14)-|   (Names: '|':_UIBackdropContentView:0x78e400c0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.859 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fd1f50 H:|-(0)-[UIView:0x78fd10f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1fb0 H:[UIView:0x78fd10f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x79806940 H:|-(14)-[UILabel:0x798eaf30'Hi-Speed Scrubbing']   (Names: '|':_UIBackdropContentView:0x78e400c0 )>",
+    "<NSLayoutConstraint:0x79806910 H:[UILabel:0x798eaf30'Hi-Speed Scrubbing']-(14)-|   (Names: '|':_UIBackdropContentView:0x78e400c0 )>",
+    "<NSLayoutConstraint:0x79806ec0 H:|-(0)-[_UIBackdropView:0x78fbeeb0]   (Names: '|':UIView:0x78fecec0 )>",
+    "<NSLayoutConstraint:0x79806e90 H:[_UIBackdropView:0x78fbeeb0]-(0)-|   (Names: '|':UIView:0x78fecec0 )>",
+    "<NSLayoutConstraint:0x79807090 H:|-(0)-[UIView:0x78fecec0]   (Names: '|':AVAlphaUpdatingView:0x78fd8710 )>",
+    "<NSLayoutConstraint:0x79807060 H:[UIView:0x78fecec0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x78fd8710 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x78fd05c0 h=-&- v=-&- _UIBackdropContentView:0x78e400c0.width == _UIBackdropView:0x78fbeeb0.width>",
+    "<NSLayoutConstraint:0x78ff3270 H:|-(0)-[AVAlphaUpdatingView:0x78fd8710]   (Names: '|':UIView:0x78fd10f0 )>",
+    "<NSLayoutConstraint:0x78ff32e0 H:[AVAlphaUpdatingView:0x78fd8710]-(0)-|   (Names: '|':UIView:0x78fd10f0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x79806910 H:[UILabel:0x798eaf30'Hi-Speed Scrubbing']-(14)-|   (Names: '|':_UIBackdropContentView:0x78e400c0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.860 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4110 UIImageView:0x78f5fc30.centerX == AVUnsupportedContentIndicatorView:0x78f45130.centerX>",
+    "<NSLayoutConstraint:0x798d4410 H:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd1800 H:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1830 H:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4110 UIImageView:0x78f5fc30.centerX == AVUnsupportedContentIndicatorView:0x78f45130.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.861 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f306b0 UIImageView:0x798d4dc0.centerX == AVAudioOnlyIndicatorView:0x798d4b00.centerX>",
+    "<NSLayoutConstraint:0x78f9a000 H:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1950 H:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd19b0 H:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78f306b0 UIImageView:0x798d4dc0.centerX == AVAudioOnlyIndicatorView:0x798d4b00.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.863 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fd1f50 H:|-(0)-[UIView:0x78fd10f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1fb0 H:[UIView:0x78fd10f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x79806b80 H:|-(0)-[UIView:0x798dbcf0]   (Names: '|':_UIBackdropContentView:0x78e400c0 )>",
+    "<NSLayoutConstraint:0x79806b50 H:[UIView:0x798dbcf0]-(0)-|   (Names: '|':_UIBackdropContentView:0x78e400c0 )>",
+    "<NSLayoutConstraint:0x79806ec0 H:|-(0)-[_UIBackdropView:0x78fbeeb0]   (Names: '|':UIView:0x78fecec0 )>",
+    "<NSLayoutConstraint:0x79806e90 H:[_UIBackdropView:0x78fbeeb0]-(0)-|   (Names: '|':UIView:0x78fecec0 )>",
+    "<NSLayoutConstraint:0x79807090 H:|-(0)-[UIView:0x78fecec0]   (Names: '|':AVAlphaUpdatingView:0x78fd8710 )>",
+    "<NSLayoutConstraint:0x79807060 H:[UIView:0x78fecec0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x78fd8710 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x78fd05c0 h=-&- v=-&- _UIBackdropContentView:0x78e400c0.width == _UIBackdropView:0x78fbeeb0.width>",
+    "<NSLayoutConstraint:0x78ff3270 H:|-(0)-[AVAlphaUpdatingView:0x78fd8710]   (Names: '|':UIView:0x78fd10f0 )>",
+    "<NSLayoutConstraint:0x78ff32e0 H:[AVAlphaUpdatingView:0x78fd8710]-(0)-|   (Names: '|':UIView:0x78fd10f0 )>",
+    "<NSLayoutConstraint:0x78e7da40 H:|-(14)-[AVButton:0x798dbda0'Done'](LTR)   (Names: '|':UIView:0x798dbcf0 )>",
+    "<NSLayoutConstraint:0x78e7c740 H:[AVButton:0x798dbda0'Done']-(0)-[UILabel:0x798dd730'1:47'](LTR)>",
+    "<NSLayoutConstraint:0x78e7bbd0 H:[UILabel:0x798dd730'1:47'(55)]>",
+    "<NSLayoutConstraint:0x78e7c6f0 H:[UILabel:0x798dd730'1:47']-(6)-[AVScrubber:0x798dec70](LTR)>",
+    "<NSLayoutConstraint:0x78e7c810 AVScrubber:0x798dec70.right == UILabel:0x798e33d0'\U200e-0:00'.left - 6>",
+    "<NSLayoutConstraint:0x78e66d60 UILabel:0x798e33d0'\U200e-0:00'.right == UIView:0x798dbcf0.right - 2>",
+    "<NSLayoutConstraint:0x78e66bb0 H:[UILabel:0x798e33d0'\U200e-0:00'(59)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x79806b50 H:[UIView:0x798dbcf0]-(0)-|   (Names: '|':_UIBackdropContentView:0x78e400c0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.865 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4410 H:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd1800 H:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1830 H:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x798d4580 H:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4580 H:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.866 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f9a000 H:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1950 H:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd19b0 H:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x78fbbbb0 H:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fbbbb0 H:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.868 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fd1f50 H:|-(0)-[UIView:0x78fd10f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1fb0 H:[UIView:0x78fd10f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd16a0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78feb390 H:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fdb200 'UIView-Encapsulated-Layout-Width' H:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x79806600 H:|-(0)-[_UIBackdropView:0x798dd110]   (Names: '|':UIView:0x798dcb90 )>",
+    "<NSLayoutConstraint:0x798065d0 H:[_UIBackdropView:0x798dd110]-(0)-|   (Names: '|':UIView:0x798dcb90 )>",
+    "<NSLayoutConstraint:0x798067b0 H:|-(0)-[UIView:0x798dcb90]   (Names: '|':AVAlphaUpdatingView:0x78fd8710 )>",
+    "<NSLayoutConstraint:0x79806780 H:[UIView:0x798dcb90]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x78fd8710 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x78fda750 h=-&- v=-&- _UIBackdropContentView:0x798db200.width == _UIBackdropView:0x798dd110.width>",
+    "<NSLayoutConstraint:0x78ff3270 H:|-(0)-[AVAlphaUpdatingView:0x78fd8710]   (Names: '|':UIView:0x78fd10f0 )>",
+    "<NSLayoutConstraint:0x78ff32e0 H:[AVAlphaUpdatingView:0x78fd8710]-(0)-|   (Names: '|':UIView:0x78fd10f0 )>",
+    "<NSLayoutConstraint:0x78e7a040 UIView:0x798db8a0.centerX == _UIBackdropContentView:0x798db200.centerX>",
+    "<NSLayoutConstraint:0x78e7a1e0 UIView:0x798db9d0.right == _UIBackdropContentView:0x798db200.right - 15>",
+    "<NSLayoutConstraint:0x78e67660 UIView:0x798db8a0.right <= UIView:0x798db9d0.left - 15>",
+    "<NSLayoutConstraint:0x78e72a40 H:|-(0)-[AVButton:0x798f0e80](LTR)   (Names: '|':UIView:0x798db8a0 )>",
+    "<NSLayoutConstraint:0x78e72aa0 AVButton:0x798f2bd0.centerX == AVButton:0x798f0e80.right + 67>",
+    "<NSLayoutConstraint:0x78e72ad0 AVButton:0x798f2bd0.centerX == AVButton:0x798f48c0.left - 67>",
+    "<NSLayoutConstraint:0x78e70c60 AVButton:0x798f48c0.right == UIView:0x798db8a0.right>",
+    "<NSLayoutConstraint:0x78e70cc0 H:|-(0)-[AVButton:0x798f8490](LTR)   (Names: '|':UIView:0x798db9d0 )>",
+    "<NSLayoutConstraint:0x78e70a10 AVButton:0x798f8490.right == AVButton:0x798fa1c0.left - 25>",
+    "<NSLayoutConstraint:0x78e70a70 AVButton:0x798fa1c0.right == UIView:0x798db9d0.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798065d0 H:[_UIBackdropView:0x798dd110]-(0)-|   (Names: '|':UIView:0x798dcb90 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.870 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>",
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fc1bd0 V:|-(0)-[UIImageView:0x78f9b080]   (Names: '|':UIView:0x78f9a3c0 )>",
+    "<NSLayoutConstraint:0x78fc1c30 V:[UIImageView:0x78f9b080]-(20)-[UILabel:0x78fc1030]>",
+    "<NSLayoutConstraint:0x78fc1c60 V:[UILabel:0x78fc1030]-(0)-[UILabel:0x78fc1210]>",
+    "<NSLayoutConstraint:0x78fc1c90 V:[UILabel:0x78fc1210]-(0)-|   (Names: '|':UIView:0x78f9a3c0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fc3160 V:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fecfc0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fd15b0 'UIView-Encapsulated-Layout-Height' V:[UIView:0x78fd5ad0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1c30 V:[UIImageView:0x78f9b080]-(20)-[UILabel:0x78fc1030]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.872 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>",
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fc3160 V:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fecfc0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fd15b0 'UIView-Encapsulated-Layout-Height' V:[UIView:0x78fd5ad0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.873 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4160 UIImageView:0x78f5fc30.centerY == AVUnsupportedContentIndicatorView:0x78f45130.centerY + 10>",
+    "<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd18b0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd18f0 V:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fc3160 V:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fecfc0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fd15b0 'UIView-Encapsulated-Layout-Height' V:[UIView:0x78fd5ad0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4160 UIImageView:0x78f5fc30.centerY == AVUnsupportedContentIndicatorView:0x78f45130.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.874 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78faac40 UIImageView:0x798d4dc0.centerY == AVAudioOnlyIndicatorView:0x798d4b00.centerY + 10>",
+    "<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1a00 V:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1a50 V:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fc3160 V:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fecfc0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fd15b0 'UIView-Encapsulated-Layout-Height' V:[UIView:0x78fd5ad0(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78faac40 UIImageView:0x798d4dc0.centerY == AVAudioOnlyIndicatorView:0x798d4b00.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.875 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fc3160 V:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fecfc0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fd15b0 'UIView-Encapsulated-Layout-Height' V:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x78fc1960 V:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.876 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd18b0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd18f0 V:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fc3160 V:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fecfc0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fd15b0 'UIView-Encapsulated-Layout-Height' V:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x798d46b0 V:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:30.877 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1a00 V:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1a50 V:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fc3160 V:|-(0)-[UIView:0x78f55620]   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fecfc0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':UIView:0x78fd5ad0 )>",
+    "<NSLayoutConstraint:0x78fd15b0 'UIView-Encapsulated-Layout-Height' V:[UIView:0x78fd5ad0(1)]>",
+    "<NSLayoutConstraint:0x78f47e10 V:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.297 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4110 UIImageView:0x78f5fc30.centerX == AVUnsupportedContentIndicatorView:0x78f45130.centerX>",
+    "<NSLayoutConstraint:0x798d4410 H:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd1800 H:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1830 H:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78e763f0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78e4f220 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4110 UIImageView:0x78f5fc30.centerX == AVUnsupportedContentIndicatorView:0x78f45130.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.298 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc14e0 UIView:0x78f9a3c0.centerX == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerX>",
+    "<NSLayoutConstraint:0x78fc1540 H:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1a80 H:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1ab0 H:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78e763f0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78e4f220 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc14e0 UIView:0x78f9a3c0.centerX == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.299 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1540 H:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fc1930 H:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1a80 H:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1ab0 H:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78e763f0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78e4f220 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1930 H:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.300 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4410 H:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x798d4580 H:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd1800 H:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1830 H:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78e763f0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78e4f220 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4580 H:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.301 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f306b0 UIImageView:0x798d4dc0.centerX == AVAudioOnlyIndicatorView:0x798d4b00.centerX>",
+    "<NSLayoutConstraint:0x78f9a000 H:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1950 H:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd19b0 H:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78e763f0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78e4f220 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78f306b0 UIImageView:0x798d4dc0.centerX == AVAudioOnlyIndicatorView:0x798d4b00.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.301 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f9a000 H:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fbbbb0 H:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1950 H:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd19b0 H:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fe7f40 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78e763f0 H:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78e4f220 H:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fbbbb0 H:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.303 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>",
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fc1bd0 V:|-(0)-[UIImageView:0x78f9b080]   (Names: '|':UIView:0x78f9a3c0 )>",
+    "<NSLayoutConstraint:0x78fc1c30 V:[UIImageView:0x78f9b080]-(20)-[UILabel:0x78fc1030]>",
+    "<NSLayoutConstraint:0x78fc1c60 V:[UILabel:0x78fc1030]-(0)-[UILabel:0x78fc1210]>",
+    "<NSLayoutConstraint:0x78fc1c90 V:[UILabel:0x78fc1210]-(0)-|   (Names: '|':UIView:0x78f9a3c0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78fec2c0 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd16a0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1c30 V:[UIImageView:0x78f9b080]-(20)-[UILabel:0x78fc1030]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.304 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d4160 UIImageView:0x78f5fc30.centerY == AVUnsupportedContentIndicatorView:0x78f45130.centerY + 10>",
+    "<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd18b0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd18f0 V:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78fec2c0 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd16a0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4160 UIImageView:0x78f5fc30.centerY == AVUnsupportedContentIndicatorView:0x78f45130.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.304 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>",
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78fec2c0 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd16a0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc1510 UIView:0x78f9a3c0.centerY == AVExternalPlaybackIndicatorView:0x78fbf0f0.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.305 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78faac40 UIImageView:0x798d4dc0.centerY == AVAudioOnlyIndicatorView:0x798d4b00.centerY + 10>",
+    "<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1a00 V:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1a50 V:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78fec2c0 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd16a0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78faac40 UIImageView:0x798d4dc0.centerY == AVAudioOnlyIndicatorView:0x798d4b00.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.306 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78f47e10 V:|-(>=10)-[UIImageView:0x798d4dc0]   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>",
+    "<NSLayoutConstraint:0x78fd1a00 V:|-(0)-[AVAudioOnlyIndicatorView:0x798d4b00]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1a50 V:[AVAudioOnlyIndicatorView:0x798d4b00]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78fec2c0 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd16a0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78f8ca30 V:[UIImageView:0x798d4dc0]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x798d4b00 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.307 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78fc1960 V:|-(>=10)-[UIView:0x78f9a3c0]   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>",
+    "<NSLayoutConstraint:0x78fd1b30 V:|-(0)-[AVExternalPlaybackIndicatorView:0x78fbf0f0]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd1b60 V:[AVExternalPlaybackIndicatorView:0x78fbf0f0]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78fec2c0 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd16a0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78fc19c0 V:[UIView:0x78f9a3c0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x78fbf0f0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:31.308 WhichMovie[5214:293181] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x798d46b0 V:|-(>=10)-[UIImageView:0x78f5fc30]   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>",
+    "<NSLayoutConstraint:0x78fd18b0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x78f45130]   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fd18f0 V:[AVUnsupportedContentIndicatorView:0x78f45130]-(0)-|   (Names: '|':UIView:0x78f55620 )>",
+    "<NSLayoutConstraint:0x78fea1f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x798d1ac0(1)]>",
+    "<NSLayoutConstraint:0x78fec2c0 V:|-(0)-[UIView:0x78f55620]   (Names: '|':AVPlayerView:0x798d1ac0 )>",
+    "<NSLayoutConstraint:0x78fd16a0 V:[UIView:0x78f55620]-(0)-|   (Names: '|':AVPlayerView:0x798d1ac0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x798d4710 V:[UIImageView:0x78f5fc30]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78f45130 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-09 12:26:40.852 WhichMovie[5214:293181] 9
+2014-12-09 12:26:40.863 WhichMovie[5214:293181] fouch2
+2014-12-09 12:26:44.441 WhichMovie[5214:293181] 10
+2014-12-09 12:26:44.443 WhichMovie[5214:293181] fouch2
+2014-12-09 12:26:46.647 WhichMovie[5214:293181] 11
+2014-12-09 12:26:46.650 WhichMovie[5214:293181] fouch2
+2014-12-09 12:40:12.264 WhichMovie[5469:300437] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:40:12.266 WhichMovie[5469:300437] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:40:12.268 WhichMovie[5469:300437] Unlimited access to network resources
+2014-12-09 12:40:12.270 WhichMovie[5469:300437] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:40:12.737 WhichMovie[5469:300437] Resetting plugins due to page load.
+2014-12-09 12:40:12.852 WhichMovie[5469:300437] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/F0BFB7BE-EF49-4A8B-A645-ABE886ED4B65/WhichMovie.app/www/index.html
+2014-12-09 12:40:21.764 WhichMovie[5469:300437] 1
+2014-12-09 12:40:21.770 WhichMovie[5469:300437] ff
+2014-12-09 12:40:21.770 WhichMovie[5469:300437] {"readyState":1}
+2014-12-09 12:40:23.281 WhichMovie[5469:300437] 2
+2014-12-09 12:40:23.283 WhichMovie[5469:300437] ff
+2014-12-09 12:40:25.018 WhichMovie[5469:300437] 3
+2014-12-09 12:40:25.022 WhichMovie[5469:300437] ff
+2014-12-09 12:40:25.022 WhichMovie[5469:300437] {"readyState":1}
+2014-12-09 12:40:26.931 WhichMovie[5469:300437] 4
+2014-12-09 12:40:26.933 WhichMovie[5469:300437] ff
+2014-12-09 12:40:28.631 WhichMovie[5469:300437] 5
+2014-12-09 12:40:28.636 WhichMovie[5469:300437] ff
+2014-12-09 12:40:28.637 WhichMovie[5469:300437] {"readyState":1}
+2014-12-09 12:40:29.595 WhichMovie[5469:300437] 6
+2014-12-09 12:40:29.597 WhichMovie[5469:300437] ff
+2014-12-09 12:40:30.598 WhichMovie[5469:300437] 7
+2014-12-09 12:40:30.601 WhichMovie[5469:300437] ff
+2014-12-09 12:40:30.602 WhichMovie[5469:300437] {"readyState":1}
+2014-12-09 12:40:31.559 WhichMovie[5469:300437] 8
+2014-12-09 12:40:31.561 WhichMovie[5469:300437] ff
+2014-12-09 12:40:32.634 WhichMovie[5469:300437] 9
+2014-12-09 12:40:32.638 WhichMovie[5469:300437] ff
+2014-12-09 12:40:32.639 WhichMovie[5469:300437] {"readyState":1}
+2014-12-09 12:40:33.652 WhichMovie[5469:300437] 10
+2014-12-09 12:40:34.353 WhichMovie[5469:300437] ff
+2014-12-09 12:40:37.493 WhichMovie[5469:300437] 11
+2014-12-09 12:40:37.496 WhichMovie[5469:300437] ff
+2014-12-09 12:40:38.917 WhichMovie[5469:300437] 12
+2014-12-09 12:40:38.919 WhichMovie[5469:300437] ff
+2014-12-09 12:40:52.892 WhichMovie[5469:300437] 12
+2014-12-09 12:40:52.894 WhichMovie[5469:300437] ff
+2014-12-09 12:41:13.746 WhichMovie[5469:300437] 1
+2014-12-09 12:41:13.749 WhichMovie[5469:300437] ff
+2014-12-09 12:41:15.794 WhichMovie[5469:300437] 2
+2014-12-09 12:41:15.799 WhichMovie[5469:300437] ff
+2014-12-09 12:41:15.799 WhichMovie[5469:300437] {"readyState":1}
+2014-12-09 12:41:17.630 WhichMovie[5469:300437] 3
+2014-12-09 12:41:17.633 WhichMovie[5469:300437] ff
+2014-12-09 12:41:27.007 WhichMovie[5469:300437] 4
+2014-12-09 12:41:27.010 WhichMovie[5469:300437] ff
+2014-12-09 12:41:28.307 WhichMovie[5469:300437] 5
+2014-12-09 12:41:28.310 WhichMovie[5469:300437] ff
+2014-12-09 12:41:29.891 WhichMovie[5469:300437] 6
+2014-12-09 12:41:29.893 WhichMovie[5469:300437] ff
+2014-12-09 12:41:31.205 WhichMovie[5469:300437] 7
+2014-12-09 12:41:31.208 WhichMovie[5469:300437] ff
+2014-12-09 12:41:32.414 WhichMovie[5469:300437] 8
+2014-12-09 12:41:32.416 WhichMovie[5469:300437] ff
+2014-12-09 12:41:33.436 WhichMovie[5469:300437] 9
+2014-12-09 12:41:33.438 WhichMovie[5469:300437] ff
+2014-12-09 12:41:34.704 WhichMovie[5469:300437] 10
+2014-12-09 12:41:35.616 WhichMovie[5469:300437] ff
+2014-12-09 12:41:37.305 WhichMovie[5469:300437] 11
+2014-12-09 12:41:37.307 WhichMovie[5469:300437] ff
+2014-12-09 12:41:38.892 WhichMovie[5469:300437] 12
+2014-12-09 12:41:38.894 WhichMovie[5469:300437] ff
+2014-12-09 12:44:49.240 WhichMovie[5659:302781] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:44:49.241 WhichMovie[5659:302781] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:44:49.243 WhichMovie[5659:302781] Unlimited access to network resources
+2014-12-09 12:44:49.246 WhichMovie[5659:302781] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:44:49.463 WhichMovie[5659:302781] Resetting plugins due to page load.
+2014-12-09 12:44:49.577 WhichMovie[5659:302781] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/F7D23AAE-611C-4B03-A24E-2F90D6A01C42/WhichMovie.app/www/index.html
+2014-12-09 12:44:55.342 WhichMovie[5659:302781] 1
+2014-12-09 12:44:55.348 WhichMovie[5659:302781] h
+2014-12-09 12:44:55.348 WhichMovie[5659:302781] {"readyState":1}
+2014-12-09 12:44:56.953 WhichMovie[5659:302781] 2
+2014-12-09 12:44:56.955 WhichMovie[5659:302781] h
+2014-12-09 12:44:58.051 WhichMovie[5659:302781] 3
+2014-12-09 12:44:58.728 WhichMovie[5659:302781] h
+2014-12-09 12:44:58.728 WhichMovie[5659:302781] {"readyState":1}
+2014-12-09 12:45:00.793 WhichMovie[5659:302781] 4
+2014-12-09 12:45:00.795 WhichMovie[5659:302781] h
+2014-12-09 12:45:02.301 WhichMovie[5659:302781] 5
+2014-12-09 12:45:02.303 WhichMovie[5659:302781] h
+2014-12-09 12:46:46.662 WhichMovie[5839:304057] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 12:46:46.663 WhichMovie[5839:304057] Multi-tasking -> Device: YES, App: YES
+2014-12-09 12:46:46.664 WhichMovie[5839:304057] Unlimited access to network resources
+2014-12-09 12:46:46.667 WhichMovie[5839:304057] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 12:46:46.900 WhichMovie[5839:304057] Resetting plugins due to page load.
+2014-12-09 12:46:47.017 WhichMovie[5839:304057] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/9A4374C1-6C55-40CA-A080-76E07B222928/WhichMovie.app/www/index.html
+2014-12-09 12:46:53.666 WhichMovie[5839:304057] 1
+2014-12-09 12:46:53.671 WhichMovie[5839:304057] jkn
+2014-12-09 12:46:53.671 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:46:55.567 WhichMovie[5839:304057] 2
+2014-12-09 12:46:55.569 WhichMovie[5839:304057] jkn
+2014-12-09 12:46:57.648 WhichMovie[5839:304057] 3
+2014-12-09 12:46:57.653 WhichMovie[5839:304057] jkn
+2014-12-09 12:46:57.653 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:46:59.087 WhichMovie[5839:304057] 4
+2014-12-09 12:46:59.089 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:05.322 WhichMovie[5839:304057] 5
+2014-12-09 12:47:05.326 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:05.326 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:47:07.141 WhichMovie[5839:304057] 6
+2014-12-09 12:47:07.145 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:07.145 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:47:08.724 WhichMovie[5839:304057] 7
+2014-12-09 12:47:08.727 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:08.728 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:47:10.368 WhichMovie[5839:304057] 8
+2014-12-09 12:47:10.372 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:10.372 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:47:11.925 WhichMovie[5839:304057] 9
+2014-12-09 12:47:11.929 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:11.929 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:47:13.207 WhichMovie[5839:304057] 10
+2014-12-09 12:47:13.210 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:13.211 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:47:14.667 WhichMovie[5839:304057] 11
+2014-12-09 12:47:14.671 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:14.671 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 12:47:16.054 WhichMovie[5839:304057] 12
+2014-12-09 12:47:16.059 WhichMovie[5839:304057] jkn
+2014-12-09 12:47:16.059 WhichMovie[5839:304057] {"readyState":1}
+2014-12-09 13:01:08.957 WhichMovie[6055:310360] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 13:01:08.958 WhichMovie[6055:310360] Multi-tasking -> Device: YES, App: YES
+2014-12-09 13:01:08.959 WhichMovie[6055:310360] Unlimited access to network resources
+2014-12-09 13:01:08.961 WhichMovie[6055:310360] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 13:01:09.259 WhichMovie[6055:310360] Resetting plugins due to page load.
+2014-12-09 13:01:09.418 WhichMovie[6055:310360] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/16908F35-B0CF-4EB9-8A2C-214390AF956F/WhichMovie.app/www/index.html
+2014-12-09 13:01:15.827 WhichMovie[6055:310360] 1
+2014-12-09 13:01:15.830 WhichMovie[6055:310360] ds
+2014-12-09 13:01:17.246 WhichMovie[6055:310360] 2
+2014-12-09 13:01:17.251 WhichMovie[6055:310360] ds
+2014-12-09 13:01:17.251 WhichMovie[6055:310360] {"readyState":1}
+2014-12-09 13:01:18.159 WhichMovie[6055:310360] 3
+2014-12-09 13:01:18.162 WhichMovie[6055:310360] ds
+2014-12-09 13:01:21.940 WhichMovie[6055:310379] Terminating since there is no system app.
+2014-12-09 13:03:10.345 WhichMovie[6279:311941] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 13:03:10.346 WhichMovie[6279:311941] Multi-tasking -> Device: YES, App: YES
+2014-12-09 13:03:10.348 WhichMovie[6279:311941] Unlimited access to network resources
+2014-12-09 13:03:10.351 WhichMovie[6279:311941] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 13:03:10.649 WhichMovie[6279:311941] Resetting plugins due to page load.
+2014-12-09 13:03:10.809 WhichMovie[6279:311941] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/C7D2DBC5-466F-4792-9779-8D4C015558C4/WhichMovie.app/www/index.html
+2014-12-09 13:03:16.604 WhichMovie[6279:311941] CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:03:16.605 WhichMovie[6279:311941] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:03:17.243 WhichMovie[6279:311941] CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:03:17.243 WhichMovie[6279:311941] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:04:43.586 WhichMovie[6471:313100] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 13:04:43.587 WhichMovie[6471:313100] Multi-tasking -> Device: YES, App: YES
+2014-12-09 13:04:43.588 WhichMovie[6471:313100] Unlimited access to network resources
+2014-12-09 13:04:43.591 WhichMovie[6471:313100] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 13:04:43.810 WhichMovie[6471:313100] Resetting plugins due to page load.
+2014-12-09 13:04:44.138 WhichMovie[6471:313100] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/840B2561-ED6A-4DA6-997E-6B6E841EA832/WhichMovie.app/www/index.html
+2014-12-09 13:04:54.354 WhichMovie[6471:313100] CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:04:54.354 WhichMovie[6471:313100] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:04:54.562 WhichMovie[6471:313100] CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:04:54.563 WhichMovie[6471:313100] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:04:54.778 WhichMovie[6471:313100] CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:04:54.779 WhichMovie[6471:313100] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:04:59.375 WhichMovie[6471:313100] CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:04:59.375 WhichMovie[6471:313100] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-09 13:05:07.994 WhichMovie[6649:313800] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 13:05:07.995 WhichMovie[6649:313800] Multi-tasking -> Device: YES, App: YES
+2014-12-09 13:05:07.997 WhichMovie[6649:313800] Unlimited access to network resources
+2014-12-09 13:05:08.000 WhichMovie[6649:313800] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 13:05:08.247 WhichMovie[6649:313800] Resetting plugins due to page load.
+2014-12-09 13:05:08.411 WhichMovie[6649:313800] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/6637BB73-C3DA-4A6A-99D8-BEDD90F94BB1/WhichMovie.app/www/index.html
+2014-12-09 13:06:06.076 WhichMovie[6824:314561] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 13:06:06.077 WhichMovie[6824:314561] Multi-tasking -> Device: YES, App: YES
+2014-12-09 13:06:06.079 WhichMovie[6824:314561] Unlimited access to network resources
+2014-12-09 13:06:06.081 WhichMovie[6824:314561] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 13:06:06.286 WhichMovie[6824:314561] Resetting plugins due to page load.
+2014-12-09 13:06:06.440 WhichMovie[6824:314561] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/0A54E012-F382-468F-A9CA-D85A36360A30/WhichMovie.app/www/index.html
+2014-12-09 13:06:13.668 WhichMovie[6824:314561] 1
+2014-12-09 13:06:13.675 WhichMovie[6824:314561] rf
+2014-12-09 13:06:13.675 WhichMovie[6824:314561] {"readyState":1}
+2014-12-09 13:06:14.938 WhichMovie[6824:314561] 2
+2014-12-09 13:06:14.941 WhichMovie[6824:314561] rf
+2014-12-09 13:06:16.012 WhichMovie[6824:314561] 3
+2014-12-09 13:06:16.724 WhichMovie[6824:314561] rf
+2014-12-09 13:06:17.697 WhichMovie[6824:314561] 4
+2014-12-09 13:06:17.699 WhichMovie[6824:314561] rf
+2014-12-09 13:06:19.056 WhichMovie[6824:314561] 5
+2014-12-09 13:06:22.312 WhichMovie[6824:314561] rf
+2014-12-09 13:06:22.312 WhichMovie[6824:314561] {"readyState":1}
+2014-12-09 13:06:24.684 WhichMovie[6824:314561] 6
+2014-12-09 13:06:24.686 WhichMovie[6824:314561] rf
+2014-12-09 13:06:25.876 WhichMovie[6824:314561] 7
+2014-12-09 13:06:29.214 WhichMovie[6824:314561] rf
+2014-12-09 13:06:29.214 WhichMovie[6824:314561] {"readyState":1}
+2014-12-09 13:06:30.349 WhichMovie[6824:314561] 8
+2014-12-09 13:06:35.666 WhichMovie[6824:314561] rf
+2014-12-09 13:06:35.666 WhichMovie[6824:314561] {"readyState":1}
+2014-12-09 13:07:31.779 WhichMovie[7045:315914] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 13:07:31.780 WhichMovie[7045:315914] Multi-tasking -> Device: YES, App: YES
+2014-12-09 13:07:31.782 WhichMovie[7045:315914] Unlimited access to network resources
+2014-12-09 13:07:31.784 WhichMovie[7045:315914] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 13:07:32.016 WhichMovie[7045:315914] Resetting plugins due to page load.
+2014-12-09 13:07:32.196 WhichMovie[7045:315914] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/DB6006B9-F937-478F-9917-C71C5442E81B/WhichMovie.app/www/index.html
+2014-12-09 13:07:37.569 WhichMovie[7045:315914] 1
+2014-12-09 13:07:39.794 WhichMovie[7045:315914] sd
+2014-12-09 13:07:41.130 WhichMovie[7045:315914] 2
+2014-12-09 13:07:42.914 WhichMovie[7045:315914] sd
+2014-12-09 13:07:42.914 WhichMovie[7045:315914] {"readyState":1}
+2014-12-09 13:07:46.191 WhichMovie[7045:315914] 3
+2014-12-09 13:07:46.195 WhichMovie[7045:315914] sd
+2014-12-09 13:07:46.195 WhichMovie[7045:315914] {"readyState":1}
+2014-12-09 13:07:47.311 WhichMovie[7045:315914] 4
+2014-12-09 13:07:47.313 WhichMovie[7045:315914] sd
+2014-12-09 13:07:48.207 WhichMovie[7045:315914] 5
+2014-12-09 13:07:50.265 WhichMovie[7045:315914] sd
+2014-12-09 13:07:56.544 WhichMovie[7045:315914] 6
+2014-12-09 13:07:58.160 WhichMovie[7045:315914] sd
+2014-12-09 13:07:58.788 WhichMovie[7045:315914] 7
+2014-12-09 13:08:00.242 WhichMovie[7045:315914] sd
+2014-12-09 13:08:00.242 WhichMovie[7045:315914] {"readyState":1}
+2014-12-09 13:08:01.809 WhichMovie[7045:315914] 8
+2014-12-09 13:08:04.019 WhichMovie[7045:315914] sd
+2014-12-09 13:08:07.899 WhichMovie[7045:315914] 9
+2014-12-09 13:08:10.299 WhichMovie[7045:315914] sd
+2014-12-09 13:08:12.074 WhichMovie[7045:315914] 10
+2014-12-09 13:08:14.013 WhichMovie[7045:315914] sd
+2014-12-09 13:08:14.013 WhichMovie[7045:315914] {"readyState":1}
+2014-12-09 13:12:11.809 WhichMovie[7239:318118] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 13:12:11.810 WhichMovie[7239:318118] Multi-tasking -> Device: YES, App: YES
+2014-12-09 13:12:11.811 WhichMovie[7239:318118] Unlimited access to network resources
+2014-12-09 13:12:11.813 WhichMovie[7239:318118] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 13:12:12.031 WhichMovie[7239:318118] Resetting plugins due to page load.
+2014-12-09 13:12:12.183 WhichMovie[7239:318118] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/A4D2924C-5324-44CD-80B5-79663B50CAE7/WhichMovie.app/www/index.html
+2014-12-09 13:12:16.840 WhichMovie[7239:318118] 2
+2014-12-09 13:12:19.589 WhichMovie[7239:318118] 3
+2014-12-09 13:12:21.059 WhichMovie[7239:318118] {"readyState":1}
+2014-12-09 13:12:21.890 WhichMovie[7239:318118] 4
+2014-12-09 13:12:21.897 WhichMovie[7239:318118] {"readyState":1}
+2014-12-09 13:12:23.298 WhichMovie[7239:318118] 5
+2014-12-09 13:12:23.304 WhichMovie[7239:318118] {"readyState":1}
+2014-12-09 13:12:24.271 WhichMovie[7239:318118] 6
+2014-12-09 13:15:30.669 WhichMovie[7425:319809] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-09 13:15:30.670 WhichMovie[7425:319809] Multi-tasking -> Device: YES, App: YES
+2014-12-09 13:15:30.672 WhichMovie[7425:319809] Unlimited access to network resources
+2014-12-09 13:15:30.674 WhichMovie[7425:319809] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-09 13:15:30.968 WhichMovie[7425:319809] Resetting plugins due to page load.
+2014-12-09 13:15:31.130 WhichMovie[7425:319809] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/384C886D-FF7C-477F-BCD6-368C693B44EA/WhichMovie.app/www/index.html
+2014-12-09 13:15:35.363 WhichMovie[7425:319809] 2
+2014-12-09 13:15:35.370 WhichMovie[7425:319809] {"readyState":1}
+2014-12-09 13:15:36.847 WhichMovie[7425:319809] 3
+2014-12-09 13:15:36.852 WhichMovie[7425:319809] {"readyState":1}
+2014-12-09 13:15:38.094 WhichMovie[7425:319809] 4
+2014-12-09 13:15:39.636 WhichMovie[7425:319809] {"readyState":1}
+2014-12-09 13:15:40.519 WhichMovie[7425:319809] 5
+2014-12-09 13:15:43.265 WhichMovie[7425:319809] 6
+2014-12-09 13:15:44.886 WhichMovie[7425:319809] {"readyState":1}
