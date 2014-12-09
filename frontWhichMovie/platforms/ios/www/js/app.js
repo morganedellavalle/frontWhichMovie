@@ -31,18 +31,9 @@
         router.addRoute('films/:id/affiche',function(id) {
             service.findById(parseInt(id)).done(function(film) {
             $('body').html(new AfficheView(film).render().$el);
-            $(".affiche").on('swiperight', function() { $('body').html(new AfficheView(film).render().$el); });
-            $(".affiche").on('swipeleft', function() {new AfficheView(film).like(); });
+            //$(".affiche").on('swiperight', function() { $('body').html(new AfficheView(film).router.load("films/7").$el); });
             });
         });
-
-        // router.addRoute('films/:id/affiche',function(id) {
-        //     service.findById(parseInt(id)).done(function(film) {
-        //     $('body').html(new AfficheView(film).render().$el);
-        //     $(".affiche").on('swiperight', function() { new AfficheView(film).notlike(id); });
-        //     $(".affiche").on('swipeleft', function() {new AfficheView(film).like(id); });
-        //     });
-        // });
 
         //route vers la vue acteurs
         router.addRoute('films/:id/acteurs',function(id) {
@@ -69,11 +60,21 @@
         router.addRoute('films/:id/affiche/next', function(id) {
             service.findById(parseInt(id)+1).done(function(film) {
             $('body').html(new AfficheView(film).render().$el);
-            $(".affiche").on('swiperight', function() { new AfficheView(film).notlike(); });
-            $(".affiche").on('swipeleft', function() {new AfficheView(film).like(); });
             });
         });
-        
+        //Nextaffiche si like
+        router.addRoute('films/:id/affiche/nextliked', function(id) {
+            service.findById(parseInt(id)).done(function(film) {
+            $('body').html(new AfficheView(film).like());
+            });
+        });
+
+        //Nextaffiche si not like
+        router.addRoute('films/:id/affiche/nextnotliked', function(id) {
+            service.findById(parseInt(id)).done(function(film) {
+            $('body').html(new AfficheView(film).notlike());
+            });
+        });
 
         router.start();
     });

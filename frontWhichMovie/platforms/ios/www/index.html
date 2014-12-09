@@ -15,8 +15,8 @@
 		<div>
 			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=20% auto />
 		</div>
-    <input type="text" id="name" name="Name" placeholder="Enter your Name" style="disabled" >
-    <a href="#films"> <button onClick="window.localStorage.setItem('name', $('#name').val())">Start</button>
+    <input type="text" id="user_name" name="Name" placeholder="Enter your Name" style="disabled" >
+    <a href="#films"> <button type="button" class="btn btn-primary" onClick="window.localStorage.setItem('user_name', $('#user_name').val())">Start</button>
 	</center> 
 </script>
 
@@ -42,32 +42,32 @@
 <script id="affiche-tpl" type="text/template">
       <center>
       <br>
-      <br>
-      <img  src="{{affiche}}" class="affiche" width=60% auto>
+
+      <img  src="{{affiche}}" class="affiche" width=50% auto>
+
       <center>
         </center>
 
         <br>
-        <a href="#films/{{id}}/affiche/next" class='btn btn-success' style="width:50px; height=100px"> 
+        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
-        <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
+        <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
          <br>
-     <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
-      <div class="container-fluid">
-        <a href="#films/{{id}}/affiche" class='form-control'>Affiche
+
+      <nav class="navbar-horizontal navbar-form navbar-center navbar-fixed-bottom navbar-static-top" role="navigation">
+        <a href="#films/{{id}}/affiche">Affiche
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/acteurs" class='form-control'>Acteurs
+        <a href="#films/{{id}}/acteurs">Acteurs
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/synopsis" class='form-control'>Synopsis
+        <a href="#films/{{id}}/synopsis">Synopsis
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/BO" class='form-control'>Bande-annonce
+        <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films" class='form-control'>
+        <a href="#films">
         <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </div>
         </nav>
-</script>
+</script> 
 
 
 <!-- Vue acteurs + navbar-->
@@ -83,25 +83,23 @@
   </div>
 
     <br>
-    <a href="#films/{{id}}/affiche/next" class='btn btn-success' style="width:50px; height=100px"> 
+    <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
     <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
-    <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
+    <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
     <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
     <br>
 
-     <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
-      <div class="container-fluid">
-        <a href="#films/{{id}}/affiche" class='form-control'>Affiche 
+      <nav class="navbar-horizontal navbar-form navbar-center navbar-fixed-bottom navbar-static-top" role="navigation">
+        <a href="#films/{{id}}/affiche">Affiche
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/acteurs" class='form-control'>Acteurs
+        <a href="#films/{{id}}/acteurs">Acteurs
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/synopsis" class='form-control'>Synopsis
+        <a href="#films/{{id}}/synopsis">Synopsis
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/BO" class='form-control'>Bande-annonce
+        <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films" class='form-control'>
+        <a href="#films">
         <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </div>
         </nav>
 
 
@@ -116,25 +114,23 @@
   </div>
 
           <br>
-        <a href="#films/{{id}}/affiche/next" class='btn btn-success' style="width:50px; height=100px"> 
+        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
-        <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
+        <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
          <br>
 
-    <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
-      <div class="container-fluid">
-        <a href="#films/{{id}}/affiche" class='form-control'>Affiche 
+       <nav class="navbar-horizontal navbar-form navbar-center navbar-fixed-bottom navbar-static-top" role="navigation">
+        <a href="#films/{{id}}/affiche">Affiche
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/acteurs" class='form-control'>Acteurs
+        <a href="#films/{{id}}/acteurs">Acteurs
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/synopsis" class='form-control'>Synopsis
+        <a href="#films/{{id}}/synopsis">Synopsis
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/BO" class='form-control'>Bande-annonce
+        <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films" class='form-control'>
+        <a href="#films">
         <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </div>
         </nav>
 
 </script>
@@ -144,29 +140,27 @@
 
 <center>
         <br>
-        <iframe width="500" height="500" src="http:{{BO}}" frameborder="0" allowfullscreen></iframe>
+        <iframe width="300" height="300" src="http:{{BO}}" frameborder="0" allowfullscreen></iframe>
         <br> 
 
 
         <br>
-        <a href="#films/{{id}}/affiche/next" class='btn btn-success' style="width:50px; height=100px"> 
+        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
-        <a href="#films/{{id}}/affiche/next" class='btn btn-danger' style="width:50px; height=100px"> 
+        <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
          <br>
-    <nav class="navbar-form navbar-center navbar-pills navbar-fixed-bottom navbar-static-top" role="navigation">
-      <div class="container-fluid">
-        <a href="#films/{{id}}/affiche" class='form-control'>Affiche 
+      <nav class="navbar-horizontal navbar-form navbar-center navbar-fixed-bottom navbar-static-top" role="navigation">
+        <a href="#films/{{id}}/affiche">Affiche
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/acteurs" class='form-control'>Acteurs
+        <a href="#films/{{id}}/acteurs">Acteurs
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/synopsis" class='form-control'>Synopsis
+        <a href="#films/{{id}}/synopsis">Synopsis
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/BO" class='form-control'>Bande-annonce
+        <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films" class='form-control'>
+        <a href="#films">
         <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </div>
         </nav>
 </div>
 
