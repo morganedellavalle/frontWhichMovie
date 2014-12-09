@@ -17,7 +17,7 @@ var AfficheView = function (film) {
   this.like = function(){
     window.localStorage.setItem('film', film.id);
     console.log(film.id);
-    console.log(localStorage.getItem("name"));
+    console.log(localStorage.getItem("user_name"));
     var x= Number(film.id)+1;
     alert("Liked");
     router.load("films/"+x+"/affiche");
@@ -26,6 +26,9 @@ var AfficheView = function (film) {
 
 
   this.notlike = function(id){
+    window.localStorage.setItem('film', film.id);
+    console.log(film.id);
+    console.log(localStorage.getItem("user_name"));
     var x= Number(film.id)+1;
     alert("Not Liked, this movie is rubbish anyway");
     router.load("films/"+x+"/affiche");

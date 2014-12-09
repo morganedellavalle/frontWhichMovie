@@ -62,7 +62,19 @@
             $('body').html(new AfficheView(film).render().$el);
             });
         });
-        
+        //Nextaffiche si like
+        router.addRoute('films/:id/affiche/nextliked', function(id) {
+            service.findById(parseInt(id)).done(function(film) {
+            $('body').html(new AfficheView(film).like().$el);
+            });
+        });
+
+        //Nextaffiche si not like
+        router.addRoute('films/:id/affiche/nextnotliked', function(id) {
+            service.findById(parseInt(id)).done(function(film) {
+            $('body').html(new AfficheView(film).notlike().$el);
+            });
+        });
 
         router.start();
     });
