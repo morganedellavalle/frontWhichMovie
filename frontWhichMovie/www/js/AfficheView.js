@@ -21,7 +21,9 @@ var AfficheView = function (film) {
     var x= Number(film.id)+1;
     alert("Liked");
     router.load("films/"+x+"/affiche");
-    // $.post( "http://whichmovie.herokuapp.com/films/"+film.id , {"like": {"user_name": localStorage.getItem("name")} });
+    //$.post( "http://whichmovie.herokuapp.com/films/"+film.id , {"like": {"user_name": localStorage.getItem("name")} });
+    var params = {"like": {"user_name":localStorage.getItem("user_name")}};
+    console.log($.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params));
   };
 
 
