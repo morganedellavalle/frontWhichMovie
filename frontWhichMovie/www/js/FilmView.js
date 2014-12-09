@@ -18,9 +18,9 @@ var FilmView = function (film) {
       return this;
   };
 
-  this.like = function(){
-  	alert("liked");
-  }
+  //this.like = function(){
+  	//alert("liked");
+  //}
 
     this.initialize();
 

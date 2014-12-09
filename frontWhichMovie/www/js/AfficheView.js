@@ -4,7 +4,7 @@ var AfficheView = function (film) {
     this.initialize = function() {
         this.$el = $('<div/>');
         this.$el.on('swiperight', '.affiche', this.like);
-        this.$el.on('swipeleft', '.affiche', this.notlike);
+        this.$el.on('swipeleft', 'film.affiche', this.notlike);
         this.render();
     };
 

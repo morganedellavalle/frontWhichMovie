@@ -65,14 +65,14 @@
         //Nextaffiche si like
         router.addRoute('films/:id/affiche/nextliked', function(id) {
             service.findById(parseInt(id)).done(function(film) {
-            $('body').html(new AfficheView(film).like().$el);
+            $('body').html(new AfficheView(film).like());
             });
         });
 
         //Nextaffiche si not like
         router.addRoute('films/:id/affiche/nextnotliked', function(id) {
             service.findById(parseInt(id)).done(function(film) {
-            $('body').html(new AfficheView(film).notlike().$el);
+            $('body').html(new AfficheView(film).notlike());
             });
         });
 
