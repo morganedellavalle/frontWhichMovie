@@ -1,9 +1,9 @@
-body{
+#bckgdHome{
+    margin: 0px;
     background-image: url(http://gallery.yopriceville.com/var/albums/Frames/Red_Curtain_Transparent_Frame.png?m=1365980400);
     background-repeat: no-repeat;
     background-size: 100%;
 }
-
 
 ul {
     clear: both;
