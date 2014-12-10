@@ -22,10 +22,10 @@ var FilmService = function() {
     }
 
 
-    this.likeById = function(id, user_name) {
-        var params = {"like": {"name":user_name}};
-        return $.post(url + "/" + id + "/like.json", params);
+    this.likesById = function(id) {
+        var film_id
+        film_id = id;
+        return $.getJSON(url + "/" + id + "/likes.json");
     }
-
 
 }

@@ -8,6 +8,7 @@
     ActeursView.prototype.template= Handlebars.compile($("#acteurs-tpl").html());
     SynopsisView.prototype.template= Handlebars.compile($("#synopsis-tpl").html());
     BOView.prototype.template= Handlebars.compile($("#BO-tpl").html());
+    LikesView.prototype.template= Handlebars.compile($("#likes-tpl").html());
     /* ---------------------------------- Local Variables ---------------------------------- */
     var service = new FilmService();
 
@@ -76,7 +77,14 @@
             $('body').html(new AfficheView(film).notlikebtn());
             });
         });
+        //view vers les likes
+        router.addRoute('films/:id/likes',function(id) {
+            service.likesById(parseInt(id)).done(function(likes,id) {
+                $('body').html(new LikesView(likes,parseInt(id)).render().$el);
+            });
+            console.log(id);
 
+        }); 
 
 
         router.start();

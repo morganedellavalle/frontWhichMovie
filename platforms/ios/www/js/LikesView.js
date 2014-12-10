@@ -1,4 +1,4 @@
-var LikesView = function (likes) {
+var LikesView = function (likes,id) {
     
     this.initialize = function() {
         this.$el = $('<div/>');
@@ -6,7 +6,7 @@ var LikesView = function (likes) {
     };
 
     this.render = function() {
-        this.$el.html(this.template(likes));
+        this.$el.html(this.template(likes,id));
         return this;
     };
 
