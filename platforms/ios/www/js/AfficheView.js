@@ -3,8 +3,8 @@ var AfficheView = function (film) {
 
     this.initialize = function() {
         this.$el = $('<div/>');
-        this.$el.on('swiperight', '.affiche', this.notlikeswipe);
-        this.$el.on('swipeleft', '.affiche', this.likeswipe);
+        this.$el.on('swiperight', '.affiche', this.likeswipe);
+        this.$el.on('swipeleft', '.affiche', this.notlikeswipe);
         this.render();
     };
 
@@ -15,7 +15,7 @@ var AfficheView = function (film) {
     };
 
     this.likeswipe = function(){
-    $(this).addClass('rotate-right').delay(800).fadeOut(800);
+    $(this).addClass('rotate-left').delay(800).fadeOut(800);
     $('.affiche').find('.status').remove();
     $(this).append('<div class="like">Like!</div>');
     window.localStorage.setItem('film', film.id);
@@ -27,16 +27,16 @@ var AfficheView = function (film) {
         }, 800);
     var params = {"like": {"user_name":localStorage.getItem("user_name")}};
     $.post("" + film.id + "/like.json", params)
-    console.log($.post("http://whichmovie.herokuapp.com/" + film.id + "/like.json", params));
+    console.log($.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params));
     };
     
 
 
 
     this.notlikeswipe = function(id){
-    $(this).addClass('rotate-left').delay(1000).fadeOut(1000);
+    $(this).addClass('rotate-right').delay(1000).fadeOut(1000);
     $('.buddy').find('.status').remove();
-    $(this).append('<div class="dislike">Like!</div>');
+    $(this).append('<div class="dislike"> Pas Like!</div>');
     window.localStorage.setItem('film', film.id);
     console.log(film.id);
     console.log(localStorage.getItem("user_name"));
@@ -57,8 +57,7 @@ var AfficheView = function (film) {
     //alert("Liked");
     router.load("films/"+x+"/affiche");
     var params = {"like": {"user_name":localStorage.getItem("user_name")}};
-    $.post("http://localhost:3000/films/" + film.id + "/like.json", params)
-    console.log($.post("http://localhost/films/" + film.id + "/like.json", params));
+    $.post(" http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params)
     };
 
 

@@ -53,16 +53,14 @@
       <center>
       <br>
 
-      <img  src="{{affiche}}" class="affiche" width=50% auto>
-      
-      <center>
-        </center>
+      <div class="affiche" style="display: block;"><div class="avatar"  style="display: block; background-image: url({{affiche}})"></div></div>
 
         <br>
-        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
-         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+
         <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
+        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
         <a href="#films/{{id}}/likes" class='btn' style="width:50px; height=100px"> 
          <button type="button" class='btn' style="width:50px; height=100px" onClick="window.localStorage.setItem('id', {{id}})"></button>
          <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> </a>
@@ -97,11 +95,11 @@
   </div>
 
     <br>
-    <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
-    <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
-    <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
-    <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
-    <br>
+        <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
+        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+
 
       <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
         <a href="#films/{{id}}/affiche">Affiche
@@ -128,11 +126,10 @@
   </div>
 
           <br>
-        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
-         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
         <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
-         <br>
+        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
 
        <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
         <a href="#films/{{id}}/affiche">Affiche
@@ -159,11 +156,10 @@
 
 
         <br>
-        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
-         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
         <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
-         <br>
+        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
+         <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
       <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
         <a href="#films/{{id}}/affiche">Affiche
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
