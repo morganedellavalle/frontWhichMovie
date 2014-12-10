@@ -27,7 +27,7 @@ var AfficheView = function (film) {
         }, 800);
     var params = {"like": {"user_name":localStorage.getItem("user_name")}};
     $.post("" + film.id + "/like.json", params)
-    console.log($.post("http://whichmovie.herokuapp.com" + film.id + "/like.json", params));
+    console.log($.post("http://whichmovie.herokuapp.com/" + film.id + "/like.json", params));
     };
     
 
