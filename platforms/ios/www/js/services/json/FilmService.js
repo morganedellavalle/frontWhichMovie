@@ -3,7 +3,7 @@ var FilmService = function() {
     var url;
 
     this.initialize = function(serviceURL) {
-        url = serviceURL ? serviceURL : "http://localhost:3000/films";
+        url = serviceURL ? serviceURL : "http://whichmovie.herokuapp.com/films";
         var deferred = $.Deferred();
         deferred.resolve();
         return deferred.promise();

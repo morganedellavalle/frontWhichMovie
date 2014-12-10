@@ -3866,3 +3866,26 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2014-12-10 18:03:08.611 WhichMovie[11067:209412] 7
 2014-12-10 18:03:10.079 WhichMovie[11067:209412] 8
 2014-12-10 18:03:10.082 WhichMovie[11067:209412] {"readyState":1}
+2014-12-10 20:34:58.737 WhichMovie[1573:61023] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-10 20:34:58.769 WhichMovie[1573:61023] Multi-tasking -> Device: YES, App: YES
+2014-12-10 20:34:58.779 WhichMovie[1573:61023] Unlimited access to network resources
+2014-12-10 20:34:58.798 WhichMovie[1573:61023] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-10 20:34:59.098 WhichMovie[1573:61023] [CDVTimer][statusbar] 95.436037ms
+2014-12-10 20:34:59.098 WhichMovie[1573:61023] [CDVTimer][TotalPluginStartup] 95.614016ms
+2014-12-10 20:34:59.198 WhichMovie[1573:61023] Resetting plugins due to page load.
+2014-12-10 20:34:59.762 WhichMovie[1573:61023] Finished load of: file:///Users/Victor/Library/Developer/CoreSimulator/Devices/1752C20F-C2A5-43F3-AA66-FC9F830C43A1/data/Containers/Bundle/Application/F06866A3-196C-4F8F-9D7F-EBFB819EB3C5/WhichMovie.app/www/index.html
+2014-12-10 20:35:30.510 WhichMovie[1573:61023] CDVWebViewDelegate: Navigation started when state=1
+2014-12-10 20:35:30.549 WhichMovie[1573:61023] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-10 20:35:30.855 WhichMovie[1573:61023] CDVWebViewDelegate: Navigation started when state=1
+2014-12-10 20:35:30.856 WhichMovie[1573:61023] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-10 20:35:31.614 WhichMovie[1573:61023] CDVWebViewDelegate: Navigation started when state=1
+2014-12-10 20:35:31.615 WhichMovie[1573:61023] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-10 20:35:32.063 WhichMovie[1573:61023] CDVWebViewDelegate: Navigation started when state=1
+2014-12-10 20:35:32.063 WhichMovie[1573:61023] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
