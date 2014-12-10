@@ -44,6 +44,7 @@
 		DADDFB51C2444D5BB0F4F948 /* CDVNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 19C5FCF20E9C46D4998A74C9 /* CDVNotification.m */; };
 		DF62EF4A27BB4DA6A9E157C8 /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8BA98EBB72664C3DA8497434 /* CDVNotification.bundle */; };
 		0298F88C5FDB43C4A4A00115 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B4321CA416D47E7AE0368BD /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		1F9C9DBDCF23437CBEDF73F2 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 139884B4FB8C4E85A1394F35 /* CDVStatusBar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,6 +118,8 @@
 		F6B3E3D2494B402BA96D76D2 /* CDVNotification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVNotification.h"; path = "org.apache.cordova.dialogs/CDVNotification.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		8BA98EBB72664C3DA8497434 /* CDVNotification.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = "CDVNotification.bundle"; path = "CDVNotification.bundle"; sourceTree = "<group>"; };
 		4B4321CA416D47E7AE0368BD /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		139884B4FB8C4E85A1394F35 /* CDVStatusBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVStatusBar.m"; path = "org.apache.cordova.statusbar/CDVStatusBar.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		CA98941B26FB48F7AD4C1052 /* CDVStatusBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVStatusBar.h"; path = "org.apache.cordova.statusbar/CDVStatusBar.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -224,6 +227,8 @@
 				76EDB525716C4EDDB0FA1B08 /* CDVLogger.h */,
 				19C5FCF20E9C46D4998A74C9 /* CDVNotification.m */,
 				F6B3E3D2494B402BA96D76D2 /* CDVNotification.h */,
+				139884B4FB8C4E85A1394F35 /* CDVStatusBar.m */,
+				CA98941B26FB48F7AD4C1052 /* CDVStatusBar.h */,
 			);
 			name = Plugins;
 			path = "WhichMovie/Plugins";
@@ -412,6 +417,7 @@
 				F48FE835C88941118DFFD16A /* CDVDevice.m in Sources */,
 				3F3BE8E683764F288EF59DA7 /* CDVLogger.m in Sources */,
 				DADDFB51C2444D5BB0F4F948 /* CDVNotification.m in Sources */,
+				1F9C9DBDCF23437CBEDF73F2 /* CDVStatusBar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

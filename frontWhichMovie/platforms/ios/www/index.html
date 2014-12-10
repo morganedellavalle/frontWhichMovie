@@ -18,14 +18,17 @@
   <br>
 	<center>
 		<div>
-			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=20% auto />
+			<img src="http://imageshack.com/a/img540/5240/UbisMZ.png" width=50% height=50% position=center auto />
 		</div>
-    <input type="text" id="user_name" name="Name" placeholder="Enter your Name" style="disabled" >
-    <a href="#films"> <button type="button" class="btn btn-primary" onClick="window.localStorage.setItem('user_name', $('#user_name').val())">Start</button>
+    <div class="form-group" id="login">
+    <input type="text" class="form-control" id="user_name" name="Name" placeholder="Enter your Name" style="disabled" />
+        </div>
+    <a href="#films"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val())">Start</button>
 	</center> 
 </script>
 
 <script id="film-list-tpl" type="text/template">
+  <br>
     <ul class="table-view">
         {{#each this}}
         <li class="table-view-cell media">

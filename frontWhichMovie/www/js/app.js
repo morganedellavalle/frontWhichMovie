@@ -87,7 +87,6 @@
 
 
 
-
     FastClick.attach(document.body);
     /* ---------------------------------- Local Functions ---------------------------------- */
 

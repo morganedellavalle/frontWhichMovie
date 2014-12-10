@@ -1,3 +1,8 @@
+body{
+    background-image: url(http://gallery.yopriceville.com/var/albums/Frames/Red_Curtain_Transparent_Frame.png?m=1365980400);
+}
+
+
 ul {
     clear: both;
 }
@@ -14,6 +19,12 @@ ul {
 .table-view {
     margin: 0 !important;
     border: none;
+}
+
+#login{
+    margin-top:40px;
+    width: 60%;
+    text-align:center;
 }
 
 .details h1 {
