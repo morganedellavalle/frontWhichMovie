@@ -33,7 +33,7 @@ var AfficheView = function (film) {
         var params = {"like": {"user_name":localStorage.getItem("user_name")}};
         var buddy
 
-        $.post("http://localhost:3000/films/" + film.id + "/like.json", params, function(response){
+        $.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params, function(response){
         //console.log(Number(response.number)-1);
             var array = $.map(response.other_likes, function(value, index) {
                     return [value];
@@ -87,7 +87,7 @@ var AfficheView = function (film) {
     //alert("Liked");
     router.load("films/"+x+"/affiche");
     var params = {"like": {"user_name":localStorage.getItem("user_name")}};
-    $.post("http://localhost:3000/films/" + film.id + "/like.json", params, function(response){
+    $.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params, function(response){
     //console.log(Number(response.number)-1);
         var array = $.map(response.other_likes, function(value, index) {
                 return [value];
