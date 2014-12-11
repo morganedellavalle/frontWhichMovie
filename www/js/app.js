@@ -18,7 +18,7 @@
 
     servicecine.initialize().done(function () {
 
-        router.addRoute('cinemas', function() {
+        router.addRoute('films/:id/affiche/cinemas', function() {
             servicecine.findAll().done(function(cinemas) {
                 $('body').html(new CinemaListView(cinemas).render().$el);
             });

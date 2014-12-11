@@ -4900,3 +4900,74 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2014-12-11 11:02:15.659 WhichMovie[19549:447953] Resetting plugins due to page load.
 2014-12-11 11:02:16.012 WhichMovie[19549:447953] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/313D0BE6-089D-4A26-8E18-0C3FAC984A0A/WhichMovie.app/www/index.html
 2014-12-11 11:02:37.956 WhichMovie[19549:447953] Tout marche ;)
+2014-12-11 13:33:26.623 WhichMovie[14079:851993] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 13:33:26.629 WhichMovie[14079:851993] Multi-tasking -> Device: YES, App: YES
+2014-12-11 13:33:26.656 WhichMovie[14079:851993] Unlimited access to network resources
+2014-12-11 13:33:26.676 WhichMovie[14079:851993] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 13:33:27.364 WhichMovie[14079:851993] [CDVTimer][statusbar] 207.033992ms
+2014-12-11 13:33:27.365 WhichMovie[14079:851993] [CDVTimer][TotalPluginStartup] 207.188010ms
+2014-12-11 13:33:27.657 WhichMovie[14079:851993] Resetting plugins due to page load.
+2014-12-11 13:33:28.328 WhichMovie[14079:851993] Finished load of: file:///Users/Emeric/Library/Developer/CoreSimulator/Devices/21910854-5379-496B-8F1D-911F80D7A063/data/Containers/Bundle/Application/5F3204A3-A684-4112-A018-B998732A8F44/WhichMovie.app/www/index.html
+2014-12-11 14:09:03.241 WhichMovie[14079:852036] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptConfirmPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-12-11 14:09:21.856 WhichMovie[14348:862429] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 14:09:21.857 WhichMovie[14348:862429] Multi-tasking -> Device: YES, App: YES
+2014-12-11 14:09:21.858 WhichMovie[14348:862429] Unlimited access to network resources
+2014-12-11 14:09:21.860 WhichMovie[14348:862429] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 14:09:22.107 WhichMovie[14348:862429] [CDVTimer][statusbar] 75.408995ms
+2014-12-11 14:09:22.108 WhichMovie[14348:862429] [CDVTimer][TotalPluginStartup] 75.635970ms
+2014-12-11 14:09:22.262 WhichMovie[14348:862429] Resetting plugins due to page load.
+2014-12-11 14:09:22.449 WhichMovie[14348:862429] Finished load of: file:///Users/Emeric/Library/Developer/CoreSimulator/Devices/21910854-5379-496B-8F1D-911F80D7A063/data/Containers/Bundle/Application/08B1CD79-8440-46A9-AED1-C34FC0A1BA4C/WhichMovie.app/www/index.html
+2014-12-11 14:09:43.892 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:43.892 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:46.684 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:46.684 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:52.546 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:52.546 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:53.710 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:53.710 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:54.312 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:54.312 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:54.642 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:54.642 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:54.970 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:09:54.970 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:10:19.302 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:10:19.303 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:10:19.961 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:10:19.961 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:10:20.249 WhichMovie[14348:862429] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:10:20.249 WhichMovie[14348:862429] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:10:38.729 WhichMovie[14575:863639] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 14:10:38.730 WhichMovie[14575:863639] Multi-tasking -> Device: YES, App: YES
+2014-12-11 14:10:38.731 WhichMovie[14575:863639] Unlimited access to network resources
+2014-12-11 14:10:38.733 WhichMovie[14575:863639] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 14:10:38.925 WhichMovie[14575:863639] [CDVTimer][statusbar] 24.437010ms
+2014-12-11 14:10:38.925 WhichMovie[14575:863639] [CDVTimer][TotalPluginStartup] 24.574995ms
+2014-12-11 14:10:39.021 WhichMovie[14575:863639] Resetting plugins due to page load.
+2014-12-11 14:10:39.500 WhichMovie[14575:863639] Finished load of: file:///Users/Emeric/Library/Developer/CoreSimulator/Devices/21910854-5379-496B-8F1D-911F80D7A063/data/Containers/Bundle/Application/E0C06D09-9F6B-4842-B87E-58A8754FE955/WhichMovie.app/www/index.html
+2014-12-11 14:11:28.636 WhichMovie[14575:863639] CDVWebViewDelegate: Unexpected didFinish while waiting for load start.
+2014-12-11 14:11:53.269 WhichMovie[14575:863639] CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:11:53.269 WhichMovie[14575:863639] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-11 14:11:53.270 WhichMovie[14575:863639] Resetting plugins due to page load.
+2014-12-11 14:11:53.555 WhichMovie[14575:863639] Finished load of: https://accounts.google.com/ServiceLoginAuth?hl=en&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2F%4046.181423%2C-1.158987%2C8.65z

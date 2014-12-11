@@ -65,7 +65,7 @@
 
         <a href="#films/{{id}}/affiche/nextnotliked" class='btn btn-danger' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
-        <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
+        <a class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
         <a href="#films/{{id}}/likes" class='btn' style="width:50px; height=100px"> 
         <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> </button></a>
@@ -88,12 +88,14 @@
 <script id="acteurs-tpl" type="text/template">
 <center>
    <div class="media-body">
+   <div class="affiche">
     <h1><strong> {{titre}} </strong></h1>
     <br>
     <h4><strong> Réalisateur: </strong></h4> <big> {{realisateur}} </big>
     <br>
     <h4><strong> Acteurs: </strong></h4><big>{{acteurs}}</big>
     <br>
+  </div>
   </div>
 
     <br>
@@ -120,7 +122,9 @@
 <script id="synopsis-tpl" type="text/template">
 <center>
    <div class="media-body">
+    <div class="affiche">
    <h1> Synopsis: </h1><big>{{synopsis}}</big>
+  </div>
   </div>
 
           <br>
@@ -146,9 +150,12 @@
 <script id="BO-tpl" type="text/template">
 
 <center>
+
         <br>
+        <div class="affiche">
         <iframe class="trailer" width="300" height="300" src="http:{{BO}}" frameborder="0" allowfullscreen ></iframe>
         <br> 
+        </div>
 
 
         <br>
@@ -200,7 +207,7 @@
     <ul class="table-view">
         {{#each this}}
         <li class="table-view-cell media">
-              <center><iframe class="trailer" width="300" height="300" src="http:{{adresse}}" frameborder="0" allowfullscreen ></iframe> </center>
+              <center><iframe class="trailer" width="300" height="300" src="{{adresse}}" frameborder="0" allowfullscreen ></iframe> </center>
               <div class="media-body">
                   <strong> {{nom}} </strong>  
                   <small> de {{seancehoraire}} </small>

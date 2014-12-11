@@ -204,14 +204,17 @@
 
 <script id="cinema-list-tpl" type="text/template">
   <br>
+  <a href = "#films">
+        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span>Back</a>
     <ul class="table-view">
         {{#each this}}
         <li class="table-view-cell media">
-              <center><iframe class="trailer" width="300" height="300" src="{{adresse}}" frameborder="0" allowfullscreen ></iframe> </center>
-              <div class="media-body">
+                      <div class="media-body">
                   <strong> {{nom}} </strong>  
-                  <small> de {{seancehoraire}} </small>
+                  <small> {{seancehoraire}} </small>
               </div>
+              <center><iframe class="trailer" width="300" height="300" src="{{adresse}}" frameborder="0" allowfullscreen ></iframe> </center>
+
                
           </a>
         </li>
