@@ -16,6 +16,17 @@
     var service = new FilmService();
     var servicecine = new CinemaService();
 
+    servicecine.initialize().done(function () {
+
+        router.addRoute('cinemas', function() {
+            servicecine.findAll().done(function(cinemas) {
+                $('body').html(new CinemaListView(cinemas).render().$el);
+            });
+        });
+
+
+    });
+
     service.initialize().done(function () {
 
         // Ici on cree la route de la Home
@@ -31,12 +42,7 @@
             });
         });
 
-        router.addRoute('cinemas', function() {
-            // on commence par aller tous les chercher, et une fois que c'est bon on charge la liste
-            servicecine.findAll().done(function(cinemas) {
-                $('body').html(new CinemaListView(cinemas).render().$el);
-            });
-        });
+
 
         //route vers la vue affiche
         router.addRoute('films/:id/affiche',function(id) {
