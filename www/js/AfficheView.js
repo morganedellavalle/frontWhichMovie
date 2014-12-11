@@ -13,6 +13,8 @@ var AfficheView = function (film) {
       this.$el.html(this.template(film));
       return this;
     };
+
+
     this.likeswipe = function(){
         $(this).addClass('rotate-left').delay(800).fadeOut(800);
         $('.affiche').find('.status').remove();
@@ -26,7 +28,7 @@ var AfficheView = function (film) {
 
         }
         var params = {"like": {"user_name":localStorage.getItem("user_name")}};
-        var buddy
+
 
         $.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params, function(response){
             var array = $.map(response.other_likes, function(value, index) {
@@ -65,6 +67,7 @@ var AfficheView = function (film) {
 
 
     this.notlikeswipe = function(id){
+
         $(this).addClass('rotate-right').delay(1000).fadeOut(1000);
         $('.buddy').find('.status').remove();
         $(this).append('<div class="dislike"> Pas Like!</div>');
@@ -87,6 +90,7 @@ var AfficheView = function (film) {
 
         //like sur btn
     this.likebtn = function(){
+
         window.localStorage.setItem('film', film.id);
         console.log(film.id);
         console.log(localStorage.getItem("user_name"));
@@ -98,26 +102,36 @@ var AfficheView = function (film) {
                     return [value];
             });
             for (i = 0; i < array.length; i++) {
-                if (array[i].user_name==localStorage.getItem("friend_1")){
-                        confirm("Do you wish to go with "+ array[i].user_name + " ?");
-                };
-           
+                        bool = true;
+                        if(confirm("Do you wish to go with "+ array[i].user_name + " ?")){
+                            var y = x-1;
+                            router.load("films/"+y+"/affiche/cinemas");}
+                        else{
+                            router.load("films/"+x+"/affiche");
+                        };
+   
                 if (array[i].user_name==localStorage.getItem("friend_2")){
-                        confirm("Do you wish to go with "+ array[i].user_name + " ?");
+                        bool = true;
+                        if(confirm("Do you wish to go with "+ array[i].user_name + " ?")){
+                            var y = x-1;
+                            router.load("films/"+y+"/affiche/cinemas");}
+                        else{
+                            router.load("films/"+x+"/affiche");
+                            };
                 };            
             };
             
         });
-        };
+    };
 
 
 
     this.notlikebtn = function(id){
-    window.localStorage.setItem('film', film.id);
-    var x= Number(film.id)+1;
-    //alert("Not Liked, this movie is rubbish anyway");
-    router.load("films/"+x+"/affiche");
-    };
+        window.localStorage.setItem('film', film.id);
+        var x= Number(film.id)+1;
+        //alert("Not Liked, this movie is rubbish anyway");
+        router.load("films/"+x+"/affiche");
+        };
 
 
     this.initialize();
