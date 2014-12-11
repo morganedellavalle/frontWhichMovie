@@ -9,9 +9,11 @@
     SynopsisView.prototype.template= Handlebars.compile($("#synopsis-tpl").html());
     BOView.prototype.template= Handlebars.compile($("#BO-tpl").html());
     LikesView.prototype.template= Handlebars.compile($("#likes-tpl").html());
+    CinemaListView.prototype.template= Handlebars.compile($("#cinema-list-tpl").html());
+
     /* ---------------------------------- Local Variables ---------------------------------- */
     var service = new FilmService();
-
+    var servicecine = new CinemaService();
 
     service.initialize().done(function () {
 
@@ -25,6 +27,13 @@
             // on commence par aller tous les chercher, et une fois que c'est bon on charge la liste
             service.findAll().done(function(films) {
                 $('body').html(new FilmListView(films).render().$el);
+            });
+        });
+
+        router.addRoute('cinemas', function() {
+            // on commence par aller tous les chercher, et une fois que c'est bon on charge la liste
+            servicecine.findAll().done(function(cinemas) {
+                $('body').html(new CinemaListView(cinemas).render().$el);
             });
         });
 

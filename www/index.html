@@ -30,6 +30,8 @@
         </div>
 
     <a href="#films"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())">Start</button>
+
+    <a href="#cinemas"><button type="button">Cinemas Test</button>
 </script>
 
 <script id="film-list-tpl" type="text/template">
@@ -193,6 +195,23 @@
       </center>
 </script>
 
+<script id="cinema-list-tpl" type="text/template">
+  <br>
+    <ul class="table-view">
+        {{#each this}}
+        <li class="table-view-cell media">
+              <center><iframe class="trailer" width="300" height="300" src="http:{{adresse}}" frameborder="0" allowfullscreen ></iframe> </center>
+              <div class="media-body">
+                  <strong> {{nom}} </strong>  
+                  <small> de {{seancehoraire}} </small>
+              </div>
+               
+          </a>
+        </li>
+        {{/each}}
+    </ul>
+</script>
+
 
 <script src="lib/handlebars.js"></script>
 <script src="lib/fastclick.js"></script>
@@ -201,9 +220,11 @@
 <script src="lib/jquery.mobile.custom.js"></script>
 <script src="lib/router.js"></script>
 <script src="js/services/json/FilmService.js"></script>
+<script src="js/services/json/CinemaService.js"></script>
 <script src="js/HomeView.js"></script>
 <script src="js/FilmListView.js"></script>
 <script src="js/AfficheView.js"></script>
+<script src="js/CinemaListView.js"></script>
 <script src="js/ActeursView.js"></script>
 <script src="js/SynopsisView.js"></script>
 <script src="js/BOView.js"></script>
