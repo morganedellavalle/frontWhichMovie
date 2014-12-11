@@ -22,11 +22,14 @@
 			<img src="http://imageshack.com/a/img537/3606/kQDKbu.gif" width=50% height=50% position=center auto />
 		</div>
     <div class="form-group" id="login">
-    <input type="text" class="form-control" id="user_name" name="Name" placeholder="Enter your Name" style="disabled" />
+   <input type="text" class="form-control" id="user_name" name="Name" placeholder="Enter your Name" style="disabled" />
         </div>
-    <a href="#films"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val())">Start</button>
-	</center> 
-</div>
+    <input type="text" class="form-control" id="friend_1" name="Name" placeholder="Buddy #1" style="disabled" />
+        </div>
+    <input type="text" class="form-control" id="friend_2" name="Name" placeholder="Buddy #2" style="disabled" />
+        </div>
+
+    <a href="#films"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())">Start</button>
 </script>
 
 <script id="film-list-tpl" type="text/template">
@@ -62,8 +65,7 @@
         <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
         <a href="#films/{{id}}/likes" class='btn' style="width:50px; height=100px"> 
-         <button type="button" class='btn' style="width:50px; height=100px" onClick="window.localStorage.setItem('id', {{id}})"></button>
-         <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> </a>
+        <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> </button></a>
 
 
 
@@ -179,16 +181,13 @@
 
 <script id="likes-tpl" type="text/template">
     <h1> {{number}} </h1>
-    </div>
+    <div>
     <center>
       {{#each this}}
       <p style="color:black"> <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
        {{user_name}} <p>
-          <a href="#films/{{film_id}}/affiche">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        window.localStorage.setItem("chmere",{{film_id}})
       {{/each}}
-    <a href="#films/"+window.localStorage.getItem('chmere')+"/affiche">
+    <a href = "javascript:history.go(-1)">
         <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
         </nav>
       </center>
