@@ -29,7 +29,7 @@
     <input type="text" class="form-control" id="friend_2" name="Name" placeholder="Buddy #2" style="disabled" />
         </div>
 
-    <a href="#films"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())">Start</button>
+    <a href="#films/1/affiche"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())","window.localStorage.setItem('length', $('#films').length.val());">Start</button>
 
     <a href="#cinemas"><button type="button">Cinemas Test</button>
 </script>
@@ -195,6 +195,16 @@
       </center>
 </script>
 
+
+
+<script id="end-tpl" type="text/template">
+<center>
+  <h1> Tu as vu tous les films! <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </h1>
+  <a href="#films/1/affiche" type="button" class="btn btn-success">Recommencer</a>
+  </center>
+</script>
+
+
 <script id="cinema-list-tpl" type="text/template">
   <br>
     <ul class="table-view">
@@ -229,6 +239,7 @@
 <script src="js/SynopsisView.js"></script>
 <script src="js/BOView.js"></script>
 <script src="js/LikesView.js"></script>
+<script src="js/EndView.js"></script>
 <script src="js/app.js"></script>
 <script src="lib/bootstrap.js"></script>
 
