@@ -9,9 +9,12 @@
     SynopsisView.prototype.template= Handlebars.compile($("#synopsis-tpl").html());
     BOView.prototype.template= Handlebars.compile($("#BO-tpl").html());
     LikesView.prototype.template= Handlebars.compile($("#likes-tpl").html());
+    CinemaListView.prototype.template= Handlebars.compile($("#cinema-list-tpl").html());
+    EndView.prototype.template= Handlebars.compile($("#end-tpl").html());
+
     /* ---------------------------------- Local Variables ---------------------------------- */
     var service = new FilmService();
-
+    var servicecine = new CinemaService();
 
     service.initialize().done(function () {
 
@@ -25,6 +28,13 @@
             // on commence par aller tous les chercher, et une fois que c'est bon on charge la liste
             service.findAll().done(function(films) {
                 $('body').html(new FilmListView(films).render().$el);
+            });
+        });
+
+        router.addRoute('cinemas', function() {
+            // on commence par aller tous les chercher, et une fois que c'est bon on charge la liste
+            servicecine.findAll().done(function(cinemas) {
+                $('body').html(new CinemaListView(cinemas).render().$el);
             });
         });
 
@@ -59,6 +69,7 @@
 
         //Next affiche
         router.addRoute('films/:id/affiche/next', function(id) {
+             console.log(films.length);
             service.findById(parseInt(id)+1).done(function(film) {
             $('body').html(new AfficheView(film).render().$el);
             });
@@ -66,17 +77,29 @@
         //Nextaffiche si like par boutton
 
         router.addRoute('films/:id/affiche/nextliked', function(id) {
-            service.findById(parseInt(id)).done(function(film) {
-            $('body').html(new AfficheView(film).likebtn());
-            });
+            if (id == 12) {
+                $('body').html(new EndView().render().$el);
+            }
+            else { service.findById(parseInt(id)).done(function(film) {
+                $('body').html(new AfficheView(film).likebtn());
+                });
+            }
+
         });
 
         //Nextaffiche si not like boutton
         router.addRoute('films/:id/affiche/nextnotliked', function(id) {
-            service.findById(parseInt(id)).done(function(film) {
-            $('body').html(new AfficheView(film).notlikebtn());
-            });
-        });
+            if (id == 12) {
+                $('body').html(new EndView().render().$el);
+                }
+                else { service.findById(parseInt(id)).done(function(film) {
+                    $('body').html(new AfficheView(film).notlikebtn());
+                    });
+                }
+
+             
+        }); 
+
         //view vers les likes
         router.addRoute('films/:id/likes',function(id) {
             service.likesById(parseInt(id)).done(function(likes,id) {

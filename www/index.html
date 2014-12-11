@@ -28,10 +28,11 @@
         </div>
     <input type="text" class="form-control" id="friend_2" name="Name" placeholder="Buddy #2" style="disabled" />
         </div>
-
+        <center>
     <a href="#films/1/affiche"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())","window.localStorage.setItem('length', $('#films').length.val());">Start</button>
 
     <a href="#cinemas"><button type="button">Cinemas Test</button>
+    </center>
 </script>
 
 <script id="film-list-tpl" type="text/template">
@@ -72,7 +73,7 @@
 
 
       <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
-        <a href="#films/{{id}}/affiche">Affiche
+        <a href="#films/{{id}}/affiche">
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/acteurs">Acteurs
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
@@ -80,9 +81,6 @@
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </nav>
 </script> 
 
 
@@ -90,12 +88,14 @@
 <script id="acteurs-tpl" type="text/template">
 <center>
    <div class="media-body">
+   <div class="affiche">
     <h1><strong> {{titre}} </strong></h1>
     <br>
     <h4><strong> Réalisateur: </strong></h4> <big> {{realisateur}} </big>
     <br>
     <h4><strong> Acteurs: </strong></h4><big>{{acteurs}}</big>
     <br>
+  </div>
   </div>
 
     <br>
@@ -108,16 +108,12 @@
       <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
         <a href="#films/{{id}}/affiche">Affiche
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/acteurs">Acteurs
+        <a href="#films/{{id}}/acteurs">
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/synopsis">Synopsis
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </nav>
-
 
 </script>
 
@@ -126,7 +122,9 @@
 <script id="synopsis-tpl" type="text/template">
 <center>
    <div class="media-body">
+    <div class="affiche">
    <h1> Synopsis: </h1><big>{{synopsis}}</big>
+  </div>
   </div>
 
           <br>
@@ -140,13 +138,11 @@
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/acteurs">Acteurs
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/synopsis">Synopsis
+        <a href="#films/{{id}}/synopsis">
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </nav>
+
 
 </script>
 
@@ -154,9 +150,12 @@
 <script id="BO-tpl" type="text/template">
 
 <center>
+
         <br>
+        <div class="affiche">
         <iframe class="trailer" width="300" height="300" src="http:{{BO}}" frameborder="0" allowfullscreen ></iframe>
         <br> 
+        </div>
 
 
         <br>
@@ -171,11 +170,9 @@
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/synopsis">Synopsis
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/BO">Bande-annonce
+        <a href="#films/{{id}}/BO">
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </nav>
+
 </div>
 
 

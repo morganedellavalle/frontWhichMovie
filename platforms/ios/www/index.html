@@ -28,8 +28,11 @@
         </div>
     <input type="text" class="form-control" id="friend_2" name="Name" placeholder="Buddy #2" style="disabled" />
         </div>
+        <center>
+    <a href="#films/1/affiche"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())","window.localStorage.setItem('length', $('#films').length.val());">Start</button>
 
-    <a href="#films"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())">Start</button>
+    <a href="#cinemas"><button type="button">Cinemas Test</button>
+    </center>
 </script>
 
 <script id="film-list-tpl" type="text/template">
@@ -70,7 +73,7 @@
 
 
       <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
-        <a href="#films/{{id}}/affiche">Affiche
+        <a href="#films/{{id}}/affiche">
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/acteurs">Acteurs
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
@@ -78,9 +81,6 @@
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </nav>
 </script> 
 
 
@@ -106,16 +106,12 @@
       <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
         <a href="#films/{{id}}/affiche">Affiche
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/acteurs">Acteurs
+        <a href="#films/{{id}}/acteurs">
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/synopsis">Synopsis
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </nav>
-
 
 </script>
 
@@ -138,13 +134,11 @@
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/acteurs">Acteurs
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/synopsis">Synopsis
+        <a href="#films/{{id}}/synopsis">
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/BO">Bande-annonce
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </nav>
+
 
 </script>
 
@@ -169,11 +163,9 @@
         <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
         <a href="#films/{{id}}/synopsis">Synopsis
         <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-        <a href="#films/{{id}}/BO">Bande-annonce
+        <a href="#films/{{id}}/BO">
         <span class="glyphicon glyphicon-film" aria-hidden="true"></span></a>
-        <a href="#films">
-        <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
-        </nav>
+
 </div>
 
 
@@ -194,6 +186,33 @@
 </script>
 
 
+
+<script id="end-tpl" type="text/template">
+<center>
+  <h1> Tu as vu tous les films! <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </h1>
+  <a href="#films/1/affiche" type="button" class="btn btn-success">Recommencer</a>
+  </center>
+</script>
+
+
+<script id="cinema-list-tpl" type="text/template">
+  <br>
+    <ul class="table-view">
+        {{#each this}}
+        <li class="table-view-cell media">
+              <center><iframe class="trailer" width="300" height="300" src="http:{{adresse}}" frameborder="0" allowfullscreen ></iframe> </center>
+              <div class="media-body">
+                  <strong> {{nom}} </strong>  
+                  <small> de {{seancehoraire}} </small>
+              </div>
+               
+          </a>
+        </li>
+        {{/each}}
+    </ul>
+</script>
+
+
 <script src="lib/handlebars.js"></script>
 <script src="lib/fastclick.js"></script>
 <script src="cordova.js"></script>
@@ -201,13 +220,16 @@
 <script src="lib/jquery.mobile.custom.js"></script>
 <script src="lib/router.js"></script>
 <script src="js/services/json/FilmService.js"></script>
+<script src="js/services/json/CinemaService.js"></script>
 <script src="js/HomeView.js"></script>
 <script src="js/FilmListView.js"></script>
 <script src="js/AfficheView.js"></script>
+<script src="js/CinemaListView.js"></script>
 <script src="js/ActeursView.js"></script>
 <script src="js/SynopsisView.js"></script>
 <script src="js/BOView.js"></script>
 <script src="js/LikesView.js"></script>
+<script src="js/EndView.js"></script>
 <script src="js/app.js"></script>
 <script src="lib/bootstrap.js"></script>
 

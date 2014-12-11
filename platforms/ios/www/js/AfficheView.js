@@ -19,9 +19,17 @@ var AfficheView = function (film) {
         $(this).append('<div class="like">Like!</div>');
         window.localStorage.setItem('film', film.id);
         var x= Number(film.id)+1;
-        setTimeout(function() {
+        if (x==13) {        
+            setTimeout(function() {
+            $('body').html(new EndView().render().$el);
+            }, 800);
+
+        }
+        else {
+            setTimeout(function() {
             router.load("films/"+x+"/affiche");
             }, 800);
+        }
         var params = {"like": {"user_name":localStorage.getItem("user_name")}};
         var buddy
 
@@ -48,16 +56,24 @@ var AfficheView = function (film) {
 
 
     this.notlikeswipe = function(id){
-    $(this).addClass('rotate-right').delay(1000).fadeOut(1000);
-    $('.buddy').find('.status').remove();
-    $(this).append('<div class="dislike"> Pas Like!</div>');
-    window.localStorage.setItem('film', film.id);
-    console.log(film.id);
-    console.log(localStorage.getItem("user_name"));
-    var x= Number(film.id)+1;
-    setTimeout(function() {
-        router.load("films/"+x+"/affiche");
-        }, 1000);
+        $(this).addClass('rotate-right').delay(1000).fadeOut(1000);
+        $('.buddy').find('.status').remove();
+        $(this).append('<div class="dislike"> Pas Like!</div>');
+        window.localStorage.setItem('film', film.id);
+        console.log(film.id);
+        console.log(localStorage.getItem("user_name"));
+        var x= Number(film.id)+1;
+        if (x==13) {        
+            setTimeout(function() {
+            $('body').html(new EndView().render().$el);
+            }, 800);
+
+        }
+        else {
+            setTimeout(function() {
+            router.load("films/"+x+"/affiche");
+            }, 800);
+        }
     };
 
 

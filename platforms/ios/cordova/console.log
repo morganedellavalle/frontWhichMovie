@@ -4005,3 +4005,898 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2014-12-11 02:10:44.060 WhichMovie[12751:775915] 2
 2014-12-11 02:10:44.062 WhichMovie[12751:775915] D
 2014-12-11 02:11:00.009 WhichMovie[12751:775915] 8
+2014-12-11 10:48:44.427 WhichMovie[18036:438406] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 10:48:44.427 WhichMovie[18036:438406] Multi-tasking -> Device: YES, App: YES
+2014-12-11 10:48:44.429 WhichMovie[18036:438406] Unlimited access to network resources
+2014-12-11 10:48:44.463 WhichMovie[18036:438406] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 10:48:44.889 WhichMovie[18036:438406] [CDVTimer][statusbar] 192.102969ms
+2014-12-11 10:48:44.889 WhichMovie[18036:438406] [CDVTimer][TotalPluginStartup] 192.268014ms
+2014-12-11 10:48:45.018 WhichMovie[18036:438406] Resetting plugins due to page load.
+2014-12-11 10:48:45.663 WhichMovie[18036:438406] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/FCB0F427-E689-493B-A0BC-D2321CEDC350/WhichMovie.app/www/index.html
+2014-12-11 10:49:24.416 WhichMovie[18036:438406] Tout marche ;)
+2014-12-11 10:49:24.428 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.428 WhichMovie[18036:438406] beaugosse
+2014-12-11 10:49:24.428 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.428 WhichMovie[18036:438406] salut Fosso
+2014-12-11 10:49:24.428 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.429 WhichMovie[18036:438406] kuku
+2014-12-11 10:49:24.429 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.429 WhichMovie[18036:438406] kuku
+2014-12-11 10:49:24.429 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.429 WhichMovie[18036:438406] Grosse Schnek
+2014-12-11 10:49:24.429 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.429 WhichMovie[18036:438406] Grosse Schnek
+2014-12-11 10:49:24.429 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] bébér
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] sisi
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] ds
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] qssq
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.430 WhichMovie[18036:438406] kl
+2014-12-11 10:49:24.431 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.431 WhichMovie[18036:438406] sd
+2014-12-11 10:49:24.431 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.431 WhichMovie[18036:438406] M
+2014-12-11 10:49:24.431 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.431 WhichMovie[18036:438406] M
+2014-12-11 10:49:24.431 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.431 WhichMovie[18036:438406] toi
+2014-12-11 10:49:24.432 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.432 WhichMovie[18036:438406] sdsd
+2014-12-11 10:49:24.432 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.432 WhichMovie[18036:438406] sdsd
+2014-12-11 10:49:24.432 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.432 WhichMovie[18036:438406] salut toi
+2014-12-11 10:49:24.432 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.432 WhichMovie[18036:438406] fdf
+2014-12-11 10:49:24.433 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.433 WhichMovie[18036:438406] cdf
+2014-12-11 10:49:24.433 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.433 WhichMovie[18036:438406] qs
+2014-12-11 10:49:24.433 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.433 WhichMovie[18036:438406] ds
+2014-12-11 10:49:24.433 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.433 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.434 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.434 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.434 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.434 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.434 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.434 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.434 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.435 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.435 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.435 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.435 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.435 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.435 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.435 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.436 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.436 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.436 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.436 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.436 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.437 WhichMovie[18036:438406] d
+2014-12-11 10:49:24.437 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.437 WhichMovie[18036:438406] fds
+2014-12-11 10:49:24.437 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.437 WhichMovie[18036:438406] chienchiot
+2014-12-11 10:49:24.437 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.437 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.437 WhichMovie[18036:438406] dzdQ
+2014-12-11 10:49:24.438 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.438 WhichMovie[18036:438406] papa
+2014-12-11 10:49:24.438 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.438 WhichMovie[18036:438406] papa
+2014-12-11 10:49:24.438 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.438 WhichMovie[18036:438406] papa
+2014-12-11 10:49:24.439 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.439 WhichMovie[18036:438406] kiki
+2014-12-11 10:49:24.439 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.439 WhichMovie[18036:438406] kk
+2014-12-11 10:49:24.439 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.439 WhichMovie[18036:438406] guillaume
+2014-12-11 10:49:24.439 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.440 WhichMovie[18036:438406] Az
+2014-12-11 10:49:24.440 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.440 WhichMovie[18036:438406] Morganne
+2014-12-11 10:49:24.440 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.440 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.440 WhichMovie[18036:438406] DqSqs
+2014-12-11 10:49:24.440 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.441 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:24.441 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.441 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:24.441 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.441 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:24.441 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.441 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:24.442 WhichMovie[18036:438406] ol
+2014-12-11 10:49:24.442 WhichMovie[18036:438406] kk
+2014-12-11 10:49:24.442 WhichMovie[18036:438406] ol
+2014-12-11 10:49:31.236 WhichMovie[18036:438406] 2
+2014-12-11 10:49:36.205 WhichMovie[18036:438406] 2
+2014-12-11 10:49:36.207 WhichMovie[18036:438406] kk
+2014-12-11 10:49:37.789 WhichMovie[18036:438406] Tout marche ;)
+2014-12-11 10:49:37.792 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] beaugosse
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] salut Fosso
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] kuku
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] kuku
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.793 WhichMovie[18036:438406] M
+2014-12-11 10:49:37.794 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.794 WhichMovie[18036:438406] M
+2014-12-11 10:49:37.794 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.794 WhichMovie[18036:438406] sdsd
+2014-12-11 10:49:37.794 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.794 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.794 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.794 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.795 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.795 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.795 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.795 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.795 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.795 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.795 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.796 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.796 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.796 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.796 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.796 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.796 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.796 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.796 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.797 WhichMovie[18036:438406] d
+2014-12-11 10:49:37.797 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.797 WhichMovie[18036:438406] chienchiot
+2014-12-11 10:49:37.797 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.797 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.797 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.797 WhichMovie[18036:438406] kikou
+2014-12-11 10:49:37.798 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.798 WhichMovie[18036:438406] papa
+2014-12-11 10:49:37.798 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.798 WhichMovie[18036:438406] kk
+2014-12-11 10:49:37.798 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.798 WhichMovie[18036:438406] guillaume
+2014-12-11 10:49:37.798 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.799 WhichMovie[18036:438406] Az
+2014-12-11 10:49:37.799 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.799 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:37.799 WhichMovie[18036:438406] ol
+2014-12-11 10:49:37.799 WhichMovie[18036:438406] kk
+2014-12-11 10:49:37.799 WhichMovie[18036:438406] ol
+2014-12-11 10:49:40.456 WhichMovie[18036:438406] 4
+2014-12-11 10:49:40.459 WhichMovie[18036:438406] kk
+2014-12-11 10:49:42.770 WhichMovie[18036:438406] 5
+2014-12-11 10:49:42.772 WhichMovie[18036:438406] kk
+2014-12-11 10:49:44.177 WhichMovie[18036:438406] M
+2014-12-11 10:49:44.183 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.183 WhichMovie[18036:438406] M
+2014-12-11 10:49:44.183 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.183 WhichMovie[18036:438406] sdsd
+2014-12-11 10:49:44.183 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.183 WhichMovie[18036:438406] kikki
+2014-12-11 10:49:44.184 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.184 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.184 WhichMovie[18036:438406] chienchiot
+2014-12-11 10:49:44.184 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.184 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.184 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.184 WhichMovie[18036:438406] ouimonsieur
+2014-12-11 10:49:44.185 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.185 WhichMovie[18036:438406] papa
+2014-12-11 10:49:44.185 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.185 WhichMovie[18036:438406] kk
+2014-12-11 10:49:44.185 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.185 WhichMovie[18036:438406] guillaume
+2014-12-11 10:49:44.185 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.185 WhichMovie[18036:438406] Az
+2014-12-11 10:49:44.186 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.186 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:44.186 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.186 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:44.186 WhichMovie[18036:438406] ol
+2014-12-11 10:49:44.186 WhichMovie[18036:438406] kk
+2014-12-11 10:49:44.186 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.583 WhichMovie[18036:438406] beaugosse
+2014-12-11 10:49:45.586 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.586 WhichMovie[18036:438406] M
+2014-12-11 10:49:45.587 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.587 WhichMovie[18036:438406] sdsd
+2014-12-11 10:49:45.587 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.587 WhichMovie[18036:438406] d
+2014-12-11 10:49:45.587 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.587 WhichMovie[18036:438406] aaaaaaaa
+2014-12-11 10:49:45.588 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.588 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.588 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.588 WhichMovie[18036:438406] ouimonsieur
+2014-12-11 10:49:45.588 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.588 WhichMovie[18036:438406] papa
+2014-12-11 10:49:45.588 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.589 WhichMovie[18036:438406] guillaume
+2014-12-11 10:49:45.589 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.589 WhichMovie[18036:438406] Az
+2014-12-11 10:49:45.589 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.589 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:45.589 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.589 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:45.590 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.590 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:45.590 WhichMovie[18036:438406] ol
+2014-12-11 10:49:45.590 WhichMovie[18036:438406] kk
+2014-12-11 10:49:45.590 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.038 WhichMovie[18036:438406] 8
+2014-12-11 10:49:47.041 WhichMovie[18036:438406] kk
+2014-12-11 10:49:47.064 WhichMovie[18036:438406] kuku
+2014-12-11 10:49:47.064 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.064 WhichMovie[18036:438406] kuku
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] M
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] sdsd
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] d
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] chienchiot
+2014-12-11 10:49:47.065 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] papa
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] guillaume
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] Az
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.066 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:47.067 WhichMovie[18036:438406] ol
+2014-12-11 10:49:47.067 WhichMovie[18036:438406] kk
+2014-12-11 10:49:47.067 WhichMovie[18036:438406] ol
+2014-12-11 10:49:48.439 WhichMovie[18036:438406] sdsd
+2014-12-11 10:49:48.441 WhichMovie[18036:438406] ol
+2014-12-11 10:49:48.441 WhichMovie[18036:438406] ouimonsieur
+2014-12-11 10:49:48.441 WhichMovie[18036:438406] ol
+2014-12-11 10:49:48.441 WhichMovie[18036:438406] papa
+2014-12-11 10:49:48.441 WhichMovie[18036:438406] ol
+2014-12-11 10:49:48.441 WhichMovie[18036:438406] guillaume
+2014-12-11 10:49:48.442 WhichMovie[18036:438406] ol
+2014-12-11 10:49:48.442 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:48.442 WhichMovie[18036:438406] ol
+2014-12-11 10:49:48.442 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:48.442 WhichMovie[18036:438406] ol
+2014-12-11 10:49:48.442 WhichMovie[18036:438406] kk
+2014-12-11 10:49:48.442 WhichMovie[18036:438406] ol
+2014-12-11 10:49:50.495 WhichMovie[18036:438406] M
+2014-12-11 10:49:50.499 WhichMovie[18036:438406] ol
+2014-12-11 10:49:50.499 WhichMovie[18036:438406] papa
+2014-12-11 10:49:50.500 WhichMovie[18036:438406] ol
+2014-12-11 10:49:50.500 WhichMovie[18036:438406] guillaume
+2014-12-11 10:49:50.500 WhichMovie[18036:438406] ol
+2014-12-11 10:49:50.500 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:50.500 WhichMovie[18036:438406] ol
+2014-12-11 10:49:50.500 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:50.500 WhichMovie[18036:438406] ol
+2014-12-11 10:49:50.501 WhichMovie[18036:438406] kk
+2014-12-11 10:49:50.501 WhichMovie[18036:438406] ol
+2014-12-11 10:49:52.674 WhichMovie[18036:438406] M
+2014-12-11 10:49:52.677 WhichMovie[18036:438406] ol
+2014-12-11 10:49:52.677 WhichMovie[18036:438406] ouimonsieur
+2014-12-11 10:49:52.677 WhichMovie[18036:438406] ol
+2014-12-11 10:49:52.677 WhichMovie[18036:438406] papa
+2014-12-11 10:49:52.678 WhichMovie[18036:438406] ol
+2014-12-11 10:49:52.678 WhichMovie[18036:438406] guillaume
+2014-12-11 10:49:52.678 WhichMovie[18036:438406] ol
+2014-12-11 10:49:52.678 WhichMovie[18036:438406] zdad
+2014-12-11 10:49:52.678 WhichMovie[18036:438406] ol
+2014-12-11 10:49:52.678 WhichMovie[18036:438406] Buddy
+2014-12-11 10:49:52.679 WhichMovie[18036:438406] ol
+2014-12-11 10:49:52.679 WhichMovie[18036:438406] kk
+2014-12-11 10:49:52.679 WhichMovie[18036:438406] ol
+2014-12-11 10:49:54.471 WhichMovie[18036:438406] 12
+2014-12-11 10:49:54.472 WhichMovie[18036:438406] kk
+2014-12-11 10:50:00.510 WhichMovie[18036:438406] Tout marche ;)
+2014-12-11 10:50:00.516 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.516 WhichMovie[18036:438406] beaugosse
+2014-12-11 10:50:00.516 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.517 WhichMovie[18036:438406] salut Fosso
+2014-12-11 10:50:00.517 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.517 WhichMovie[18036:438406] kuku
+2014-12-11 10:50:00.517 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.517 WhichMovie[18036:438406] kuku
+2014-12-11 10:50:00.517 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.518 WhichMovie[18036:438406] Grosse Schnek
+2014-12-11 10:50:00.518 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.518 WhichMovie[18036:438406] Grosse Schnek
+2014-12-11 10:50:00.518 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.518 WhichMovie[18036:438406] bébér
+2014-12-11 10:50:00.518 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.518 WhichMovie[18036:438406] sisi
+2014-12-11 10:50:00.519 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.519 WhichMovie[18036:438406] ds
+2014-12-11 10:50:00.519 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.519 WhichMovie[18036:438406] qssq
+2014-12-11 10:50:00.519 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.519 WhichMovie[18036:438406] kl
+2014-12-11 10:50:00.519 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.520 WhichMovie[18036:438406] sd
+2014-12-11 10:50:00.520 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.520 WhichMovie[18036:438406] M
+2014-12-11 10:50:00.520 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.520 WhichMovie[18036:438406] M
+2014-12-11 10:50:00.520 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.520 WhichMovie[18036:438406] toi
+2014-12-11 10:50:00.521 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.521 WhichMovie[18036:438406] sdsd
+2014-12-11 10:50:00.521 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.521 WhichMovie[18036:438406] sdsd
+2014-12-11 10:50:00.521 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.521 WhichMovie[18036:438406] salut toi
+2014-12-11 10:50:00.521 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.522 WhichMovie[18036:438406] fdf
+2014-12-11 10:50:00.522 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.522 WhichMovie[18036:438406] cdf
+2014-12-11 10:50:00.522 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.522 WhichMovie[18036:438406] qs
+2014-12-11 10:50:00.522 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.522 WhichMovie[18036:438406] ds
+2014-12-11 10:50:00.522 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.523 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.523 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.523 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.523 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.523 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.523 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.523 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.524 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.524 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.524 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.524 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.524 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.524 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.525 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.525 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.525 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.525 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.525 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.525 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.525 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.525 WhichMovie[18036:438406] d
+2014-12-11 10:50:00.526 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.526 WhichMovie[18036:438406] fds
+2014-12-11 10:50:00.526 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.526 WhichMovie[18036:438406] chienchiot
+2014-12-11 10:50:00.526 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.526 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.526 WhichMovie[18036:438406] dzdQ
+2014-12-11 10:50:00.527 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.527 WhichMovie[18036:438406] papa
+2014-12-11 10:50:00.527 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.527 WhichMovie[18036:438406] papa
+2014-12-11 10:50:00.527 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.527 WhichMovie[18036:438406] papa
+2014-12-11 10:50:00.527 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.527 WhichMovie[18036:438406] kiki
+2014-12-11 10:50:00.528 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.528 WhichMovie[18036:438406] kk
+2014-12-11 10:50:00.528 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.528 WhichMovie[18036:438406] guillaume
+2014-12-11 10:50:00.528 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.528 WhichMovie[18036:438406] Az
+2014-12-11 10:50:00.528 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.529 WhichMovie[18036:438406] Morganne
+2014-12-11 10:50:00.529 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.529 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.529 WhichMovie[18036:438406] DqSqs
+2014-12-11 10:50:00.529 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.529 WhichMovie[18036:438406] zdad
+2014-12-11 10:50:00.529 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.529 WhichMovie[18036:438406] zdad
+2014-12-11 10:50:00.530 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.530 WhichMovie[18036:438406] Buddy
+2014-12-11 10:50:00.530 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.530 WhichMovie[18036:438406] Buddy
+2014-12-11 10:50:00.530 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.530 WhichMovie[18036:438406] kk
+2014-12-11 10:50:00.530 WhichMovie[18036:438406] ol
+2014-12-11 10:50:00.530 WhichMovie[18036:438406] kk
+2014-12-11 10:50:00.531 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.890 WhichMovie[18036:438406] Tout marche ;)
+2014-12-11 10:50:01.893 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.893 WhichMovie[18036:438406] kuku
+2014-12-11 10:50:01.893 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.894 WhichMovie[18036:438406] kuku
+2014-12-11 10:50:01.894 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.894 WhichMovie[18036:438406] sd
+2014-12-11 10:50:01.894 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.894 WhichMovie[18036:438406] M
+2014-12-11 10:50:01.894 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.894 WhichMovie[18036:438406] sdsd
+2014-12-11 10:50:01.895 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.895 WhichMovie[18036:438406] sdsd
+2014-12-11 10:50:01.895 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.895 WhichMovie[18036:438406] salut toi
+2014-12-11 10:50:01.895 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.895 WhichMovie[18036:438406] ds
+2014-12-11 10:50:01.895 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.896 WhichMovie[18036:438406] ijb
+2014-12-11 10:50:01.896 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.896 WhichMovie[18036:438406] cdf
+2014-12-11 10:50:01.896 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.896 WhichMovie[18036:438406] wd
+2014-12-11 10:50:01.896 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.896 WhichMovie[18036:438406] qs
+2014-12-11 10:50:01.897 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.897 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.897 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.897 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.897 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.897 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.897 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.897 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.898 WhichMovie[18036:438406] koko
+2014-12-11 10:50:01.898 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.898 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.898 WhichMovie[18036:438406] papa
+2014-12-11 10:50:01.898 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.898 WhichMovie[18036:438406] papa
+2014-12-11 10:50:01.898 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.899 WhichMovie[18036:438406] kk
+2014-12-11 10:50:01.899 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.899 WhichMovie[18036:438406] guillaume
+2014-12-11 10:50:01.899 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.899 WhichMovie[18036:438406] Az
+2014-12-11 10:50:01.899 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.899 WhichMovie[18036:438406] Az
+2014-12-11 10:50:01.899 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.900 WhichMovie[18036:438406] zdad
+2014-12-11 10:50:01.900 WhichMovie[18036:438406] ol
+2014-12-11 10:50:01.900 WhichMovie[18036:438406] kk
+2014-12-11 10:50:01.900 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.734 WhichMovie[18036:438406] Tout marche ;)
+2014-12-11 10:50:03.739 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.739 WhichMovie[18036:438406] beaugosse
+2014-12-11 10:50:03.739 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.739 WhichMovie[18036:438406] salut Fosso
+2014-12-11 10:50:03.739 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.739 WhichMovie[18036:438406] kuku
+2014-12-11 10:50:03.739 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.740 WhichMovie[18036:438406] kuku
+2014-12-11 10:50:03.740 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.740 WhichMovie[18036:438406] M
+2014-12-11 10:50:03.740 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.740 WhichMovie[18036:438406] M
+2014-12-11 10:50:03.740 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.740 WhichMovie[18036:438406] sdsd
+2014-12-11 10:50:03.741 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.741 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.741 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.741 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.741 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.741 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.741 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.742 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.742 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.742 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.742 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.742 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.742 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.742 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.742 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] d
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] chienchiot
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.743 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.744 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.744 WhichMovie[18036:438406] kikou
+2014-12-11 10:50:03.744 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.744 WhichMovie[18036:438406] papa
+2014-12-11 10:50:03.744 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.744 WhichMovie[18036:438406] kk
+2014-12-11 10:50:03.744 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.744 WhichMovie[18036:438406] guillaume
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] Az
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] zdad
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] kk
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] ol
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] kk
+2014-12-11 10:50:03.745 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.761 WhichMovie[18036:438406] Tout marche ;)
+2014-12-11 10:50:05.765 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.765 WhichMovie[18036:438406] salut Fosso
+2014-12-11 10:50:05.766 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.766 WhichMovie[18036:438406] kuku
+2014-12-11 10:50:05.766 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.766 WhichMovie[18036:438406] kuku
+2014-12-11 10:50:05.766 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.766 WhichMovie[18036:438406] M
+2014-12-11 10:50:05.766 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.767 WhichMovie[18036:438406] sdsd
+2014-12-11 10:50:05.767 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.767 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.767 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.767 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.767 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.768 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.768 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.768 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.768 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.768 WhichMovie[18036:438406] chienchiot
+2014-12-11 10:50:05.768 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.768 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.769 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.769 WhichMovie[18036:438406] kikou
+2014-12-11 10:50:05.769 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.769 WhichMovie[18036:438406] papa
+2014-12-11 10:50:05.769 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.769 WhichMovie[18036:438406] kk
+2014-12-11 10:50:05.769 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.769 WhichMovie[18036:438406] guillaume
+2014-12-11 10:50:05.770 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.770 WhichMovie[18036:438406] Az
+2014-12-11 10:50:05.770 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.770 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.770 WhichMovie[18036:438406] zdad
+2014-12-11 10:50:05.770 WhichMovie[18036:438406] ol
+2014-12-11 10:50:05.770 WhichMovie[18036:438406] kk
+2014-12-11 10:50:05.770 WhichMovie[18036:438406] ol
+2014-12-11 10:50:43.205 WhichMovie[18036:438406] Resetting plugins due to page load.
+2014-12-11 10:50:43.623 WhichMovie[18036:438406] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+Dec 11 10:50:46 maccharles.eleves.polytechnique.fr rtcreporting[18036] <Info>: logging starts...
+Dec 11 10:50:46 maccharles.eleves.polytechnique.fr rtcreporting[18036] <Debug>: setMessageLoggingBlock: called
+2014-12-11 10:50:48.811 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a6155f0 UIImageView:0x7b996590.centerX == AVUnsupportedContentIndicatorView:0x7b996310.centerX>",
+    "<NSLayoutConstraint:0x7a615310 H:|-(>=10)-[UIImageView:0x7b996590]   (Names: '|':AVUnsupportedContentIndicatorView:0x7b996310 )>",
+    "<NSLayoutConstraint:0x7a604090 H:|-(0)-[AVUnsupportedContentIndicatorView:0x7b996310]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604060 H:[AVUnsupportedContentIndicatorView:0x7b996310]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a6041f0 H:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a604180 H:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99f7d0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a6155f0 UIImageView:0x7b996590.centerX == AVUnsupportedContentIndicatorView:0x7b996310.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.812 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b999ca0 UIView:0x7a612f20.centerX == AVExternalPlaybackIndicatorView:0x7a6135f0.centerX>",
+    "<NSLayoutConstraint:0x7b999dd0 H:|-(>=10)-[UIView:0x7a612f20]   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>",
+    "<NSLayoutConstraint:0x7a603e10 H:|-(0)-[AVExternalPlaybackIndicatorView:0x7a6135f0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603de0 H:[AVExternalPlaybackIndicatorView:0x7a6135f0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a6041f0 H:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a604180 H:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99f7d0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b999ca0 UIView:0x7a612f20.centerX == AVExternalPlaybackIndicatorView:0x7a6135f0.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.813 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b999dd0 H:|-(>=10)-[UIView:0x7a612f20]   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>",
+    "<NSLayoutConstraint:0x7b999e40 H:[UIView:0x7a612f20]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>",
+    "<NSLayoutConstraint:0x7a603e10 H:|-(0)-[AVExternalPlaybackIndicatorView:0x7a6135f0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603de0 H:[AVExternalPlaybackIndicatorView:0x7a6135f0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a6041f0 H:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a604180 H:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99f7d0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b999e40 H:[UIView:0x7a612f20]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.814 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a615310 H:|-(>=10)-[UIImageView:0x7b996590]   (Names: '|':AVUnsupportedContentIndicatorView:0x7b996310 )>",
+    "<NSLayoutConstraint:0x7a6151a0 H:[UIImageView:0x7b996590]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7b996310 )>",
+    "<NSLayoutConstraint:0x7a604090 H:|-(0)-[AVUnsupportedContentIndicatorView:0x7b996310]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604060 H:[AVUnsupportedContentIndicatorView:0x7b996310]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a6041f0 H:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a604180 H:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99f7d0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a6151a0 H:[UIImageView:0x7b996590]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7b996310 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.814 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a613000 UIImageView:0x7a614910.centerX == AVAudioOnlyIndicatorView:0x7a614be0.centerX>",
+    "<NSLayoutConstraint:0x7a613420 H:|-(>=10)-[UIImageView:0x7a614910]   (Names: '|':AVAudioOnlyIndicatorView:0x7a614be0 )>",
+    "<NSLayoutConstraint:0x7a603f40 H:|-(0)-[AVAudioOnlyIndicatorView:0x7a614be0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603ee0 H:[AVAudioOnlyIndicatorView:0x7a614be0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a6041f0 H:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a604180 H:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99f7d0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a613000 UIImageView:0x7a614910.centerX == AVAudioOnlyIndicatorView:0x7a614be0.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.815 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a613420 H:|-(>=10)-[UIImageView:0x7a614910]   (Names: '|':AVAudioOnlyIndicatorView:0x7a614be0 )>",
+    "<NSLayoutConstraint:0x7a613450 H:[UIImageView:0x7a614910]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7a614be0 )>",
+    "<NSLayoutConstraint:0x7a603f40 H:|-(0)-[AVAudioOnlyIndicatorView:0x7a614be0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603ee0 H:[AVAudioOnlyIndicatorView:0x7a614be0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a6041f0 H:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a604180 H:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99f7d0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a613450 H:[UIImageView:0x7a614910]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7a614be0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.816 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b999cf0 UIView:0x7a612f20.centerY == AVExternalPlaybackIndicatorView:0x7a6135f0.centerY + 10>",
+    "<NSLayoutConstraint:0x7b999ed0 V:[UIView:0x7a612f20]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>",
+    "<NSLayoutConstraint:0x7b99a0e0 V:|-(0)-[UIImageView:0x7a612e70]   (Names: '|':UIView:0x7a612f20 )>",
+    "<NSLayoutConstraint:0x7b99a140 V:[UIImageView:0x7a612e70]-(20)-[UILabel:0x7b999500]>",
+    "<NSLayoutConstraint:0x7b99a170 V:[UILabel:0x7b999500]-(0)-[UILabel:0x7b999820]>",
+    "<NSLayoutConstraint:0x7b99a1a0 V:[UILabel:0x7b999820]-(0)-|   (Names: '|':UIView:0x7a612f20 )>",
+    "<NSLayoutConstraint:0x7a603d60 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7a6135f0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603d30 V:[AVExternalPlaybackIndicatorView:0x7a6135f0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604130 V:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a6040c0 V:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99fda0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b99a140 V:[UIImageView:0x7a612e70]-(20)-[UILabel:0x7b999500]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.817 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a6155a0 UIImageView:0x7b996590.centerY == AVUnsupportedContentIndicatorView:0x7b996310.centerY + 10>",
+    "<NSLayoutConstraint:0x7a615010 V:[UIImageView:0x7b996590]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7b996310 )>",
+    "<NSLayoutConstraint:0x7a603fe0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x7b996310]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603fa0 V:[AVUnsupportedContentIndicatorView:0x7b996310]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604130 V:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a6040c0 V:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99fda0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a6155a0 UIImageView:0x7b996590.centerY == AVUnsupportedContentIndicatorView:0x7b996310.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.818 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b999cf0 UIView:0x7a612f20.centerY == AVExternalPlaybackIndicatorView:0x7a6135f0.centerY + 10>",
+    "<NSLayoutConstraint:0x7b999ed0 V:[UIView:0x7a612f20]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>",
+    "<NSLayoutConstraint:0x7a603d60 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7a6135f0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603d30 V:[AVExternalPlaybackIndicatorView:0x7a6135f0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604130 V:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a6040c0 V:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99fda0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b999cf0 UIView:0x7a612f20.centerY == AVExternalPlaybackIndicatorView:0x7a6135f0.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.818 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a613340 UIImageView:0x7a614910.centerY == AVAudioOnlyIndicatorView:0x7a614be0.centerY + 10>",
+    "<NSLayoutConstraint:0x7a613500 V:[UIImageView:0x7a614910]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7a614be0 )>",
+    "<NSLayoutConstraint:0x7a603e90 V:|-(0)-[AVAudioOnlyIndicatorView:0x7a614be0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603e40 V:[AVAudioOnlyIndicatorView:0x7a614be0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604130 V:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a6040c0 V:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99fda0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a613340 UIImageView:0x7a614910.centerY == AVAudioOnlyIndicatorView:0x7a614be0.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.819 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a6134a0 V:|-(>=10)-[UIImageView:0x7a614910]   (Names: '|':AVAudioOnlyIndicatorView:0x7a614be0 )>",
+    "<NSLayoutConstraint:0x7a613500 V:[UIImageView:0x7a614910]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7a614be0 )>",
+    "<NSLayoutConstraint:0x7a603e90 V:|-(0)-[AVAudioOnlyIndicatorView:0x7a614be0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603e40 V:[AVAudioOnlyIndicatorView:0x7a614be0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604130 V:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a6040c0 V:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99fda0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a613500 V:[UIImageView:0x7a614910]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7a614be0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.820 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b999e70 V:|-(>=10)-[UIView:0x7a612f20]   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>",
+    "<NSLayoutConstraint:0x7b999ed0 V:[UIView:0x7a612f20]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>",
+    "<NSLayoutConstraint:0x7a603d60 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7a6135f0]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603d30 V:[AVExternalPlaybackIndicatorView:0x7a6135f0]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604130 V:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a6040c0 V:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99fda0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b999ed0 V:[UIView:0x7a612f20]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a6135f0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 10:50:48.820 WhichMovie[18036:438406] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a615070 V:|-(>=10)-[UIImageView:0x7b996590]   (Names: '|':AVUnsupportedContentIndicatorView:0x7b996310 )>",
+    "<NSLayoutConstraint:0x7a615010 V:[UIImageView:0x7b996590]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7b996310 )>",
+    "<NSLayoutConstraint:0x7a603fe0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x7b996310]   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a603fa0 V:[AVUnsupportedContentIndicatorView:0x7b996310]-(0)-|   (Names: '|':UIView:0x7b996150 )>",
+    "<NSLayoutConstraint:0x7a604130 V:|-(0)-[UIView:0x7b996150]   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7a6040c0 V:[UIView:0x7b996150]-(0)-|   (Names: '|':AVPlayerView:0x7a618890 )>",
+    "<NSLayoutConstraint:0x7b99fda0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7a618890(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a615010 V:[UIImageView:0x7b996590]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7b996310 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+Dec 11 10:51:58 maccharles.eleves.polytechnique.fr rtcreporting[18036] <Debug>: initWithSessionInfo: XPC connection interrupted
+2014-12-11 10:53:27.455 WhichMovie[18277:440941] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 10:53:27.456 WhichMovie[18277:440941] Multi-tasking -> Device: YES, App: YES
+2014-12-11 10:53:27.458 WhichMovie[18277:440941] Unlimited access to network resources
+2014-12-11 10:53:27.461 WhichMovie[18277:440941] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 10:53:27.671 WhichMovie[18277:440941] [CDVTimer][statusbar] 16.995013ms
+2014-12-11 10:53:27.671 WhichMovie[18277:440941] [CDVTimer][TotalPluginStartup] 17.154038ms
+2014-12-11 10:53:27.734 WhichMovie[18277:440941] Resetting plugins due to page load.
+2014-12-11 10:53:28.809 WhichMovie[18277:440941] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/C51BB88E-21F3-4017-9664-B9898C56B225/WhichMovie.app/www/index.html
+2014-12-11 10:55:16.953 WhichMovie[18472:442096] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 10:55:16.955 WhichMovie[18472:442096] Multi-tasking -> Device: YES, App: YES
+2014-12-11 10:55:16.957 WhichMovie[18472:442096] Unlimited access to network resources
+2014-12-11 10:55:16.960 WhichMovie[18472:442096] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 10:55:17.159 WhichMovie[18472:442096] [CDVTimer][statusbar] 17.251968ms
+2014-12-11 10:55:17.159 WhichMovie[18472:442096] [CDVTimer][TotalPluginStartup] 17.418981ms
+2014-12-11 10:55:17.236 WhichMovie[18472:442096] Resetting plugins due to page load.
+2014-12-11 10:55:17.582 WhichMovie[18472:442096] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/1593A90A-B3B8-418E-B22B-ECBB21AE5FC4/WhichMovie.app/www/index.html
+2014-12-11 10:56:26.576 WhichMovie[18659:442892] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 10:56:26.577 WhichMovie[18659:442892] Multi-tasking -> Device: YES, App: YES
+2014-12-11 10:56:26.579 WhichMovie[18659:442892] Unlimited access to network resources
+2014-12-11 10:56:26.581 WhichMovie[18659:442892] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 10:56:26.770 WhichMovie[18659:442892] [CDVTimer][statusbar] 19.575000ms
+2014-12-11 10:56:26.771 WhichMovie[18659:442892] [CDVTimer][TotalPluginStartup] 19.746006ms
+2014-12-11 10:56:26.849 WhichMovie[18659:442892] Resetting plugins due to page load.
+2014-12-11 10:56:27.198 WhichMovie[18659:442892] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/1082C90B-616F-482A-9748-DD4420EE16F4/WhichMovie.app/www/index.html
+2014-12-11 10:57:06.020 WhichMovie[18844:443572] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 10:57:06.021 WhichMovie[18844:443572] Multi-tasking -> Device: YES, App: YES
+2014-12-11 10:57:06.023 WhichMovie[18844:443572] Unlimited access to network resources
+2014-12-11 10:57:06.025 WhichMovie[18844:443572] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 10:57:06.215 WhichMovie[18844:443572] [CDVTimer][statusbar] 17.723978ms
+2014-12-11 10:57:06.216 WhichMovie[18844:443572] [CDVTimer][TotalPluginStartup] 17.889977ms
+2014-12-11 10:57:06.295 WhichMovie[18844:443572] Resetting plugins due to page load.
+2014-12-11 10:57:06.615 WhichMovie[18844:443572] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/92797FA1-C450-451B-AD67-8AEA79003A38/WhichMovie.app/www/index.html
+2014-12-11 10:57:53.510 WhichMovie[19064:444509] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 10:57:53.512 WhichMovie[19064:444509] Multi-tasking -> Device: YES, App: YES
+2014-12-11 10:57:53.514 WhichMovie[19064:444509] Unlimited access to network resources
+2014-12-11 10:57:53.518 WhichMovie[19064:444509] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 10:57:53.776 WhichMovie[19064:444509] [CDVTimer][statusbar] 19.686997ms
+2014-12-11 10:57:53.776 WhichMovie[19064:444509] [CDVTimer][TotalPluginStartup] 19.863963ms
+2014-12-11 10:57:53.838 WhichMovie[19064:444509] Resetting plugins due to page load.
+2014-12-11 10:57:54.167 WhichMovie[19064:444509] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/1E7BF02A-6F9D-43DF-A069-CEDDAC583D0F/WhichMovie.app/www/index.html
+2014-12-11 10:59:05.222 WhichMovie[19257:445413] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 10:59:05.223 WhichMovie[19257:445413] Multi-tasking -> Device: YES, App: YES
+2014-12-11 10:59:05.225 WhichMovie[19257:445413] Unlimited access to network resources
+2014-12-11 10:59:05.228 WhichMovie[19257:445413] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 10:59:05.418 WhichMovie[19257:445413] [CDVTimer][statusbar] 17.623007ms
+2014-12-11 10:59:05.418 WhichMovie[19257:445413] [CDVTimer][TotalPluginStartup] 17.789006ms
+2014-12-11 10:59:05.491 WhichMovie[19257:445413] Resetting plugins due to page load.
+2014-12-11 10:59:05.874 WhichMovie[19257:445413] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/3E89219B-5EE7-4E04-B893-729641EF8263/WhichMovie.app/www/index.html
+2014-12-11 11:02:15.023 WhichMovie[19549:447953] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 11:02:15.155 WhichMovie[19549:447953] Multi-tasking -> Device: YES, App: YES
+2014-12-11 11:02:15.156 WhichMovie[19549:447953] Unlimited access to network resources
+2014-12-11 11:02:15.159 WhichMovie[19549:447953] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 11:02:15.594 WhichMovie[19549:447953] [CDVTimer][statusbar] 16.746998ms
+2014-12-11 11:02:15.595 WhichMovie[19549:447953] [CDVTimer][TotalPluginStartup] 16.893983ms
+2014-12-11 11:02:15.659 WhichMovie[19549:447953] Resetting plugins due to page load.
+2014-12-11 11:02:16.012 WhichMovie[19549:447953] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/313D0BE6-089D-4A26-8E18-0C3FAC984A0A/WhichMovie.app/www/index.html
+2014-12-11 11:02:37.956 WhichMovie[19549:447953] Tout marche ;)
