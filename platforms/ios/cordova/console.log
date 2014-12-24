@@ -5953,3 +5953,19 @@ The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in
 2014-12-11 15:12:51.827 WhichMovie[21182:518065] 11
 2014-12-11 15:12:52.297 WhichMovie[21182:518065] Juste Leblanc
 >>>>>>> Stashed changes
+2014-12-24 16:50:32.346 WhichMovie[59896:2423742] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-24 16:50:32.378 WhichMovie[59896:2423742] Multi-tasking -> Device: YES, App: YES
+2014-12-24 16:50:32.400 WhichMovie[59896:2423742] Unlimited access to network resources
+2014-12-24 16:50:32.416 WhichMovie[59896:2423742] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-24 16:50:34.421 WhichMovie[59896:2423742] [CDVTimer][statusbar] 383.873999ms
+2014-12-24 16:50:34.421 WhichMovie[59896:2423742] [CDVTimer][TotalPluginStartup] 384.041011ms
+2014-12-24 16:50:34.961 WhichMovie[59896:2423742] Resetting plugins due to page load.
+2014-12-24 16:50:37.290 WhichMovie[59896:2423742] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/287E58D4-3DE7-4EA5-AFFD-794A4A753D69/WhichMovie.app/www/index.html
+2014-12-24 16:51:07.196 WhichMovie[59896:2423742] 1
