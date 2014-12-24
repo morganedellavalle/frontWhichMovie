@@ -28,6 +28,10 @@ var AfficheView = function (film) {
         var params = {"like": {"user_name":localStorage.getItem("user_name")}};
 
         $.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params, function(response){
+<<<<<<< Updated upstream
+=======
+        //console.log(Number(response.number)-1);
+>>>>>>> Stashed changes
             var array = $.map(response.other_likes, function(value, index) {
                     return [value];
             });
@@ -86,6 +90,7 @@ var AfficheView = function (film) {
 
         //like sur btn
     this.likebtn = function(){
+<<<<<<< Updated upstream
         window.localStorage.setItem('film', film.id);
         var x= Number(film.id)+1;
         if (x==13) {        
@@ -127,9 +132,35 @@ var AfficheView = function (film) {
             };
 
             if (bool==false){router.load("films/"+x+"/affiche");};
+=======
+    window.localStorage.setItem('film', film.id);
+    console.log(film.id);
+    console.log(localStorage.getItem("user_name"));
+    var x= Number(film.id)+1;
+    //alert("Liked");
+    router.load("films/"+x+"/affiche");
+    var params = {"like": {"user_name":localStorage.getItem("user_name")}};
+    $.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params, function(response){
+        //console.log(Number(response.number)-1);
+            var array = $.map(response.other_likes, function(value, index) {
+                    return [value];
+            });
+            for (i = 0; i < array.length; i++) {
+                console.log(array[i].user_name);
+                console.log(localStorage.getItem("friend_1"));
+                if (array[i].user_name==localStorage.getItem("friend_1")){
+                        alert("There is a match with "+ array[i].user_name);
+                };
+           
+                if (array[i].user_name==localStorage.getItem("friend_2")){
+                        alert("There is a match with "+ array[i].user_name);
+                };            
+            };
+>>>>>>> Stashed changes
             
         });
     };
+
 
 
 

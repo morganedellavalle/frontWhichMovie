@@ -23,16 +23,12 @@
 		</div>
     <div class="form-group" id="login">
    <input type="text" class="form-control" id="user_name" name="Name" placeholder="Enter your Name" style="disabled" />
-        </div>
+        <br>
     <input type="text" class="form-control" id="friend_1" name="Name" placeholder="Buddy #1" style="disabled" />
-        </div>
     <input type="text" class="form-control" id="friend_2" name="Name" placeholder="Buddy #2" style="disabled" />
-        </div>
         <center>
-    <a href="#films/1/affiche"> <button type="button" class="btn btn-danger btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())","window.localStorage.setItem('length', $('#films').length.val());">Start</button>
-
-    <a href="#cinemas"><button type="button">Cinemas Test</button>
-    </center>
+        </div>
+    <a href="#films/1/affiche"> <button type="button" class="btn btn-success btn-round" onClick="window.localStorage.setItem('user_name', $('#user_name').val()); window.localStorage.setItem('friend_1', $('#friend_1').val()); window.localStorage.setItem('friend_2', $('#friend_2').val())","window.localStorage.setItem('length', $('#films').length.val());"><span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span></button>
 </script>
 
 <script id="film-list-tpl" type="text/template">
@@ -67,6 +63,7 @@
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
         <a class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+         <br>
         <a href="#films/{{id}}/likes" class='btn' style="width:50px; height=100px"> 
         <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> </button></a>
 
@@ -103,6 +100,9 @@
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
         <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+                  <br>
+        <a href="#films/{{id}}/likes" class='btn' style="width:50px; height=100px"> 
+        <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> </button></a>
 
 
       <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
@@ -132,6 +132,9 @@
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
         <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+                  <br>
+        <a href="#films/{{id}}/likes" class='btn' style="width:50px; height=100px"> 
+        <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> </button></a>
 
        <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
         <a href="#films/{{id}}/affiche">Affiche
@@ -163,6 +166,11 @@
          <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"></span> </a>
         <a href="#films/{{id}}/affiche/nextliked" class='btn btn-success' style="width:50px; height=100px"> 
          <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </a>
+                  <br>
+        <a href="#films/{{id}}/likes" class='btn' style="width:50px; height=100px"> 
+        <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> </button></a>
+
+
       <nav class="navbar-horizontal navbar-form navbar-center navbar-static-top" role="navigation">
         <a href="#films/{{id}}/affiche">Affiche
         <span class="glyphicon glyphicon-picture" aria-hidden="true"></span></a>
@@ -197,7 +205,7 @@
 <script id="end-tpl" type="text/template">
 <center>
   <h1> Tu as vu tous les films! <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> </h1>
-  <a href="#films/1/affiche" type="button" class="btn btn-success">Recommencer</a>
+  <a href="" type="button" class="btn btn-success">Recommencer avec de nouveaux amis?</a>
   </center>
 </script>
 

@@ -4900,10 +4900,17 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2014-12-11 11:02:15.659 WhichMovie[19549:447953] Resetting plugins due to page load.
 2014-12-11 11:02:16.012 WhichMovie[19549:447953] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/313D0BE6-089D-4A26-8E18-0C3FAC984A0A/WhichMovie.app/www/index.html
 2014-12-11 11:02:37.956 WhichMovie[19549:447953] Tout marche ;)
+<<<<<<< Updated upstream
 2014-12-11 13:33:26.623 WhichMovie[14079:851993] Apache Cordova native platform version 3.7.0 is starting.
 2014-12-11 13:33:26.629 WhichMovie[14079:851993] Multi-tasking -> Device: YES, App: YES
 2014-12-11 13:33:26.656 WhichMovie[14079:851993] Unlimited access to network resources
 2014-12-11 13:33:26.676 WhichMovie[14079:851993] 
+=======
+2014-12-11 13:36:05.096 WhichMovie[20249:487020] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 13:36:05.097 WhichMovie[20249:487020] Multi-tasking -> Device: YES, App: YES
+2014-12-11 13:36:05.099 WhichMovie[20249:487020] Unlimited access to network resources
+2014-12-11 13:36:05.101 WhichMovie[20249:487020] 
+>>>>>>> Stashed changes
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -4911,6 +4918,7 @@ For more information please read "iOS Data Storage Guidelines" at:
 https://developer.apple.com/icloud/documentation/data-storage/
 To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
 
+<<<<<<< Updated upstream
 2014-12-11 13:33:27.364 WhichMovie[14079:851993] [CDVTimer][statusbar] 207.033992ms
 2014-12-11 13:33:27.365 WhichMovie[14079:851993] [CDVTimer][TotalPluginStartup] 207.188010ms
 2014-12-11 13:33:27.657 WhichMovie[14079:851993] Resetting plugins due to page load.
@@ -4920,6 +4928,105 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2014-12-11 14:09:21.857 WhichMovie[14348:862429] Multi-tasking -> Device: YES, App: YES
 2014-12-11 14:09:21.858 WhichMovie[14348:862429] Unlimited access to network resources
 2014-12-11 14:09:21.860 WhichMovie[14348:862429] 
+=======
+2014-12-11 13:36:05.320 WhichMovie[20249:487020] [CDVTimer][statusbar] 17.437994ms
+2014-12-11 13:36:05.320 WhichMovie[20249:487020] [CDVTimer][TotalPluginStartup] 17.602026ms
+2014-12-11 13:36:05.381 WhichMovie[20249:487020] Resetting plugins due to page load.
+2014-12-11 13:36:08.705 WhichMovie[20249:487020] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/48743D2E-CEEA-45EF-BFE3-04EE1AAE6FCE/WhichMovie.app/www/index.html
+2014-12-11 13:37:35.318 WhichMovie[20249:487020] 1
+2014-12-11 13:37:35.320 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:37:43.830 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:37:43.833 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:43.833 WhichMovie[20249:487020] B
+2014-12-11 13:37:43.833 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:43.833 WhichMovie[20249:487020] Em
+2014-12-11 13:37:43.834 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:43.834 WhichMovie[20249:487020] B
+2014-12-11 13:37:43.834 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:48.734 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:37:48.736 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:48.736 WhichMovie[20249:487020] Emeric
+2014-12-11 13:37:48.736 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:48.737 WhichMovie[20249:487020] Emeric
+2014-12-11 13:37:48.737 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:48.737 WhichMovie[20249:487020] B
+2014-12-11 13:37:48.737 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:48.737 WhichMovie[20249:487020] Em
+2014-12-11 13:37:48.737 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:48.737 WhichMovie[20249:487020] B
+2014-12-11 13:37:48.737 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:48.738 WhichMovie[20249:487020] Guillaume
+2014-12-11 13:37:48.738 WhichMovie[20249:487020] guillaume
+2014-12-11 13:37:59.212 WhichMovie[20249:487020] 4
+2014-12-11 13:37:59.214 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:06.437 WhichMovie[20249:487020] Webcore NSBeep()!
+2014-12-11 13:38:08.404 WhichMovie[20249:487020] 5
+2014-12-11 13:38:08.406 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:12.641 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:12.643 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:12.643 WhichMovie[20249:487020] Em
+2014-12-11 13:38:12.643 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:15.069 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:15.071 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:16.824 WhichMovie[20249:487020] 8
+2014-12-11 13:38:16.826 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:23.951 WhichMovie[20249:487020] 9
+2014-12-11 13:38:23.953 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:41.670 WhichMovie[20249:487020] M
+2014-12-11 13:38:43.615 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:43.615 WhichMovie[20249:487020] papa
+2014-12-11 13:38:43.615 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:43.615 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:43.616 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:43.616 WhichMovie[20249:487020] zdad
+2014-12-11 13:38:43.616 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:43.616 WhichMovie[20249:487020] Buddy
+2014-12-11 13:38:43.616 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:43.616 WhichMovie[20249:487020] kk
+2014-12-11 13:38:43.616 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:43.617 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:43.617 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:51.208 WhichMovie[20249:487020] 11
+2014-12-11 13:38:51.211 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:57.369 WhichMovie[20249:487020] Jean Paul
+2014-12-11 13:38:57.370 WhichMovie[20249:487020] guillaume
+2014-12-11 13:38:57.370 WhichMovie[20249:487020] Morgane
+2014-12-11 13:38:57.370 WhichMovie[20249:487020] guillaume
+2014-12-11 13:39:54.989 WhichMovie[20249:487020] Az
+2014-12-11 13:39:54.994 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.994 WhichMovie[20249:487020] Emeric
+2014-12-11 13:39:54.994 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.994 WhichMovie[20249:487020] Emeric
+2014-12-11 13:39:54.994 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.994 WhichMovie[20249:487020] B
+2014-12-11 13:39:54.995 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.995 WhichMovie[20249:487020] B
+2014-12-11 13:39:54.995 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.995 WhichMovie[20249:487020] B
+2014-12-11 13:39:54.995 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.995 WhichMovie[20249:487020] B
+2014-12-11 13:39:54.995 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.996 WhichMovie[20249:487020] B
+2014-12-11 13:39:54.996 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.996 WhichMovie[20249:487020] B
+2014-12-11 13:39:54.996 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.996 WhichMovie[20249:487020] Em
+2014-12-11 13:39:54.996 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.997 WhichMovie[20249:487020] Em
+2014-12-11 13:39:54.997 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.997 WhichMovie[20249:487020] Em
+2014-12-11 13:39:54.997 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.997 WhichMovie[20249:487020] B
+2014-12-11 13:39:54.997 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.997 WhichMovie[20249:487020] Guillaume
+2014-12-11 13:39:54.998 WhichMovie[20249:487020] personne
+2014-12-11 13:39:54.998 WhichMovie[20249:487020] B
+2014-12-11 13:39:54.999 WhichMovie[20249:487020] personne
+2014-12-11 14:03:42.968 WhichMovie[20546:495601] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 14:03:42.969 WhichMovie[20546:495601] Multi-tasking -> Device: YES, App: YES
+2014-12-11 14:03:42.970 WhichMovie[20546:495601] Unlimited access to network resources
+2014-12-11 14:03:42.973 WhichMovie[20546:495601] 
+>>>>>>> Stashed changes
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -4927,6 +5034,7 @@ For more information please read "iOS Data Storage Guidelines" at:
 https://developer.apple.com/icloud/documentation/data-storage/
 To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
 
+<<<<<<< Updated upstream
 2014-12-11 14:09:22.107 WhichMovie[14348:862429] [CDVTimer][statusbar] 75.408995ms
 2014-12-11 14:09:22.108 WhichMovie[14348:862429] [CDVTimer][TotalPluginStartup] 75.635970ms
 2014-12-11 14:09:22.262 WhichMovie[14348:862429] Resetting plugins due to page load.
@@ -4955,6 +5063,16 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2014-12-11 14:10:38.730 WhichMovie[14575:863639] Multi-tasking -> Device: YES, App: YES
 2014-12-11 14:10:38.731 WhichMovie[14575:863639] Unlimited access to network resources
 2014-12-11 14:10:38.733 WhichMovie[14575:863639] 
+=======
+2014-12-11 14:03:43.156 WhichMovie[20546:495601] [CDVTimer][statusbar] 21.418035ms
+2014-12-11 14:03:43.157 WhichMovie[20546:495601] [CDVTimer][TotalPluginStartup] 21.580994ms
+2014-12-11 14:03:43.229 WhichMovie[20546:495601] Resetting plugins due to page load.
+2014-12-11 14:03:43.356 WhichMovie[20546:495601] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/7A6D2CDB-F124-4A2B-AAAE-88FDE3E36FEC/WhichMovie.app/www/index.html
+2014-12-11 14:57:26.608 WhichMovie[20927:512321] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 14:57:26.624 WhichMovie[20927:512321] Multi-tasking -> Device: YES, App: YES
+2014-12-11 14:57:26.642 WhichMovie[20927:512321] Unlimited access to network resources
+2014-12-11 14:57:26.645 WhichMovie[20927:512321] 
+>>>>>>> Stashed changes
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -4962,6 +5080,7 @@ For more information please read "iOS Data Storage Guidelines" at:
 https://developer.apple.com/icloud/documentation/data-storage/
 To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
 
+<<<<<<< Updated upstream
 2014-12-11 14:10:38.925 WhichMovie[14575:863639] [CDVTimer][statusbar] 24.437010ms
 2014-12-11 14:10:38.925 WhichMovie[14575:863639] [CDVTimer][TotalPluginStartup] 24.574995ms
 2014-12-11 14:10:39.021 WhichMovie[14575:863639] Resetting plugins due to page load.
@@ -4971,3 +5090,866 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2014-12-11 14:11:53.269 WhichMovie[14575:863639] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
 2014-12-11 14:11:53.270 WhichMovie[14575:863639] Resetting plugins due to page load.
 2014-12-11 14:11:53.555 WhichMovie[14575:863639] Finished load of: https://accounts.google.com/ServiceLoginAuth?hl=en&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2F%4046.181423%2C-1.158987%2C8.65z
+=======
+2014-12-11 14:57:26.850 WhichMovie[20927:512321] [CDVTimer][statusbar] 48.191011ms
+2014-12-11 14:57:26.850 WhichMovie[20927:512321] [CDVTimer][TotalPluginStartup] 48.413038ms
+2014-12-11 14:57:26.916 WhichMovie[20927:512321] Resetting plugins due to page load.
+2014-12-11 14:57:27.374 WhichMovie[20927:512321] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/000AFA9A-51A9-48B4-A173-63F5B7BB8DE9/WhichMovie.app/www/index.html
+Dec 11 15:08:14 MacBook-Pro-de-guillaume-2.local rtcreporting[20927] <Info>: logging starts...
+Dec 11 15:08:14 MacBook-Pro-de-guillaume-2.local rtcreporting[20927] <Debug>: setMessageLoggingBlock: called
+2014-12-11 15:08:16.422 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b7ef8f0 UIImageView:0x7c834110.centerX == AVUnsupportedContentIndicatorView:0x7c8343e0.centerX>",
+    "<NSLayoutConstraint:0x7b791de0 H:|-(>=10)-[UIImageView:0x7c834110]   (Names: '|':AVUnsupportedContentIndicatorView:0x7c8343e0 )>",
+    "<NSLayoutConstraint:0x7b621980 H:|-(0)-[AVUnsupportedContentIndicatorView:0x7c8343e0]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621950 H:[AVUnsupportedContentIndicatorView:0x7c8343e0]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621ad0 H:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b621a70 H:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60efd0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b7ef8f0 UIImageView:0x7c834110.centerX == AVUnsupportedContentIndicatorView:0x7c8343e0.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.423 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c8317a0 UIView:0x7c83aed0.centerX == AVExternalPlaybackIndicatorView:0x7c84e730.centerX>",
+    "<NSLayoutConstraint:0x7c831850 H:|-(>=10)-[UIView:0x7c83aed0]   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>",
+    "<NSLayoutConstraint:0x7b621700 H:|-(0)-[AVExternalPlaybackIndicatorView:0x7c84e730]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b6216d0 H:[AVExternalPlaybackIndicatorView:0x7c84e730]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621ad0 H:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b621a70 H:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60efd0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c8317a0 UIView:0x7c83aed0.centerX == AVExternalPlaybackIndicatorView:0x7c84e730.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.423 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c831850 H:|-(>=10)-[UIView:0x7c83aed0]   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>",
+    "<NSLayoutConstraint:0x7c831880 H:[UIView:0x7c83aed0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>",
+    "<NSLayoutConstraint:0x7b621700 H:|-(0)-[AVExternalPlaybackIndicatorView:0x7c84e730]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b6216d0 H:[AVExternalPlaybackIndicatorView:0x7c84e730]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621ad0 H:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b621a70 H:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60efd0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c831880 H:[UIView:0x7c83aed0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.424 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b791de0 H:|-(>=10)-[UIImageView:0x7c834110]   (Names: '|':AVUnsupportedContentIndicatorView:0x7c8343e0 )>",
+    "<NSLayoutConstraint:0x7b768c80 H:[UIImageView:0x7c834110]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7c8343e0 )>",
+    "<NSLayoutConstraint:0x7b621980 H:|-(0)-[AVUnsupportedContentIndicatorView:0x7c8343e0]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621950 H:[AVUnsupportedContentIndicatorView:0x7c8343e0]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621ad0 H:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b621a70 H:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60efd0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b768c80 H:[UIImageView:0x7c834110]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7c8343e0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.425 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c867c20 UIImageView:0x7b762a10.centerX == AVAudioOnlyIndicatorView:0x7b7642e0.centerX>",
+    "<NSLayoutConstraint:0x7c85c1f0 H:|-(>=10)-[UIImageView:0x7b762a10]   (Names: '|':AVAudioOnlyIndicatorView:0x7b7642e0 )>",
+    "<NSLayoutConstraint:0x7b621830 H:|-(0)-[AVAudioOnlyIndicatorView:0x7b7642e0]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b6217d0 H:[AVAudioOnlyIndicatorView:0x7b7642e0]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621ad0 H:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b621a70 H:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60efd0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c867c20 UIImageView:0x7b762a10.centerX == AVAudioOnlyIndicatorView:0x7b7642e0.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.426 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c85c1f0 H:|-(>=10)-[UIImageView:0x7b762a10]   (Names: '|':AVAudioOnlyIndicatorView:0x7b7642e0 )>",
+    "<NSLayoutConstraint:0x7c8644d0 H:[UIImageView:0x7b762a10]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7b7642e0 )>",
+    "<NSLayoutConstraint:0x7b621830 H:|-(0)-[AVAudioOnlyIndicatorView:0x7b7642e0]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b6217d0 H:[AVAudioOnlyIndicatorView:0x7b7642e0]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621ad0 H:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b621a70 H:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60efd0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c8644d0 H:[UIImageView:0x7b762a10]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7b7642e0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.427 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c8317d0 UIView:0x7c83aed0.centerY == AVExternalPlaybackIndicatorView:0x7c84e730.centerY + 10>",
+    "<NSLayoutConstraint:0x7c8318e0 V:[UIView:0x7c83aed0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>",
+    "<NSLayoutConstraint:0x7c831ac0 V:|-(0)-[UIImageView:0x7c832b10]   (Names: '|':UIView:0x7c83aed0 )>",
+    "<NSLayoutConstraint:0x7c831230 V:[UIImageView:0x7c832b10]-(20)-[UILabel:0x7c8315b0]>",
+    "<NSLayoutConstraint:0x7c831200 V:[UILabel:0x7c8315b0]-(0)-[UILabel:0x7c831670]>",
+    "<NSLayoutConstraint:0x7c8311d0 V:[UILabel:0x7c831670]-(0)-|   (Names: '|':UIView:0x7c83aed0 )>",
+    "<NSLayoutConstraint:0x7b621650 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7c84e730]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621620 V:[AVExternalPlaybackIndicatorView:0x7c84e730]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621a20 V:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b6219b0 V:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60e8d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c831230 V:[UIImageView:0x7c832b10]-(20)-[UILabel:0x7c8315b0]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.428 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b7755f0 UIImageView:0x7c834110.centerY == AVUnsupportedContentIndicatorView:0x7c8343e0.centerY + 10>",
+    "<NSLayoutConstraint:0x7b7bef80 V:[UIImageView:0x7c834110]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7c8343e0 )>",
+    "<NSLayoutConstraint:0x7b6218d0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x7c8343e0]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621890 V:[AVUnsupportedContentIndicatorView:0x7c8343e0]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621a20 V:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b6219b0 V:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60e8d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b7755f0 UIImageView:0x7c834110.centerY == AVUnsupportedContentIndicatorView:0x7c8343e0.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.429 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c86e540 UIImageView:0x7b762a10.centerY == AVAudioOnlyIndicatorView:0x7b7642e0.centerY + 10>",
+    "<NSLayoutConstraint:0x7c845b30 V:[UIImageView:0x7b762a10]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7b7642e0 )>",
+    "<NSLayoutConstraint:0x7b621780 V:|-(0)-[AVAudioOnlyIndicatorView:0x7b7642e0]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621730 V:[AVAudioOnlyIndicatorView:0x7b7642e0]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621a20 V:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b6219b0 V:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60e8d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c86e540 UIImageView:0x7b762a10.centerY == AVAudioOnlyIndicatorView:0x7b7642e0.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.430 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c8317d0 UIView:0x7c83aed0.centerY == AVExternalPlaybackIndicatorView:0x7c84e730.centerY + 10>",
+    "<NSLayoutConstraint:0x7c8318e0 V:[UIView:0x7c83aed0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>",
+    "<NSLayoutConstraint:0x7b621650 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7c84e730]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621620 V:[AVExternalPlaybackIndicatorView:0x7c84e730]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621a20 V:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b6219b0 V:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60e8d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c8317d0 UIView:0x7c83aed0.centerY == AVExternalPlaybackIndicatorView:0x7c84e730.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.431 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c84aa00 V:|-(>=10)-[UIImageView:0x7b762a10]   (Names: '|':AVAudioOnlyIndicatorView:0x7b7642e0 )>",
+    "<NSLayoutConstraint:0x7c845b30 V:[UIImageView:0x7b762a10]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7b7642e0 )>",
+    "<NSLayoutConstraint:0x7b621780 V:|-(0)-[AVAudioOnlyIndicatorView:0x7b7642e0]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621730 V:[AVAudioOnlyIndicatorView:0x7b7642e0]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621a20 V:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b6219b0 V:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60e8d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c845b30 V:[UIImageView:0x7b762a10]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x7b7642e0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.432 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c8318b0 V:|-(>=10)-[UIView:0x7c83aed0]   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>",
+    "<NSLayoutConstraint:0x7c8318e0 V:[UIView:0x7c83aed0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>",
+    "<NSLayoutConstraint:0x7b621650 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7c84e730]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621620 V:[AVExternalPlaybackIndicatorView:0x7c84e730]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621a20 V:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b6219b0 V:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60e8d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7c8318e0 V:[UIView:0x7c83aed0]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7c84e730 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:16.433 WhichMovie[20927:512321] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b7fa210 V:|-(>=10)-[UIImageView:0x7c834110]   (Names: '|':AVUnsupportedContentIndicatorView:0x7c8343e0 )>",
+    "<NSLayoutConstraint:0x7b7bef80 V:[UIImageView:0x7c834110]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7c8343e0 )>",
+    "<NSLayoutConstraint:0x7b6218d0 V:|-(0)-[AVUnsupportedContentIndicatorView:0x7c8343e0]   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621890 V:[AVUnsupportedContentIndicatorView:0x7c8343e0]-(0)-|   (Names: '|':UIView:0x7c8345b0 )>",
+    "<NSLayoutConstraint:0x7b621a20 V:|-(0)-[UIView:0x7c8345b0]   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b6219b0 V:[UIView:0x7c8345b0]-(0)-|   (Names: '|':AVPlayerView:0x7c834870 )>",
+    "<NSLayoutConstraint:0x7b60e8d0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x7c834870(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b7bef80 V:[UIImageView:0x7c834110]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x7c8343e0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:08:29.984 WhichMovie[20927:512321] 1
+2014-12-11 15:08:29.986 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:32.178 WhichMovie[20927:512321] 2
+2014-12-11 15:08:32.180 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:34.593 WhichMovie[20927:512321] Guillaume
+2014-12-11 15:08:34.596 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] B
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] Em
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] B
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.597 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Jean Paul
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Morgane
+2014-12-11 15:08:34.598 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.599 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:34.600 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.600 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:34.600 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:34.600 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:34.600 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:36.972 WhichMovie[20927:512321] 4
+2014-12-11 15:08:36.974 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:39.817 WhichMovie[20927:512321] Guillaume
+2014-12-11 15:08:41.707 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.707 WhichMovie[20927:512321] Em
+2014-12-11 15:08:41.707 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.707 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] Goupy
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] Morgane
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:41.708 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.709 WhichMovie[20927:512321] Pierre Brochant
+2014-12-11 15:08:41.709 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.709 WhichMovie[20927:512321] Cheval
+2014-12-11 15:08:41.709 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.709 WhichMovie[20927:512321] Serge le Lama
+2014-12-11 15:08:41.709 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.709 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:41.710 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.710 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.710 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.710 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.710 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.710 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.710 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.710 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.711 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.711 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.711 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.711 WhichMovie[20927:512321] lol
+2014-12-11 15:08:41.711 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.711 WhichMovie[20927:512321] lol
+2014-12-11 15:08:41.711 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.711 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.712 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.713 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.713 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:41.713 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:41.713 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:43.734 WhichMovie[20927:512321] 6
+2014-12-11 15:08:43.736 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:46.576 WhichMovie[20927:512321] Jean Paul
+2014-12-11 15:08:46.579 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.579 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:46.579 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.579 WhichMovie[20927:512321] Goupy
+2014-12-11 15:08:46.579 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.579 WhichMovie[20927:512321] Morgane
+2014-12-11 15:08:46.580 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.580 WhichMovie[20927:512321] Victor
+2014-12-11 15:08:46.580 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.580 WhichMovie[20927:512321] Victor
+2014-12-11 15:08:46.580 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.580 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:46.580 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.581 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:46.581 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.581 WhichMovie[20927:512321] Pierre Brochant
+2014-12-11 15:08:46.581 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.581 WhichMovie[20927:512321] Cheval
+2014-12-11 15:08:46.581 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.581 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:46.582 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.582 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:46.582 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.582 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:46.582 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:46.582 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:46.582 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.097 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:48.099 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.100 WhichMovie[20927:512321] Goupy
+2014-12-11 15:08:48.100 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.100 WhichMovie[20927:512321] Morgane
+2014-12-11 15:08:48.100 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.100 WhichMovie[20927:512321] Victor
+2014-12-11 15:08:48.100 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.100 WhichMovie[20927:512321] Victor
+2014-12-11 15:08:48.100 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.101 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:48.101 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.101 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:48.101 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.101 WhichMovie[20927:512321] Pierre Brochant
+2014-12-11 15:08:48.101 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.101 WhichMovie[20927:512321] Cheval
+2014-12-11 15:08:48.102 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.102 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:48.102 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:48.102 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:48.102 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:50.891 WhichMovie[20927:512321] 9
+2014-12-11 15:08:50.894 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:52.725 WhichMovie[20927:512321] Morgane
+2014-12-11 15:08:52.725 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.725 WhichMovie[20927:512321] Emeric
+2014-12-11 15:08:52.726 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.726 WhichMovie[20927:512321] Victor
+2014-12-11 15:08:52.726 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.726 WhichMovie[20927:512321] Victor
+2014-12-11 15:08:52.726 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.726 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:52.726 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.727 WhichMovie[20927:512321] Pierre Brochant
+2014-12-11 15:08:52.727 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.727 WhichMovie[20927:512321] Cheval
+2014-12-11 15:08:52.727 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.727 WhichMovie[20927:512321] Serge le Lama
+2014-12-11 15:08:52.727 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.727 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:52.728 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:52.728 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:52.728 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:54.868 WhichMovie[20927:512321] Goupy
+2014-12-11 15:08:56.638 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:56.638 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:56.639 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:56.639 WhichMovie[20927:512321] François Pignon
+2014-12-11 15:08:56.639 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:56.639 WhichMovie[20927:512321] Pierre Brochant
+2014-12-11 15:08:56.639 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:56.639 WhichMovie[20927:512321] Cheval
+2014-12-11 15:08:56.639 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:56.640 WhichMovie[20927:512321] Cheval
+2014-12-11 15:08:56.640 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:56.640 WhichMovie[20927:512321] Serge le Lama
+2014-12-11 15:08:56.640 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:56.640 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:56.640 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:56.641 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:08:56.641 WhichMovie[20927:512321] Pierre Brochan
+2014-12-11 15:08:58.996 WhichMovie[20927:512321] 11
+2014-12-11 15:08:58.998 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:09:01.041 WhichMovie[20927:512321] 12
+2014-12-11 15:09:01.042 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:09:33.092 WhichMovie[20927:512321] 1
+2014-12-11 15:09:33.094 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:09:34.438 WhichMovie[20927:512321] 2
+2014-12-11 15:09:34.441 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:09:35.198 WhichMovie[20927:512321] 3
+2014-12-11 15:09:35.201 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:09:36.647 WhichMovie[20927:512321] 4
+2014-12-11 15:09:36.649 WhichMovie[20927:512321] Juste Leblanc
+2014-12-11 15:09:37.810 WhichMovie[20927:512321] 5
+Dec 11 15:09:59 MacBook-Pro-de-guillaume-2.local rtcreporting[20927] <Debug>: initWithSessionInfo: XPC connection interrupted
+2014-12-11 15:10:27.412 WhichMovie[21182:518065] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-11 15:10:27.412 WhichMovie[21182:518065] Multi-tasking -> Device: YES, App: YES
+2014-12-11 15:10:27.414 WhichMovie[21182:518065] Unlimited access to network resources
+2014-12-11 15:10:27.425 WhichMovie[21182:518065] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-11 15:10:27.608 WhichMovie[21182:518065] [CDVTimer][statusbar] 17.645001ms
+2014-12-11 15:10:27.609 WhichMovie[21182:518065] [CDVTimer][TotalPluginStartup] 17.858982ms
+2014-12-11 15:10:27.688 WhichMovie[21182:518065] Resetting plugins due to page load.
+2014-12-11 15:10:28.470 WhichMovie[21182:518065] Finished load of: file:///Users/guillaume/Library/Developer/CoreSimulator/Devices/2B6E92D9-51B2-4F9F-AAA7-CF9DE2CB4640/data/Containers/Bundle/Application/FAA6DDD9-D900-4C5B-A26D-4E83EC9AFC00/WhichMovie.app/www/index.html
+Dec 11 15:11:35 MacBook-Pro-de-guillaume-2.local rtcreporting[21182] <Info>: logging starts...
+Dec 11 15:11:35 MacBook-Pro-de-guillaume-2.local rtcreporting[21182] <Debug>: setMessageLoggingBlock: called
+2014-12-11 15:11:37.163 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec5290 UIImageView:0x78e9f4c0.centerX == AVUnsupportedContentIndicatorView:0x78e96760.centerX>",
+    "<NSLayoutConstraint:0x78ec5580 H:|-(>=10)-[UIImageView:0x78e9f4c0]   (Names: '|':AVUnsupportedContentIndicatorView:0x78e96760 )>",
+    "<NSLayoutConstraint:0x78f78ed0 H:|-(0)-[AVUnsupportedContentIndicatorView:0x78e96760]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78f00 H:[AVUnsupportedContentIndicatorView:0x78e96760]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78d70 H:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78de0 H:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e26a0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec5290 UIImageView:0x78e9f4c0.centerX == AVUnsupportedContentIndicatorView:0x78e96760.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.164 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec79f0 UIView:0x7a2b5b50.centerX == AVExternalPlaybackIndicatorView:0x7a2aab90.centerX>",
+    "<NSLayoutConstraint:0x78ec7b20 H:|-(>=10)-[UIView:0x7a2b5b50]   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>",
+    "<NSLayoutConstraint:0x78f79150 H:|-(0)-[AVExternalPlaybackIndicatorView:0x7a2aab90]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79180 H:[AVExternalPlaybackIndicatorView:0x7a2aab90]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78d70 H:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78de0 H:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e26a0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec79f0 UIView:0x7a2b5b50.centerX == AVExternalPlaybackIndicatorView:0x7a2aab90.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.164 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec7b20 H:|-(>=10)-[UIView:0x7a2b5b50]   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>",
+    "<NSLayoutConstraint:0x78ec7b90 H:[UIView:0x7a2b5b50]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>",
+    "<NSLayoutConstraint:0x78f79150 H:|-(0)-[AVExternalPlaybackIndicatorView:0x7a2aab90]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79180 H:[AVExternalPlaybackIndicatorView:0x7a2aab90]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78d70 H:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78de0 H:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e26a0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec7b90 H:[UIView:0x7a2b5b50]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.165 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec5580 H:|-(>=10)-[UIImageView:0x78e9f4c0]   (Names: '|':AVUnsupportedContentIndicatorView:0x78e96760 )>",
+    "<NSLayoutConstraint:0x78ec56f0 H:[UIImageView:0x78e9f4c0]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78e96760 )>",
+    "<NSLayoutConstraint:0x78f78ed0 H:|-(0)-[AVUnsupportedContentIndicatorView:0x78e96760]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78f00 H:[AVUnsupportedContentIndicatorView:0x78e96760]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78d70 H:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78de0 H:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e26a0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec56f0 H:[UIImageView:0x78e9f4c0]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78e96760 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.167 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a2b6480 UIImageView:0x78ec5f30.centerX == AVAudioOnlyIndicatorView:0x78ec5c70.centerX>",
+    "<NSLayoutConstraint:0x7a269b40 H:|-(>=10)-[UIImageView:0x78ec5f30]   (Names: '|':AVAudioOnlyIndicatorView:0x78ec5c70 )>",
+    "<NSLayoutConstraint:0x78f79020 H:|-(0)-[AVAudioOnlyIndicatorView:0x78ec5c70]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79080 H:[AVAudioOnlyIndicatorView:0x78ec5c70]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78d70 H:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78de0 H:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e26a0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a2b6480 UIImageView:0x78ec5f30.centerX == AVAudioOnlyIndicatorView:0x78ec5c70.centerX>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.168 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a269b40 H:|-(>=10)-[UIImageView:0x78ec5f30]   (Names: '|':AVAudioOnlyIndicatorView:0x78ec5c70 )>",
+    "<NSLayoutConstraint:0x7a298a90 H:[UIImageView:0x78ec5f30]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x78ec5c70 )>",
+    "<NSLayoutConstraint:0x78f79020 H:|-(0)-[AVAudioOnlyIndicatorView:0x78ec5c70]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79080 H:[AVAudioOnlyIndicatorView:0x78ec5c70]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78d70 H:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78de0 H:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e26a0 'UIView-Encapsulated-Layout-Width' H:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a298a90 H:[UIImageView:0x78ec5f30]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x78ec5c70 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.170 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec7a40 UIView:0x7a2b5b50.centerY == AVExternalPlaybackIndicatorView:0x7a2aab90.centerY + 10>",
+    "<NSLayoutConstraint:0x78ec7c20 V:[UIView:0x7a2b5b50]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>",
+    "<NSLayoutConstraint:0x78ec7e30 V:|-(0)-[UIImageView:0x7a20ddb0]   (Names: '|':UIView:0x7a2b5b50 )>",
+    "<NSLayoutConstraint:0x78ec7e90 V:[UIImageView:0x7a20ddb0]-(20)-[UILabel:0x78ec7290]>",
+    "<NSLayoutConstraint:0x78ec7ec0 V:[UILabel:0x78ec7290]-(0)-[UILabel:0x78ec7490]>",
+    "<NSLayoutConstraint:0x78ec7ef0 V:[UILabel:0x78ec7490]-(0)-|   (Names: '|':UIView:0x7a2b5b50 )>",
+    "<NSLayoutConstraint:0x78f79200 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7a2aab90]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79230 V:[AVExternalPlaybackIndicatorView:0x7a2aab90]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78e30 V:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78ea0 V:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e58f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec7e90 V:[UIImageView:0x7a20ddb0]-(20)-[UILabel:0x78ec7290]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.171 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec52e0 UIImageView:0x78e9f4c0.centerY == AVUnsupportedContentIndicatorView:0x78e96760.centerY + 10>",
+    "<NSLayoutConstraint:0x78ec5880 V:[UIImageView:0x78e9f4c0]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78e96760 )>",
+    "<NSLayoutConstraint:0x78f78f80 V:|-(0)-[AVUnsupportedContentIndicatorView:0x78e96760]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78fc0 V:[AVUnsupportedContentIndicatorView:0x78e96760]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78e30 V:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78ea0 V:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e58f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec52e0 UIImageView:0x78e9f4c0.centerY == AVUnsupportedContentIndicatorView:0x78e96760.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.171 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a2d1010 UIImageView:0x78ec5f30.centerY == AVAudioOnlyIndicatorView:0x78ec5c70.centerY + 10>",
+    "<NSLayoutConstraint:0x7a2a8160 V:[UIImageView:0x78ec5f30]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x78ec5c70 )>",
+    "<NSLayoutConstraint:0x78f790d0 V:|-(0)-[AVAudioOnlyIndicatorView:0x78ec5c70]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79120 V:[AVAudioOnlyIndicatorView:0x78ec5c70]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78e30 V:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78ea0 V:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e58f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a2d1010 UIImageView:0x78ec5f30.centerY == AVAudioOnlyIndicatorView:0x78ec5c70.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.172 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec7a40 UIView:0x7a2b5b50.centerY == AVExternalPlaybackIndicatorView:0x7a2aab90.centerY + 10>",
+    "<NSLayoutConstraint:0x78ec7c20 V:[UIView:0x7a2b5b50]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>",
+    "<NSLayoutConstraint:0x78f79200 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7a2aab90]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79230 V:[AVExternalPlaybackIndicatorView:0x7a2aab90]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78e30 V:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78ea0 V:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e58f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec7a40 UIView:0x7a2b5b50.centerY == AVExternalPlaybackIndicatorView:0x7a2aab90.centerY + 10>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.173 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec7bc0 V:|-(>=10)-[UIView:0x7a2b5b50]   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>",
+    "<NSLayoutConstraint:0x78ec7c20 V:[UIView:0x7a2b5b50]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>",
+    "<NSLayoutConstraint:0x78f79200 V:|-(0)-[AVExternalPlaybackIndicatorView:0x7a2aab90]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79230 V:[AVExternalPlaybackIndicatorView:0x7a2aab90]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78e30 V:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78ea0 V:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e58f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec7c20 V:[UIView:0x7a2b5b50]-(>=10)-|   (Names: '|':AVExternalPlaybackIndicatorView:0x7a2aab90 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.174 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x78ec5820 V:|-(>=10)-[UIImageView:0x78e9f4c0]   (Names: '|':AVUnsupportedContentIndicatorView:0x78e96760 )>",
+    "<NSLayoutConstraint:0x78ec5880 V:[UIImageView:0x78e9f4c0]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78e96760 )>",
+    "<NSLayoutConstraint:0x78f78f80 V:|-(0)-[AVUnsupportedContentIndicatorView:0x78e96760]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78fc0 V:[AVUnsupportedContentIndicatorView:0x78e96760]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78e30 V:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78ea0 V:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e58f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x78ec5880 V:[UIImageView:0x78e9f4c0]-(>=10)-|   (Names: '|':AVUnsupportedContentIndicatorView:0x78e96760 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:37.175 WhichMovie[21182:518065] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a27c1d0 V:|-(>=10)-[UIImageView:0x78ec5f30]   (Names: '|':AVAudioOnlyIndicatorView:0x78ec5c70 )>",
+    "<NSLayoutConstraint:0x7a2a8160 V:[UIImageView:0x78ec5f30]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x78ec5c70 )>",
+    "<NSLayoutConstraint:0x78f790d0 V:|-(0)-[AVAudioOnlyIndicatorView:0x78ec5c70]   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f79120 V:[AVAudioOnlyIndicatorView:0x78ec5c70]-(0)-|   (Names: '|':UIView:0x78e924c0 )>",
+    "<NSLayoutConstraint:0x78f78e30 V:|-(0)-[UIView:0x78e924c0]   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x78f78ea0 V:[UIView:0x78e924c0]-(0)-|   (Names: '|':AVPlayerView:0x78ec1830 )>",
+    "<NSLayoutConstraint:0x7a2e58f0 'UIView-Encapsulated-Layout-Height' V:[AVPlayerView:0x78ec1830(1)]>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a2a8160 V:[UIImageView:0x78ec5f30]-(>=10)-|   (Names: '|':AVAudioOnlyIndicatorView:0x78ec5c70 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2014-12-11 15:11:52.039 WhichMovie[21182:518065] 1
+2014-12-11 15:11:52.041 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:11:53.734 WhichMovie[21182:518065] 2
+2014-12-11 15:11:53.735 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:11:55.820 WhichMovie[21182:518065] Guillaume
+2014-12-11 15:11:55.824 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.824 WhichMovie[21182:518065] B
+2014-12-11 15:11:55.824 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.824 WhichMovie[21182:518065] Em
+2014-12-11 15:11:55.824 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.824 WhichMovie[21182:518065] B
+2014-12-11 15:11:55.825 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.825 WhichMovie[21182:518065] Emeric
+2014-12-11 15:11:55.825 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.825 WhichMovie[21182:518065] Emeric
+2014-12-11 15:11:55.825 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.825 WhichMovie[21182:518065] Jean Paul
+2014-12-11 15:11:55.825 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.825 WhichMovie[21182:518065] Emeric
+2014-12-11 15:11:55.826 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.826 WhichMovie[21182:518065] Emeric
+2014-12-11 15:11:55.826 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.826 WhichMovie[21182:518065] Morgane
+2014-12-11 15:11:55.826 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.826 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:11:55.826 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.826 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:11:55.827 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.827 WhichMovie[21182:518065] Emeric
+2014-12-11 15:11:55.827 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.827 WhichMovie[21182:518065] Emeric
+2014-12-11 15:11:55.827 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.827 WhichMovie[21182:518065] Emeric
+2014-12-11 15:11:55.827 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.827 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:11:55.828 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.828 WhichMovie[21182:518065] Emeric
+2014-12-11 15:11:55.828 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.828 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:11:55.828 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:55.828 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:11:55.828 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:11:57.636 WhichMovie[21182:518065] 4
+2014-12-11 15:11:57.638 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:05.888 WhichMovie[21182:518065] beaugosse
+2014-12-11 15:12:05.891 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.891 WhichMovie[21182:518065] M
+2014-12-11 15:12:05.891 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.891 WhichMovie[21182:518065] sdsd
+2014-12-11 15:12:05.892 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.892 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.892 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.892 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.892 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.892 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] kikki
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] kikou
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] papa
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.893 WhichMovie[21182:518065] guillaume
+2014-12-11 15:12:05.894 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.894 WhichMovie[21182:518065] Az
+2014-12-11 15:12:05.894 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.894 WhichMovie[21182:518065] zdad
+2014-12-11 15:12:05.894 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.894 WhichMovie[21182:518065] Morgane
+2014-12-11 15:12:05.894 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.895 WhichMovie[21182:518065] Goupy
+2014-12-11 15:12:05.895 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:05.895 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:05.895 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:16.535 WhichMovie[21182:518065] 6
+2014-12-11 15:12:16.538 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:17.012 WhichMovie[21182:518065] Em
+2014-12-11 15:12:19.044 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.044 WhichMovie[21182:518065] Jean Paul
+2014-12-11 15:12:19.044 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.044 WhichMovie[21182:518065] Emeric
+2014-12-11 15:12:19.044 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.044 WhichMovie[21182:518065] Emeric
+2014-12-11 15:12:19.044 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.044 WhichMovie[21182:518065] Morgane
+2014-12-11 15:12:19.045 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.045 WhichMovie[21182:518065] Victor
+2014-12-11 15:12:19.045 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.045 WhichMovie[21182:518065] Victor
+2014-12-11 15:12:19.045 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.045 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:12:19.045 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.045 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:12:19.046 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.046 WhichMovie[21182:518065] Pierre Brochant
+2014-12-11 15:12:19.046 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.046 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:19.046 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.046 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:19.046 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.046 WhichMovie[21182:518065] Emeric
+2014-12-11 15:12:19.047 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.047 WhichMovie[21182:518065] Emeric
+2014-12-11 15:12:19.047 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:19.047 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:19.047 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:24.133 WhichMovie[21182:518065] 7
+2014-12-11 15:12:30.519 WhichMovie[21182:518065] Jean Paul
+2014-12-11 15:12:32.060 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.061 WhichMovie[21182:518065] Emeric
+2014-12-11 15:12:32.061 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.061 WhichMovie[21182:518065] Goupy
+2014-12-11 15:12:32.061 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.061 WhichMovie[21182:518065] Morgane
+2014-12-11 15:12:32.061 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.061 WhichMovie[21182:518065] Victor
+2014-12-11 15:12:32.061 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] Victor
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] Pierre Brochant
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.062 WhichMovie[21182:518065] Cheval
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Emeric
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:32.063 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:32.064 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:32.064 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:34.206 WhichMovie[21182:518065] Emeric
+2014-12-11 15:12:36.016 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.016 WhichMovie[21182:518065] Goupy
+2014-12-11 15:12:36.016 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.016 WhichMovie[21182:518065] Morgane
+2014-12-11 15:12:36.016 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.016 WhichMovie[21182:518065] Victor
+2014-12-11 15:12:36.017 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.017 WhichMovie[21182:518065] Victor
+2014-12-11 15:12:36.017 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.017 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:12:36.017 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.017 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:12:36.017 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.018 WhichMovie[21182:518065] Pierre Brochant
+2014-12-11 15:12:36.018 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.018 WhichMovie[21182:518065] Cheval
+2014-12-11 15:12:36.018 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.018 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:36.018 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.018 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:36.018 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:36.019 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:36.019 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:37.418 WhichMovie[21182:518065] 9
+2014-12-11 15:12:43.048 WhichMovie[21182:518065] Morgane
+2014-12-11 15:12:46.923 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.923 WhichMovie[21182:518065] Emeric
+2014-12-11 15:12:46.923 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.923 WhichMovie[21182:518065] Victor
+2014-12-11 15:12:46.923 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.923 WhichMovie[21182:518065] Victor
+2014-12-11 15:12:46.924 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.924 WhichMovie[21182:518065] François Pignon
+2014-12-11 15:12:46.924 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.924 WhichMovie[21182:518065] Pierre Brochant
+2014-12-11 15:12:46.924 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.924 WhichMovie[21182:518065] Cheval
+2014-12-11 15:12:46.924 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.924 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.925 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.925 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:46.925 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.925 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:46.925 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:46.925 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:46.925 WhichMovie[21182:518065] Serge le Lama
+2014-12-11 15:12:50.395 WhichMovie[21182:518065] 10
+2014-12-11 15:12:50.398 WhichMovie[21182:518065] Juste Leblanc
+2014-12-11 15:12:51.827 WhichMovie[21182:518065] 11
+2014-12-11 15:12:52.297 WhichMovie[21182:518065] Juste Leblanc
+>>>>>>> Stashed changes

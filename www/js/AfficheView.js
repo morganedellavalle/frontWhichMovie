@@ -91,17 +91,22 @@ var AfficheView = function (film) {
         //like sur btn
     this.likebtn = function(){
 
-        window.localStorage.setItem('film', film.id);
-        console.log(film.id);
-        console.log(localStorage.getItem("user_name"));
-        var x= Number(film.id)+1;
-        router.load("films/"+x+"/affiche");
-        var params = {"like": {"user_name":localStorage.getItem("user_name")}};
+    window.localStorage.setItem('film', film.id);
+    console.log(film.id);
+    console.log(localStorage.getItem("user_name"));
+    var x= Number(film.id)+1;
+    router.load("films/"+x+"/affiche");
+    var params = {"like": {"user_name":localStorage.getItem("user_name")}};
         $.post("http://whichmovie.herokuapp.com/films/" + film.id + "/like.json", params, function(response){
             var array = $.map(response.other_likes, function(value, index) {
                     return [value];
             });
+
+            var bool = false;
+
             for (i = 0; i < array.length; i++) {
+
+                if (array[i].user_name==localStorage.getItem("friend_1")){
                         bool = true;
                         if(confirm("Do you wish to go with "+ array[i].user_name + " ?")){
                             var y = x-1;
@@ -109,7 +114,7 @@ var AfficheView = function (film) {
                         else{
                             router.load("films/"+x+"/affiche");
                         };
-   
+                };   
                 if (array[i].user_name==localStorage.getItem("friend_2")){
                         bool = true;
                         if(confirm("Do you wish to go with "+ array[i].user_name + " ?")){
@@ -117,9 +122,11 @@ var AfficheView = function (film) {
                             router.load("films/"+y+"/affiche/cinemas");}
                         else{
                             router.load("films/"+x+"/affiche");
-                            };
+                        };
                 };            
             };
+
+            if (bool==false){router.load("films/"+x+"/affiche");};
             
         });
     };
