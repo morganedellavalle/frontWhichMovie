@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link href="assets/ratchet/css/ratchet.css" rel="stylesheet">
 	<link href="assets/css/bootstrap.css" rel="stylesheet">
   <link href="assets/css/styles.css" rel="stylesheet">
   <link href="assets/css/tinder.css" rel="stylesheet">
@@ -33,12 +32,12 @@
 
 <script id="film-list-tpl" type="text/template">
   <br>
-    <ul class="table-view">
+    <ul class="table-view" >
         {{#each this}}
-        <li class="table-view-cell media">
+        <li class="table-view-cell media" >
           <a href="#films/{{ id }}/affiche">
               <center><img class="media-object pull-left" style="width:100px; height:100px" src="{{affiche}}"> </center>
-              <div class="media-body">
+              <div class="media-body" >
                   <strong> {{titre}} </strong>  
                   <small> de {{realisateur}} </small>
                   <p>{{acteurs}}</p>
@@ -48,6 +47,7 @@
         </li>
         {{/each}}
     </ul>
+    </div>
 </script>
 
 <!-- Vue affiche + navbar -->
@@ -187,8 +187,8 @@
 </script>
 
 <script id="likes-tpl" type="text/template">
+  <div class= media>
     <h1> {{number}} </h1>
-    <div>
     <center>
       {{#each this}}
       <p style="color:black"> <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
@@ -198,6 +198,7 @@
         <span class="glyphicon glyphicon-repeat" aria-hidden="true"></span></a>
         </nav>
       </center>
+      </div>
 </script>
 
 

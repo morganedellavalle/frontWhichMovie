@@ -18,11 +18,7 @@
 
     servicecine.initialize().done(function () {
 
-<<<<<<< Updated upstream
         router.addRoute('films/:id/affiche/cinemas', function() {
-=======
-        router.addRoute('cinemas', function() {
->>>>>>> Stashed changes
             servicecine.findAll().done(function(cinemas) {
                 $('body').html(new CinemaListView(cinemas).render().$el);
             });
